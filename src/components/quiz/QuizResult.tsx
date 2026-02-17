@@ -4,7 +4,7 @@ import { motion } from "motion/react";
 import { Button } from "@/components/base/buttons/button";
 import Link from "next/link";
 import { cx } from "@/utils/cx";
-import { RefreshCw, Home, CheckCircle2, XCircle, Award } from "lucide-react";
+import { RefreshCw01, Home01, CheckCircle, XCircle, Award01 } from "@untitledui/icons";
 
 interface QuizResultProps {
   score: number;
@@ -85,7 +85,7 @@ export const QuizResult = ({ score, total, onRestart }: QuizResultProps) => {
               transition={{ delay: 0.5 }}
               className="absolute -bottom-2 -right-2 bg-yellow-400 text-yellow-900 p-2 rounded-full shadow-lg border-4 border-white dark:border-gray-800"
             >
-              <Award className="w-6 h-6" />
+              <Award01 className="w-6 h-6" />
             </motion.div>
           )}
         </div>
@@ -100,7 +100,7 @@ export const QuizResult = ({ score, total, onRestart }: QuizResultProps) => {
       <div className="grid grid-cols-2 gap-4 w-full mb-8">
         <div className="bg-success-50 dark:bg-success-900/20 p-4 rounded-2xl border border-success-100 dark:border-success-800/30 flex flex-col items-center">
           <div className="flex items-center gap-2 mb-1 text-success-700 dark:text-success-400 font-semibold text-sm uppercase tracking-wide">
-            <CheckCircle2 className="w-4 h-4" />
+            <CheckCircle className="w-4 h-4" />
             <span>To'g'ri</span>
           </div>
           <span className="text-2xl font-bold text-success-600 dark:text-success-400">{score}</span>
@@ -119,7 +119,7 @@ export const QuizResult = ({ score, total, onRestart }: QuizResultProps) => {
           onClick={onRestart}
           size="xl"
           className="w-full bg-brand-600 hover:bg-brand-700 active:bg-brand-800 text-white border-transparent shadow-lg shadow-brand-500/30 font-semibold h-14"
-          iconLeading={<RefreshCw className="w-5 h-5" />}
+          iconLeading={<RefreshCw01 className="w-5 h-5" />}
         >
           Qayta Boshlash
         </Button>
@@ -128,7 +128,7 @@ export const QuizResult = ({ score, total, onRestart }: QuizResultProps) => {
             size="lg"
             color="secondary"
             className="w-full bg-white dark:bg-gray-700/50 hover:bg-gray-50 dark:hover:bg-gray-700 border border-border-secondary text-primary font-medium h-12"
-            iconLeading={<Home className="w-4 h-4" />}
+            iconLeading={<Home01 className="w-4 h-4" />}
           >
             Bosh Sahifa
           </Button>

@@ -4,7 +4,7 @@ import { motion } from "motion/react";
 import { Button } from "@/components/base/buttons/button";
 import { QuizQuestion } from "@/types/quiz";
 import { cx } from "@/utils/cx";
-import { ChevronLeft, ChevronRight } from "lucide-react";
+import { ChevronLeft, ChevronRight } from "@untitledui/icons";
 
 interface QuizCardProps {
   question: QuizQuestion;
