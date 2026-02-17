@@ -1,0 +1,1475 @@
+{
+  "title": "1-Kurs Sport To'garaklarini Tashkil Qilish",
+  "questions": [
+    {
+      "question": "Gimnastika to`garaklarida umumiy tayyorgarlik mashqlarining asosiy maqsadi nimadan iborat?",
+      "correctAnswer": "organizmni jismoniy yuklamalarga tayyorlash va harakat imkoniyatlarini kengaytirish",
+      "options": [
+        "murakkab texnik elementlarni o`rgatish",
+        "musobaqaga tayyorgarlikni ta`minlash",
+        "organizmni jismoniy yuklamalarga tayyorlash va harakat imkoniyatlarini kengaytirish",
+        "sportchilarni saralash jarayonini tashkil etish"
+      ]
+    },
+    {
+      "question": "Umumiy tayyorgarlik mashqlari gimnastika to`garagida qaysi bosqichda ustuvor hisoblanadi?",
+      "correctAnswer": "boshlang`ich va moslashuv davrida",
+      "options": [
+        "boshlang`ich va moslashuv davrida",
+        "faoliyat yakunida",
+        "tiklanish jarayonida",
+        "musobaqa oldi bosqichida"
+      ]
+    },
+    {
+      "question": "Maxsus tayyorgarlik mashqlari nimasi bilan umumiy mashqlardan farq qiladi?",
+      "correctAnswer": "gimnastika texnik elementlariga bevosita yo`naltirilganligi bilan",
+      "options": [
+        "gimnastika texnik elementlariga bevosita yo`naltirilganligi bilan",
+        "yuklamasining pastligi bilan",
+        "barcha sport turlari uchun bir xil bo`lishi bilan",
+        "faqat sog`lomlashtirishga xizmat qilishi bilan"
+      ]
+    },
+    {
+      "question": "Gimnastika to`garagida mashg`ulot rejasini tuzishda qaysi omil eng muhim hisoblanadi?",
+      "correctAnswer": "ishtirokchilarning yoshi va jismoniy tayyorgarlik darajasi",
+      "options": [
+        "ishtirokchilarning yoshi va jismoniy tayyorgarlik darajasi",
+        "mashg`ulot rahbarining shaxsiy tajribasi",
+        "sport zali maydonining kattaligi",
+        "mashg`ulot vaqtidagi ob-havo"
+      ]
+    },
+    {
+      "question": "Umumiy tayyorgarlik mashqlariga qaysi mashqlar guruhi kiradi?",
+      "correctAnswer": "kuch, chaqqonlik va egiluvchanlikni rivojlantiruvchi mashqlar",
+      "options": [
+        "murakkab akrobatik kombinatsiyalar",
+        "sakrash elementlari",
+        "kuch, chaqqonlik va egiluvchanlikni rivojlantiruvchi mashqlar",
+        "musobaqa mashqlari"
+      ]
+    },
+    {
+      "question": "Maxsus tayyorgarlik mashqlarini tanlashda qaysi mezon asosiy hisoblanadi?",
+      "correctAnswer": "o`rganiladigan gimnastik elementlarning xususiyati",
+      "options": [
+        "mashg`ulot joyining jihozlanishi",
+        "mashg`ulot davomiyligi",
+        "ishtirokchilar soni",
+        "o`rganiladigan gimnastik elementlarning xususiyati"
+      ]
+    },
+    {
+      "question": "Gimnastika to`garagida mashg`ulotlarning ketma-ketligi qanday bo`lishi maqsadga muvofiq?",
+      "correctAnswer": "umumiy tayyorgarlikdan maxsus tayyorgarlikka o`tish",
+      "options": [
+        "mashqlarni tasodifiy tartibda bajarish",
+        "faqat maxsus mashqlar bilan cheklanish",
+        "darhol murakkab mashqlardan boshlash",
+        "umumiy tayyorgarlikdan maxsus tayyorgarlikka o`tish"
+      ]
+    },
+    {
+      "question": "Umumiy tayyorgarlik mashqlari orqali qaysi sifatlar shakllantiriladi?",
+      "correctAnswer": "jismoniy rivojlanishning asosiy ko`rsatkichlari",
+      "options": [
+        "tezkorlik qobiliyati",
+        "musobaqa tajribasi",
+        "texnik murakkablik darajasi",
+        "jismoniy rivojlanishning asosiy ko`rsatkichlari"
+      ]
+    },
+    {
+      "question": "Gimnastika to`garagida xavfsizlikni ta`minlash uchun birinchi navbatda nima e`tiborga olinadi?",
+      "correctAnswer": "mashqlarni to`g`ri va ketma-ket o`rgatish",
+      "options": [
+        "mashqlarni to`g`ri va ketma-ket o`rgatish",
+        "mashg`ulot vaqtini qisqartirish",
+        "ishtirokchilar sonini ko`paytirish",
+        "mashg`ulot tezligini oshirish"
+      ]
+    },
+    {
+      "question": "Gimnastika to`garagida yuklama qanday tartibda oshirilishi lozim?",
+      "correctAnswer": "bosqichma-bosqich va tizimli ravishda",
+      "options": [
+        "tasodifiy ravishda",
+        "musobaqa davrida",
+        "bosqichma-bosqich va tizimli ravishda",
+        "bir mashg`ulotda maksimal darajada"
+      ]
+    },
+    {
+      "question": "Umumiy tayyorgarlik mashqlarini bajarishda qaysi tamoyil muhim hisoblanadi?",
+      "correctAnswer": "muntazamlik va izchillik",
+      "options": [
+        "murakkablikni keskin oshirish",
+        "qisqa muddatlilik",
+        "muntazamlik va izchillik",
+        "tezkor natijaga erishish"
+      ]
+    },
+    {
+      "question": "Maxsus tayyorgarlik mashqlarining samaradorligi nimaga bog`liq?",
+      "correctAnswer": "ularning gimnastika texnikasiga mosligiga",
+      "options": [
+        "mashqlar sonining ko`pligiga",
+        "ishtirokchilarning faqat yoshiga",
+        "ularning gimnastika texnikasiga mosligiga",
+        "mashg`ulot joyining bezagiga"
+      ]
+    },
+    {
+      "question": "Gimnastika to`garagida mashg`ulotlarni tashkil etishda pedagogik yondashuv nimani ta`minlaydi?",
+      "correctAnswer": "o`rgatish jarayonining samarali va xavfsiz bo`lishini",
+      "options": [
+        "mashg`ulot vaqtini qisqartirishni",
+        "o`rgatish jarayonining samarali va xavfsiz bo`lishini",
+        "jismoniy yuklamani oshirishni",
+        "sport natijasini darhol oshirishni"
+      ]
+    },
+    {
+      "question": "Umumiy va maxsus tayyorgarlik mashqlarining uyg`unligi nimaga xizmat qiladi?",
+      "correctAnswer": "gimnastik tayyorgarlikning kompleks rivojlanishiga",
+      "options": [
+        "gimnastik tayyorgarlikning kompleks rivojlanishiga",
+        "mashg`ulotni soddalashtirishga",
+        "yuklamani kamaytirishga",
+        "faoliyatni cheklashga"
+      ]
+    },
+    {
+      "question": "Yengil atletika to`garagida umumiy tayyorgarlik mashqlarining asosiy vazifasi nimadan iborat?",
+      "correctAnswer": "sportchilarning jismoniy imkoniyatlarini har tomonlama rivojlantirish",
+      "options": [
+        "sportchilarning jismoniy imkoniyatlarini har tomonlama rivojlantirish",
+        "natijalarni baholash",
+        "faqat tezlik ko`rsatkichlarini oshirish",
+        "musobaqa qoidalarini o`rgatish"
+      ]
+    },
+    {
+      "question": "Umumiy tayyorgarlik mashqlari asosan qaysi davrda ko`proq qo`llaniladi?",
+      "correctAnswer": "dastlabki va tayyorgarlik bosqichlarida",
+      "options": [
+        "tiklanish haftasida",
+        "faoliyat yakunida",
+        "dastlabki va tayyorgarlik bosqichlarida",
+        "musobaqa jarayonida"
+      ]
+    },
+    {
+      "question": "Maxsus tayyorgarlik mashqlarining asosiy xususiyati nimada namoyon bo`ladi?",
+      "correctAnswer": "yengil atletika turlariga xos harakatlarga yo`naltirilganligida",
+      "options": [
+        "barcha sport turlarida bir xil bajarilishida",
+        "sog`lomlashtirishga xizmat qilishida",
+        "yuklamaning past bo`lishida",
+        "yengil atletika turlariga xos harakatlarga yo`naltirilganligida"
+      ]
+    },
+    {
+      "question": "Yengil atletika to`garagini tashkil etishda mashg`ulot mazmuni nimaga mos bo`lishi lozim?",
+      "correctAnswer": "ishtirokchilarning jismoniy tayyorgarlik darajasiga",
+      "options": [
+        "ishtirokchilarning jismoniy tayyorgarlik darajasiga",
+        "sport inshootining tashqi ko`rinishiga",
+        "mashg`ulot davomiyligiga",
+        "mashg`ulot rahbarining shaxsiy xohishiga"
+      ]
+    },
+    {
+      "question": "Umumiy tayyorgarlik mashqlari tarkibiga qaysi mashqlar kiradi?",
+      "correctAnswer": "kuch, chidamlilik va harakatchanlikni rivojlantiruvchi mashqlar",
+      "options": [
+        "natija sinovlari",
+        "faqat start texnikasi mashqlari",
+        "musobaqa yugurishlari",
+        "kuch, chidamlilik va harakatchanlikni rivojlantiruvchi mashqlar"
+      ]
+    },
+    {
+      "question": "Maxsus tayyorgarlik mashqlari qaysi maqsadga xizmat qiladi?",
+      "correctAnswer": "yengil atletika texnikasini shakllantirish va takomillashtirishga",
+      "options": [
+        "yengil atletika texnikasini shakllantirish va takomillashtirishga",
+        "mashg`ulot vaqtini qisqartirishga",
+        "ishtirokchilar sonini ko`paytirishga",
+        "dam olish jarayonini tashkil etishga"
+      ]
+    },
+    {
+      "question": "Yengil atletika to`garagida mashg`ulotlar qanday ketma-ketlikda tashkil etiladi?",
+      "correctAnswer": "umumiy mashqlardan maxsus mashqlarga bosqichma-bosqich o`tib",
+      "options": [
+        "faqat maxsus mashqlar bilan cheklanib",
+        "tasodifiy tartibda",
+        "umumiy mashqlardan maxsus mashqlarga bosqichma-bosqich o`tib",
+        "darhol murakkab mashqlardan boshlanib"
+      ]
+    },
+    {
+      "question": "Umumiy tayyorgarlik mashqlari orqali qaysi jismoniy sifatlar rivojlantiriladi?",
+      "correctAnswer": "kuch, tezkorlik, chidamlilik va egiluvchanlik",
+      "options": [
+        "texnik murakkablik darajasi",
+        "muvozanat qobiliyati",
+        "kuch, tezkorlik, chidamlilik va egiluvchanlik",
+        "musobaqa tajribasi"
+      ]
+    },
+    {
+      "question": "Yengil atletika to`garagida xavfsizlikni ta`minlashda qaysi omil muhim hisoblanadi?",
+      "correctAnswer": "yuklamaning me`yoriy va bosqichma-bosqich berilishi",
+      "options": [
+        "yuklamaning me`yoriy va bosqichma-bosqich berilishi",
+        "ishtirokchilar sonini ko`paytirish",
+        "mashg`ulot tezligini oshirish",
+        "mashg`ulot vaqtini qisqartirish"
+      ]
+    },
+    {
+      "question": "Maxsus tayyorgarlik mashqlari qaysi davrda ustuvor ahamiyat kasb etadi?",
+      "correctAnswer": "texnik va musobaqaga yaqin tayyorgarlik bosqichida",
+      "options": [
+        "faoliyat yakunida",
+        "boshlang`ich moslashuv davrida",
+        "texnik va musobaqaga yaqin tayyorgarlik bosqichida",
+        "dam olish bosqichida"
+      ]
+    },
+    {
+      "question": "Yengil atletika to`garagida yuklama qanday tamoyil asosida oshiriladi?",
+      "correctAnswer": "izchillik va tizimlilik asosida",
+      "options": [
+        "bir martalik maksimal yuklama bilan",
+        "musobaqa kunlari",
+        "tasodifiy ravishda",
+        "izchillik va tizimlilik asosida"
+      ]
+    },
+    {
+      "question": "Umumiy tayyorgarlik mashqlarining samaradorligi nimaga bog`liq?",
+      "correctAnswer": "ularning muntazam va rejalashtirilgan holda bajarilishiga",
+      "options": [
+        "ularning muntazam va rejalashtirilgan holda bajarilishiga",
+        "mashg`ulot joyining bezagiga",
+        "sportchilarning yoshiga",
+        "mashqlar sonining ko`pligiga"
+      ]
+    },
+    {
+      "question": "Yengil atletika to`garagida pedagogik yondashuv nimani ta`minlaydi?",
+      "correctAnswer": "mashg`ulot jarayonining samarali va xavfsiz tashkil etilishini",
+      "options": [
+        "mashg`ulot jarayonining samarali va xavfsiz tashkil etilishini",
+        "natijani qisqa vaqtda oshirishni",
+        "yuklamani keskin ko`paytirishni",
+        "mashg`ulotlarni soddalashtirishni"
+      ]
+    },
+    {
+      "question": "Umumiy va maxsus tayyorgarlik mashqlarining uyg`unligi qanday natija beradi?",
+      "correctAnswer": "yengil atletika tayyorgarligining kompleks rivojlanishiga",
+      "options": [
+        "texnik mashqlarni cheklashga",
+        "yengil atletika tayyorgarligining kompleks rivojlanishiga",
+        "mashg`ulot hajmini kamaytirishga",
+        "faoliyatni qisqartirishga"
+      ]
+    },
+    {
+      "question": "Stol tennisi to`garagini tashkil etishdan ko`zlangan asosiy maqsad nima?",
+      "correctAnswer": "o`quvchilarda stol tennisi bo`yicha texnik va taktik ko`nikmalarni shakllantirish",
+      "options": [
+        "sport jihozlarini saqlash",
+        "o`quvchilarda stol tennisi bo`yicha texnik va taktik ko`nikmalarni shakllantirish",
+        "faqat bo`sh vaqtni mazmunli o`tkazishni ta`minlash",
+        "musobaqalar sonini ko`paytirish"
+      ]
+    },
+    {
+      "question": "Stol tennisi to`garagiga qatnashuvchilarni tanlashda qaysi omil ustuvor hisoblanadi?",
+      "correctAnswer": "ishtirokchilarning sog`lig`i va jismoniy tayyorgarlik darajasi",
+      "options": [
+        "sport kiyimining mavjudligi",
+        "mashg`ulot vaqtining qulayligi",
+        "ularning musobaqa tajribasi",
+        "ishtirokchilarning sog`lig`i va jismoniy tayyorgarlik darajasi"
+      ]
+    },
+    {
+      "question": "Stol tennisi to`garagida mashg`ulotlar qanday shaklda tashkil etiladi?",
+      "correctAnswer": "rejalashtirilgan va bosqichma-bosqich mashg`ulotlar asosida",
+      "options": [
+        "erkin va tartibsiz faoliyat shaklida",
+        "mustaqil mashqlar tarzida",
+        "musobaqa o`yinlari ko`rinishida",
+        "rejalashtirilgan va bosqichma-bosqich mashg`ulotlar asosida"
+      ]
+    },
+    {
+      "question": "Stol tennisi to`garagida umumiy tayyorgarlik mashqlari nimaga xizmat qiladi?",
+      "correctAnswer": "harakat tezligi, muvofiqlik va chidamlilikni rivojlantirishga",
+      "options": [
+        "faqat zarba texnikasini o`rgatishga",
+        "natijalarni baholashga",
+        "o`yin qoidalarini tushuntirishga",
+        "harakat tezligi, muvofiqlik va chidamlilikni rivojlantirishga"
+      ]
+    },
+    {
+      "question": "Maxsus tayyorgarlik mashqlarining asosiy vazifasi nimadan iborat?",
+      "correctAnswer": "stol tennisi texnik elementlarini takomillashtirishdan",
+      "options": [
+        "umumiy jismoniy mashqlarni bajarishdan",
+        "dam olishni tashkil etishdan",
+        "nazariy bilimlarni o`rgatishdan",
+        "stol tennisi texnik elementlarini takomillashtirishdan"
+      ]
+    },
+    {
+      "question": "Stol tennisi to`garagida mashg`ulot rejasini tuzishda nimalar hisobga olinadi?",
+      "correctAnswer": "ishtirokchilarning yoshi va tayyorgarlik darajasi",
+      "options": [
+        "sport zalining tashqi ko`rinishi",
+        "mashg`ulotlar soni",
+        "ishtirokchilarning yoshi va tayyorgarlik darajasi",
+        "mashg`ulot rahbarining shaxsiy xohishi"
+      ]
+    },
+    {
+      "question": "Stol tennisi mashg`ulotlarida xavfsizlikni ta`minlash uchun qaysi jihat muhim?",
+      "correctAnswer": "texnik mashqlarni to`g`ri va izchil o`rgatish",
+      "options": [
+        "texnik mashqlarni to`g`ri va izchil o`rgatish",
+        "ishtirokchilar sonini ko`paytirish",
+        "o`yin tezligini oshirish",
+        "mashg`ulot vaqtini qisqartirish"
+      ]
+    },
+    {
+      "question": "Stol tennisi to`garagida mashg`ulotlarning izchilligi nimani ta`minlaydi?",
+      "correctAnswer": "o`quvchilarning texnik rivojlanishini",
+      "options": [
+        "dam olish vaqtining ko`payishini",
+        "jihozlardan kam foydalanishni",
+        "o`quvchilarning texnik rivojlanishini",
+        "musobaqa sonining ortishini"
+      ]
+    },
+    {
+      "question": "Umumiy tayyorgarlik mashqlari qaysi jismoniy sifatlarni rivojlantiradi?",
+      "correctAnswer": "tezkorlik, muvofiqlik va chaqqonlikni",
+      "options": [
+        "faqat kuch ko`rsatkichlarini",
+        "texnik murakkablikni",
+        "tezkorlik, muvofiqlik va chaqqonlikni",
+        "musobaqa tajribasini"
+      ]
+    },
+    {
+      "question": "Maxsus tayyorgarlik mashqlari qaysi davrda ko`proq qo`llaniladi?",
+      "correctAnswer": "texnik o`rgatish va takomillashtirish bosqichida",
+      "options": [
+        "texnik o`rgatish va takomillashtirish bosqichida",
+        "boshlang`ich tanishtirish davrida",
+        "mashg`ulot yakunida",
+        "dam olish haftasida"
+      ]
+    },
+    {
+      "question": "Stol tennisi to`garagida yuklama qanday berilishi lozim?",
+      "correctAnswer": "bosqichma-bosqich va me`yoriy tarzda",
+      "options": [
+        "musobaqa oldidan",
+        "bir mashg`ulotda maksimal darajada",
+        "bosqichma-bosqich va me`yoriy tarzda",
+        "tasodifiy ravishda"
+      ]
+    },
+    {
+      "question": "Stol tennisi to`garagida pedagogik yondashuv nimani ta`minlaydi?",
+      "correctAnswer": "o`rgatish jarayonining samaradorligini",
+      "options": [
+        "o`rgatish jarayonining samaradorligini",
+        "mashg`ulot hajmini kamaytirishni",
+        "natijani tezda oshirishni",
+        "texnikani cheklashni"
+      ]
+    },
+    {
+      "question": "To`garak mashg`ulotlarida texnik xatolarni tuzatish qaysi yo`l bilan amalga oshiriladi?",
+      "correctAnswer": "tahlil va amaliy mashqlar orqali",
+      "options": [
+        "faqat nazariy tushuntirish bilan",
+        "musobaqa o`yinlari orqali",
+        "mustaqil mashg`ulot bilan",
+        "tahlil va amaliy mashqlar orqali"
+      ]
+    },
+    {
+      "question": "Stol tennisi to`garagida mashg`ulotlarning samaradorligi nimaga bog`liq?",
+      "correctAnswer": "rejalashtirish va muntazamlikka",
+      "options": [
+        "mashg`ulot vaqtining qisqaligiga",
+        "rejalashtirish va muntazamlikka",
+        "ishtirokchilar yoshiga",
+        "jihozlar sonining ko`pligiga"
+      ]
+    },
+    {
+      "question": "Stol tennisi to`garaklarining to`g`ri tashkil etilishi qanday natija beradi?",
+      "correctAnswer": "sportchilarning texnik va jismoniy rivojlanishiga",
+      "options": [
+        "yuklamani kamaytirishga",
+        "mashg`ulotlarni soddalashtirishga",
+        "sportchilarning texnik va jismoniy rivojlanishiga",
+        "faoliyatni cheklashga"
+      ]
+    },
+    {
+      "question": "Futbol to`garaklarida texnik tayyorgarlikni takomillashtirishdan asosiy maqsad nima?",
+      "correctAnswer": "o`yinchilarda to`p bilan ishlash ko`nikmalarini samarali shakllantirish",
+      "options": [
+        "jismoniy yuklamani oshirish",
+        "musobaqalar sonini ko`paytirish",
+        "o`yinchilarda to`p bilan ishlash ko`nikmalarini samarali shakllantirish",
+        "o`yin vaqtini uzaytirish"
+      ]
+    },
+    {
+      "question": "Futbol texnik mashqlarini o`rgatishda qaysi tamoyil muhim hisoblanadi?",
+      "correctAnswer": "oddiydan murakkabga tomon bosqichma-bosqichlik",
+      "options": [
+        "mashqlarni tasodifiy tanlash",
+        "oddiydan murakkabga tomon bosqichma-bosqichlik",
+        "fmurakkab mashqlardan boshlash",
+        "natijaga tez erishish"
+      ]
+    },
+    {
+      "question": "Futbol o`yin mashqlarida taktik tayyorgarlik nimaga yo`naltiriladi?",
+      "correctAnswer": "o`yin vaziyatlarini to`g`ri anglash va qaror qabul qilishga",
+      "options": [
+        "jismoniy sifatlarni rivojlantirishga",
+        "musobaqa jadvalini tuzishga",
+        "o`yin vaziyatlarini to`g`ri anglash va qaror qabul qilishga",
+        "faqat tezlikni oshirishga"
+      ]
+    },
+    {
+      "question": "Futbol to`garagini tashkil etishda mashg`ulot mazmuni nimaga moslashtiriladi?",
+      "correctAnswer": "ishtirokchilarning yoshi va tayyorgarlik darajasiga",
+      "options": [
+        "sport maydonining joylashuviga",
+        "mashg`ulot rahbarining shaxsiy tajribasiga",
+        "mashg`ulot davomiyligiga",
+        "ishtirokchilarning yoshi va tayyorgarlik darajasiga"
+      ]
+    },
+    {
+      "question": "Texnik mashqlarni o`rgatishda qaysi usul samaraliroq hisoblanadi?",
+      "correctAnswer": "takroriy va nazoratli mashqlar usuli",
+      "options": [
+        "nazariy tushuntirish bilan cheklanish",
+        "musobaqa o`yinlari orqali",
+        "faqat erkin o`yin usuli",
+        "takroriy va nazoratli mashqlar usuli"
+      ]
+    },
+    {
+      "question": "Futbol taktik mashqlarining asosiy vazifasi nimadan iborat?",
+      "correctAnswer": "jamoaviy va individual o`yin harakatlarini uyg`unlashtirishdan",
+      "options": [
+        "himoya harakatlarini o`rgatishdan",
+        "jamoaviy va individual o`yin harakatlarini uyg`unlashtirishdan",
+        "zarba kuchini oshirishdan",
+        "mashg`ulot vaqtini qisqartirishdan"
+      ]
+    },
+    {
+      "question": "Futbol to`garagida mashg`ulotlar qanday ketma-ketlikda tashkil etiladi?",
+      "correctAnswer": "texnik, taktik va o`yin mashqlarini izchil uyg`unlashtirib",
+      "options": [
+        "texnik, taktik va o`yin mashqlarini izchil uyg`unlashtirib",
+        "tasodifiy mashqlar orqali",
+        "faqat jismoniy mashqlar bilan",
+        "o`yin mashqlari asosida"
+      ]
+    },
+    {
+      "question": "Futbol o`yin mashqlarida kichik guruhlar bilan ishlash nimani ta`minlaydi?",
+      "correctAnswer": "o`yinchilarning faolligi va o`zaro hamkorligini",
+      "options": [
+        "mashg`ulot tezligining pasayishini",
+        "jihozlardan kam foydalanishni",
+        "yuklamaning kamayishini",
+        "o`yinchilarning faolligi va o`zaro hamkorligini"
+      ]
+    },
+    {
+      "question": "Texnik va taktik mashqlarni uyg`unlashtirish qanday natija beradi?",
+      "correctAnswer": "o`yin samaradorligining oshishiga",
+      "options": [
+        "o`yin vaqtini qisqartirishga",
+        "faoliyatni cheklashga",
+        "mashg`ulot hajmining kamayishiga",
+        "o`yin samaradorligining oshishiga"
+      ]
+    },
+    {
+      "question": "Futbol to`garagida xavfsizlikni ta`minlashda qaysi jihat muhim?",
+      "correctAnswer": "mashqlarni to`g`ri tashkil etish va yuklamani me`yorlash",
+      "options": [
+        "mashqlarni to`g`ri tashkil etish va yuklamani me`yorlash",
+        "mashg`ulot vaqtini uzaytirish",
+        "o`yin tezligini oshirish",
+        "ishtirokchilar sonini ko`paytirish"
+      ]
+    },
+    {
+      "question": "Taktik mashqlarni o`rgatishda qaysi vosita samarali hisoblanadi?",
+      "correctAnswer": "o`yin vaziyatlariga asoslangan mashqlar",
+      "options": [
+        "erkin yugurish mashqlari",
+        "jismoniy tayyorgarlik mashqlari",
+        "faqat nazariy ma`ruza",
+        "o`yin vaziyatlariga asoslangan mashqlar"
+      ]
+    },
+    {
+      "question": "Futbol to`garagida yuklama qanday tamoyil asosida oshiriladi?",
+      "correctAnswer": "tizimlilik va izchillik asosida",
+      "options": [
+        "tizimlilik va izchillik asosida",
+        "bir mashg`ulotda maksimal darajada",
+        "faqat musobaqa oldidan",
+        "tasodifiy tarzda"
+      ]
+    },
+    {
+      "question": "Texnik xatolarni bartaraf etishda qaysi yondashuv muhim?",
+      "correctAnswer": "tahlil va individual tuzatish mashqlari",
+      "options": [
+        "faqat o`yin orqali",
+        "mashg`ulotni to`xtatish orqali",
+        "tahlil va individual tuzatish mashqlari",
+        "nazariy topshiriq bilan"
+      ]
+    },
+    {
+      "question": "Futbol to`garagida pedagogik yondashuv nimani ta`minlaydi?",
+      "correctAnswer": "o`rgatish jarayonining samarali va rejalashtirilgan bo`lishini",
+      "options": [
+        "o`rgatish jarayonining samarali va rejalashtirilgan bo`lishini",
+        "natijani qisqa vaqtda oshirishni",
+        "yuklamani keskin ko`paytirishni",
+        "mashg`ulotlarni soddalashtirishni"
+      ]
+    },
+    {
+      "question": "Futbol to`garaklarini to`g`ri tashkil etish qanday samara beradi?",
+      "correctAnswer": "o`yinchilarning texnik-taktik tayyorgarligi kompleks rivojlanishiga",
+      "options": [
+        "o`yinchilarning texnik-taktik tayyorgarligi kompleks rivojlanishiga",
+        "o`yin sonini kamaytirishga",
+        "mashg`ulot hajmining kamayishiga",
+        "faoliyatni cheklashga"
+      ]
+    },
+    {
+      "question": "Basketbol to`garaklarida texnik tayyorgarlikni takomillashtirishning asosiy maqsadi nimadan iborat?",
+      "correctAnswer": "o`yinchilarda asosiy texnik elementlarni samarali shakllantirish",
+      "options": [
+        "o`yinchilarda asosiy texnik elementlarni samarali shakllantirish",
+        "o`yin vaqtini uzaytirish",
+        "musobaqalar sonini ko`paytirish",
+        "jismoniy yuklamani oshirish"
+      ]
+    },
+    {
+      "question": "Basketbol texnik mashqlarini o`rgatishda qaysi tamoyil ustuvor hisoblanadi?",
+      "correctAnswer": "oddiy harakatlardan murakkab harakatlarga bosqichma-bosqich o`tish",
+      "options": [
+        "faqat murakkab mashqlardan boshlash",
+        "oddiy harakatlardan murakkab harakatlarga bosqichma-bosqich o`tish",
+        "mashqlarni tasodifiy tanlash",
+        "natijani tezda olish"
+      ]
+    },
+    {
+      "question": "Basketbol o`yin mashqlarida taktik tayyorgarlik nimaga yo`naltiriladi?",
+      "correctAnswer": "o`yin vaziyatlarini tahlil qilish va to`g`ri qaror qabul qilishga",
+      "options": [
+        "o`yin vaziyatlarini tahlil qilish va to`g`ri qaror qabul qilishga",
+        "mashg`ulot vaqtini qisqartirishga",
+        "kuch mashqlarini bajarishg",
+        "tezlik ko`rsatkichlarini oshirishga"
+      ]
+    },
+    {
+      "question": "Basketbol to`garagini tashkil etishda mashg`ulot mazmuni nimaga moslashtirilishi lozim?",
+      "correctAnswer": "ishtirokchilarning yoshi va tayyorgarlik darajasiga",
+      "options": [
+        "mashg`ulot davomiyligiga",
+        "mashg`ulot rahbarining shaxsiy xohishiga",
+        "sport zalining bezagiga",
+        "ishtirokchilarning yoshi va tayyorgarlik darajasiga"
+      ]
+    },
+    {
+      "question": "Texnik mashqlarni o`rgatishda qaysi usul samarali hisoblanadi?",
+      "correctAnswer": "takroriy va nazoratli mashqlar usuli",
+      "options": [
+        "takroriy va nazoratli mashqlar usuli",
+        "musobaqa o`yinlari orqali",
+        "erkin o`yin usuli",
+        "nazariy ma`ruza bilan cheklanish"
+      ]
+    },
+    {
+      "question": "Basketbol taktik mashqlarining asosiy vazifasi nimadan iborat?",
+      "correctAnswer": "jamoaviy va individual o`yin harakatlarini uyg`unlashtirishdan",
+      "options": [
+        "hujum harakatlarini rivojlantirishdan",
+        "zarba kuchini oshirishdan",
+        "mashg`ulot hajmini kamaytirishdan",
+        "jamoaviy va individual o`yin harakatlarini uyg`unlashtirishdan"
+      ]
+    },
+    {
+      "question": "Basketbol to`garagida mashg`ulotlar qanday ketma-ketlikda tashkil etiladi?",
+      "correctAnswer": "texnik, taktik va o`yin mashqlarini izchil uyg`unlashtirib",
+      "options": [
+        "tasodifiy mashqlar yordamida",
+        "texnik, taktik va o`yin mashqlarini izchil uyg`unlashtirib",
+        "o`yin mashqlari asosida",
+        "faqat jismoniy mashqlar bilan"
+      ]
+    },
+    {
+      "question": "Kichik guruhlarda basketbol mashqlarini bajarish nimani ta`minlaydi?",
+      "correctAnswer": "har bir o`yinchining faolligi va ishtirokini oshirishni",
+      "options": [
+        "jihozlardan kam foydalanishni",
+        "yuklamani keskin kamaytirishni",
+        "har bir o`yinchining faolligi va ishtirokini oshirishni",
+        "mashg`ulot tezligini pasaytirishni"
+      ]
+    },
+    {
+      "question": "Basketbol to`garagida xavfsizlikni ta`minlash uchun qaysi jihat muhim?",
+      "correctAnswer": "mashqlarni to`g`ri tashkil etish va yuklamani me`yorlash",
+      "options": [
+        "o`yin tezligini maksimal darajada oshirish",
+        "mashqlarni to`g`ri tashkil etish va yuklamani me`yorlash",
+        "mashg`ulot vaqtini uzaytirish",
+        "ishtirokchilar sonini ko`paytirish"
+      ]
+    },
+    {
+      "question": "Taktik mashqlarni o`rgatishda qaysi vosita samaraliroq hisoblanadi?",
+      "correctAnswer": "o`yin vaziyatlariga asoslangan mashqlar",
+      "options": [
+        "umumiy jismoniy mashqlar",
+        "erkin yugurish mashqlari",
+        "o`yin vaziyatlariga asoslangan mashqlar",
+        "nazariy tushuntirishlar"
+      ]
+    },
+    {
+      "question": "Basketbol to`garagida yuklama qanday tamoyil asosida oshiriladi?",
+      "correctAnswer": "izchillik va tizimlilik asosida",
+      "options": [
+        "bir mashg`ulotda maksimal darajada",
+        "tasodifiy tarzda",
+        "izchillik va tizimlilik asosida",
+        "faqat musobaqa kunlari"
+      ]
+    },
+    {
+      "question": "Texnik xatolarni bartaraf etishda qaysi yondashuv muhim hisoblanadi?",
+      "correctAnswer": "tahlil va individual tuzatish mashqlari",
+      "options": [
+        "tahlil va individual tuzatish mashqlari",
+        "nazariy topshiriqlar bilan",
+        "o`yin orqali",
+        "mashg`ulotni to`xtatish orqali"
+      ]
+    },
+    {
+      "question": "Basketbol to`garagida pedagogik yondashuv nimani ta`minlaydi?",
+      "correctAnswer": "o`rgatish jarayonining samarali va rejalashtirilgan bo`lishini",
+      "options": [
+        "yuklamani keskin ko`paytirishni",
+        "o`rgatish jarayonining samarali va rejalashtirilgan bo`lishini",
+        "natijani qisqa vaqtda oshirishni",
+        "mashg`ulotlarni soddalashtirishni"
+      ]
+    },
+    {
+      "question": "Basketbol to`garaklarini to`g`ri tashkil etish qanday samara beradi?",
+      "correctAnswer": "o`yinchilarning texnik-taktik tayyorgarligi kompleks rivojlanishiga",
+      "options": [
+        "mashg`ulot hajmining kamayishiga",
+        "faoliyatni cheklashga",
+        "o`yinchilarning texnik-taktik tayyorgarligi kompleks rivojlanishiga",
+        "o`yinlar sonini qisqartirishga"
+      ]
+    },
+    {
+      "question": "Saf mashqlarini o`rgatishning asosiy pedagogik maqsadi nimadan iborat?",
+      "correctAnswer": "intizom, tartib va jamoaviy harakat ko`nikmalarini shakllantirish",
+      "options": [
+        "musobaqa faoliyatini tashkil etish",
+        "jismoniy kuchni maksimal darajada oshirish",
+        "dam olish jarayonini ta`minlash",
+        "intizom, tartib va jamoaviy harakat ko`nikmalarini shakllantirish"
+      ]
+    },
+    {
+      "question": "Umumiy rivojlantiruvchi mashqlar asosan qaysi vazifani bajaradi?",
+      "correctAnswer": "organizmning har tomonlama jismoniy rivojlanishini ta`minlash",
+      "options": [
+        "nazariy bilimlarni o`rgatish",
+        "texnik murakkablikni kuchaytirish",
+        "organizmning har tomonlama jismoniy rivojlanishini ta`minlash",
+        "tezkorlikni oshirish"
+      ]
+    },
+    {
+      "question": "Saf mashqlarini o`rgatishda qaysi metod eng samarali hisoblanadi?",
+      "correctAnswer": "ko`rsatish va izchil tushuntirish metodi",
+      "options": [
+        "musobaqa metodi",
+        "erkin mashg`ulot shakli",
+        "ko`rsatish va izchil tushuntirish metodi",
+        "mustaqil bajarish usuli"
+      ]
+    },
+    {
+      "question": "Umumiy rivojlantiruvchi mashqlarni tanlashda qaysi omil asosiy hisoblanadi?",
+      "correctAnswer": "mashg`ulot qatnashchilarining yoshi va tayyorgarlik darajasi",
+      "options": [
+        "mashg`ulot davomiyligi",
+        "mashg`ulot qatnashchilarining yoshi va tayyorgarlik darajasi",
+        "jihozlarning rang-barangligi",
+        "mashg`ulot joyining bezagi"
+      ]
+    },
+    {
+      "question": "Saf mashqlarini bajarishda asosiy e`tibor nimaga qaratiladi?",
+      "correctAnswer": "harakatlarning aniqligi va bir vaqtda bajarilishiga",
+      "options": [
+        "murakkab kombinatsiyalarni bajarishga",
+        "mashqlar tezligini oshirishga",
+        "harakatlarning aniqligi va bir vaqtda bajarilishiga",
+        "yuklamani keskin ko`paytirishga"
+      ]
+    },
+    {
+      "question": "Umumiy rivojlantiruvchi mashqlar qaysi jismoniy sifatlarni rivojlantiradi?",
+      "correctAnswer": "kuch, egiluvchanlik, chaqqonlik va chidamlilikni",
+      "options": [
+        "musobaqa tajribasini",
+        "tezlik ko`rsatkichlarini",
+        "texnik mahoratni",
+        "kuch, egiluvchanlik, chaqqonlik va chidamlilikni"
+      ]
+    },
+    {
+      "question": "Saf mashqlarini o`rgatishda mashqlar qanday tartibda beriladi?",
+      "correctAnswer": "oddiydan murakkabga tomon bosqichma-bosqich",
+      "options": [
+        "oddiydan murakkabga tomon bosqichma-bosqich",
+        "tasodifiy ketma-ketlikda",
+        "faqat murakkab mashqlardan boshlanib",
+        "erkin tanlov asosida"
+      ]
+    },
+    {
+      "question": "Umumiy rivojlantiruvchi mashqlarning darsdagi o`rni nimadan iborat?",
+      "correctAnswer": "asosiy mashg`ulotga tayyorlovchi bosqichni ta`minlash",
+      "options": [
+        "faoliyatni cheklash",
+        "asosiy mashg`ulotga tayyorlovchi bosqichni ta`minlash",
+        "mashg`ulotni yakunlash",
+        "nazoratni amalga oshirish"
+      ]
+    },
+    {
+      "question": "Saf mashqlarini takomillashtirish jarayonida qaysi jihat muhim?",
+      "correctAnswer": "buyruqlarni aniq va ravon berish",
+      "options": [
+        "ishtirokchilar sonini oshirish",
+        "buyruqlarni aniq va ravon berish",
+        "mashqlar sonini kamaytirish",
+        "mashg`ulot vaqtini qisqartirish"
+      ]
+    },
+    {
+      "question": "Umumiy rivojlantiruvchi mashqlarni bajarishda xavfsizlik qanday ta`minlanadi?",
+      "correctAnswer": "yuklamani me`yorlash va texnikani to`g`ri bajarish orqali",
+      "options": [
+        "mashqlar tezligini oshirish orqali",
+        "yuklamani me`yorlash va texnikani to`g`ri bajarish orqali",
+        "jihozlardan ko`proq foydalanish orqali",
+        "mashg`ulot vaqtini uzaytirish orqali"
+      ]
+    },
+    {
+      "question": "Saf mashqlarining tarbiyaviy ahamiyati nimada namoyon bo`ladi?",
+      "correctAnswer": "jamoada harakatlanish va intizomni mustahkamlashda",
+      "options": [
+        "musobaqaga tayyorlashda",
+        "texnik murakkablikni oshirishda",
+        "jamoada harakatlanish va intizomni mustahkamlashda",
+        "jismoniy sifatlarni rivojlantirishda"
+      ]
+    },
+    {
+      "question": "Umumiy rivojlantiruvchi mashqlarni o`rgatishda qaysi tamoyil muhim?",
+      "correctAnswer": "muntazamlik va izchillik",
+      "options": [
+        "qisqa muddatlilik",
+        "murakkablikni keskin oshirish",
+        "tezkor natijaga erishish",
+        "muntazamlik va izchillik"
+      ]
+    },
+    {
+      "question": "Saf mashqlarini bajarishda xatolarni tuzatish qanday amalga oshiriladi?",
+      "correctAnswer": "ko`rsatma berish va takroriy mashqlar orqali",
+      "options": [
+        "erkin mashqlar yordamida",
+        "nazariy topshiriq berish orqali",
+        "ko`rsatma berish va takroriy mashqlar orqali",
+        "mashg`ulotni to`xtatish bilan"
+      ]
+    },
+    {
+      "question": "Umumiy rivojlantiruvchi mashqlarning samaradorligi nimaga bog`liq?",
+      "correctAnswer": "mashqlarni to`g`ri tanlash va rejalashtirishga",
+      "options": [
+        "mashqlarni to`g`ri tanlash va rejalashtirishga",
+        "jihozlar sonining ko`pligiga",
+        "mashg`ulot joyining kattaligiga",
+        "ishtirokchilar yoshiga"
+      ]
+    },
+    {
+      "question": "Saf va umumiy rivojlantiruvchi mashqlarni uyg`unlashtirish qanday natija beradi?",
+      "correctAnswer": "jismoniy tarbiya mashg`ulotlarining samaradorligini oshiradi",
+      "options": [
+        "jismoniy tarbiya mashg`ulotlarining samaradorligini oshiradi",
+        "faoliyatni cheklaydi",
+        "mashg`ulot hajmini kamaytiradi",
+        "yuklamani pasaytiradi"
+      ]
+    },
+    {
+      "question": "Dastakli ot mashqlarini bajarishda asosiy e`tibor nimaga qaratiladi?",
+      "correctAnswer": "harakatlarning uzluksizligi va muvozanatni saqlashga",
+      "options": [
+        "kuch yuklamasini maksimal oshirishga",
+        "mashqlar tezligini kamaytirishga",
+        "sakrash balandligini ko`paytirishga",
+        "harakatlarning uzluksizligi va muvozanatni saqlashga"
+      ]
+    },
+    {
+      "question": "Halqalarda mashqlarni bajarish jarayonida qaysi jismoniy sifat ustuvor ahamiyatga ega?",
+      "correctAnswer": "kuch va statik barqarorlik",
+      "options": [
+        "umumiy chidamlilik",
+        "kuch va statik barqarorlik",
+        "chaqqonlik",
+        "tezkorlik"
+      ]
+    },
+    {
+      "question": "Tayanch sakrashlarda texnikaning samaradorligi nimaga bog`liq?",
+      "correctAnswer": "yugurib kelish va itarilishning uyg`unligiga",
+      "options": [
+        "mashg`ulot vaqtining uzunligiga",
+        "sakrash joyining kattaligiga",
+        "yugurib kelish va itarilishning uyg`unligiga",
+        "jihozlarning rangiga"
+      ]
+    },
+    {
+      "question": "Bruslarda mashqlarni o`rgatishda qaysi metod muhim hisoblanadi?",
+      "correctAnswer": "bosqichma-bosqich va takroriy o`rgatish",
+      "options": [
+        "musobaqa usulidan foydalanish",
+        "bosqichma-bosqich va takroriy o`rgatish",
+        "mustaqil bajarish",
+        "erkin mashqlar bilan cheklanish"
+      ]
+    },
+    {
+      "question": "Baland turnikdagi mashqlarda asosiy texnik talab nimadan iborat?",
+      "correctAnswer": "tana holatini to`g`ri saqlash va harakatlar aniqligidan",
+      "options": [
+        "tana holatini to`g`ri saqlash va harakatlar aniqligidan",
+        "mashqlar tezligini oshirishdan",
+        "dam olish vaqtini qisqartirishdan",
+        "harakatlar sonini ko`paytirishdan"
+      ]
+    },
+    {
+      "question": "Past turnik mashqlari asosan qaysi maqsadda qo`llaniladi?",
+      "correctAnswer": "texnikani o`rganish va mustahkamlash uchun",
+      "options": [
+        "faoliyatni yakunlash uchun",
+        "kuchni rivojlantirish uchun",
+        "musobaqa tayyorgarligi uchun",
+        "texnikani o`rganish va mustahkamlash uchun"
+      ]
+    },
+    {
+      "question": "Dastakli ot mashqlarini takomillashtirishda qaysi jihat muhim?",
+      "correctAnswer": "harakatlar ritmi va uzluksizligini saqlash",
+      "options": [
+        "yuklamani keskin oshirish",
+        "mashg`ulot vaqtini qisqartirish",
+        "harakatlar ritmi va uzluksizligini saqlash",
+        "mashqlarni tasodifiy tanlash"
+      ]
+    },
+    {
+      "question": "Halqalarda mashqlarni o`rgatishda xavfsizlik qanday ta`minlanadi?",
+      "correctAnswer": "texnikani to`g`ri tushuntirish va sug`urtalash orqali",
+      "options": [
+        "jihozlardan ko`proq foydalanish orqali",
+        "mashqlar tezligini oshirish orqali",
+        "mashg`ulotni tez yakunlash orqali",
+        "texnikani to`g`ri tushuntirish va sug`urtalash orqali"
+      ]
+    },
+    {
+      "question": "Tayanch sakrash mashqlarida asosiy xatolar qaysi bosqichda yuzaga keladi?",
+      "correctAnswer": "itarilish va havodagi fazada",
+      "options": [
+        "mashg`ulot yakunida",
+        "itarilish va havodagi fazada",
+        "dam olish jarayonida",
+        "saf mashqlarida"
+      ]
+    },
+    {
+      "question": "Bruslarda mashqlarni bajarishda qo`l tayanchi nimani ta`minlaydi?",
+      "correctAnswer": "harakat barqarorligi va texnik aniqlikni",
+      "options": [
+        "harakatlar sonini",
+        "mashqlar tezligini",
+        "harakat barqarorligi va texnik aniqlikni",
+        "dam olish imkoniyatini"
+      ]
+    },
+    {
+      "question": "Baland turnik mashqlarini takomillashtirishda qaysi yondashuv samarali?",
+      "correctAnswer": "texnik tahlil va takroriy bajarish",
+      "options": [
+        "texnik tahlil va takroriy bajarish",
+        "nazariy mashg`ulot bilan cheklanish",
+        "yuklamani bir martalik oshirish",
+        "faqat erkin o`yin usuli"
+      ]
+    },
+    {
+      "question": "Past turnik mashqlari orqali qaysi ko`nikmalar rivojlantiriladi?",
+      "correctAnswer": "osilish va aylanish harakatlari texnikasi",
+      "options": [
+        "sakrash balandligi",
+        "osilish va aylanish harakatlari texnikasi",
+        "yugurish tezligi",
+        "muvozanatsiz harakatlar"
+      ]
+    },
+    {
+      "question": "Gimnastika jihozlarida mashqlarni o`rgatishda pedagogik yondashuv nimani ta`minlaydi?",
+      "correctAnswer": "o`rgatish jarayonining samarali va xavfsiz bo`lishini",
+      "options": [
+        "o`rgatish jarayonining samarali va xavfsiz bo`lishini",
+        "natijani tezda oshirishni",
+        "texnikani cheklashni",
+        "mashg`ulot hajmini kamaytirishni"
+      ]
+    },
+    {
+      "question": "Mashqlarni takomillashtirish jarayonida yuklama qanday oshiriladi?",
+      "correctAnswer": "izchil va bosqichma-bosqich",
+      "options": [
+        "bir mashg`ulotda maksimal darajada",
+        "tasodifiy tarzda",
+        "faqat musobaqa oldidan",
+        "izchil va bosqichma-bosqich"
+      ]
+    },
+    {
+      "question": "Dastakli ot, halqalar, sakrashlar va turnik mashqlarini uyg`un o`rgatish qanday natija beradi?",
+      "correctAnswer": "gimnastik tayyorgarlikning kompleks rivojlanishiga",
+      "options": [
+        "mashg`ulot hajmining qisqarishiga",
+        "yuklamani kamaytirishga",
+        "gimnastik tayyorgarlikning kompleks rivojlanishiga",
+        "faoliyatni cheklashga"
+      ]
+    },
+    {
+      "question": "Yugurish texnikasini o`rgatishning asosiy maqsadi nimadan iborat?",
+      "correctAnswer": "harakatlarni samarali va tejamkor bajarish ko`nikmasini shakllantirish",
+      "options": [
+        "musobaqa qoidalarini yodlash",
+        "yuklamani kamaytirish",
+        "harakatlarni samarali va tejamkor bajarish ko`nikmasini shakllantirish",
+        "tezlikni oshirish"
+      ]
+    },
+    {
+      "question": "Yugurish texnikasini o`rgatishda qaysi tamoyil ustuvor hisoblanadi?",
+      "correctAnswer": "oddiy harakatlardan murakkab harakatlarga bosqichma-bosqich o`tish",
+      "options": [
+        "mashqlarni tasodifiy tanlash",
+        "darhol maksimal tezlikda yugurish",
+        "faqat nazariy tushuntirish",
+        "oddiy harakatlardan murakkab harakatlarga bosqichma-bosqich o`tish"
+      ]
+    },
+    {
+      "question": "Qisqa masofaga yugurishda asosiy texnik talab nimadan iborat?",
+      "correctAnswer": "start va tezlanish fazasini to`g`ri bajarish",
+      "options": [
+        "qadam uzunligini kamaytirish",
+        "tana holatini orqaga egish",
+        "nafas olishni chuqurlashtirish",
+        "start va tezlanish fazasini to`g`ri bajarish"
+      ]
+    },
+    {
+      "question": "O`rta va uzoq masofaga yugurishda qaysi jihat muhim hisoblanadi?",
+      "correctAnswer": "harakat ritmi va nafas olishni uyg`unlashtirish",
+      "options": [
+        "qadam sonini keskin oshirish",
+        "harakat ritmi va nafas olishni uyg`unlashtirish",
+        "maksimal tezlikni doimiy saqlash",
+        "start texnikasiga e`tibor bermaslik"
+      ]
+    },
+    {
+      "question": "Yugurish texnikasini takomillashtirishda qaysi metod samaraliroq?",
+      "correctAnswer": "takroriy mashqlar va texnik tahlil metodi",
+      "options": [
+        "musobaqa yugurishlari",
+        "erkin mashg`ulot usuli",
+        "nazariy ma`ruza bilan cheklanish",
+        "takroriy mashqlar va texnik tahlil metodi"
+      ]
+    },
+    {
+      "question": "Yugurishda qo`l harakatlarining asosiy vazifasi nimadan iborat?",
+      "correctAnswer": "tana muvozanatini saqlash va harakatni qo`llab-quvvatlash",
+      "options": [
+        "tezlikni oshirish",
+        "qadam uzunligini qisqartirish",
+        "tana muvozanatini saqlash va harakatni qo`llab-quvvatlash",
+        "nafas olishni boshqarish"
+      ]
+    },
+    {
+      "question": "Yugurish mashqlarini o`rgatishda xatolarni tuzatish qaysi yo`l bilan amalga oshiriladi?",
+      "correctAnswer": "ko`rsatma berish va takroriy bajarish orqali",
+      "options": [
+        "nazoratni bekor qilish orqali",
+        "ko`rsatma berish va takroriy bajarish orqali",
+        "mashg`ulotni to`xtatish bilan",
+        "yuklamani oshirish orqali"
+      ]
+    },
+    {
+      "question": "Yugurish texnikasini o`rgatishda video va vizual vositalar nimaga xizmat qiladi?",
+      "correctAnswer": "harakatlarni aniq tushunish va tahlil qilishga",
+      "options": [
+        "musobaqa natijasini belgilashga",
+        "harakatlarni aniq tushunish va tahlil qilishga",
+        "yuklamani kamaytirishga",
+        "mashg`ulot vaqtini qisqartirishga"
+      ]
+    },
+    {
+      "question": "Yugurishda to`g`ri tana holati qanday ta`sir ko`rsatadi?",
+      "correctAnswer": "energiya sarfini kamaytiradi va samaradorlikni oshiradi",
+      "options": [
+        "tezlikni pasaytiradi",
+        "harakatni cheklaydi",
+        "energiya sarfini kamaytiradi va samaradorlikni oshiradi",
+        "charchoqni tezlashtiradi"
+      ]
+    },
+    {
+      "question": "Yugurish mashqlarini takomillashtirishda yuklama qanday oshiriladi?",
+      "correctAnswer": "izchil va bosqichma-bosqich tarzda",
+      "options": [
+        "izchil va bosqichma-bosqich tarzda",
+        "bir mashg`ulotda maksimal darajada",
+        "tasodifiy ravishda",
+        "faqat musobaqa kunlari"
+      ]
+    },
+    {
+      "question": "Start texnikasini o`rgatishda qaysi omil muhim?",
+      "correctAnswer": "tana holati va itarilishning aniqligi",
+      "options": [
+        "tana holati va itarilishning aniqligi",
+        "nafas olish chuqurligi",
+        "qadamlar soni",
+        "yugurish yo`lagining rangi"
+      ]
+    },
+    {
+      "question": "Yugurish texnikasini takomillashtirish jarayonida xavfsizlik qanday ta`minlanadi?",
+      "correctAnswer": "yuklamani me`yorlash va texnikani to`g`ri bajarish orqali",
+      "options": [
+        "yuklamani me`yorlash va texnikani to`g`ri bajarish orqali",
+        "mashg`ulot vaqtini uzaytirish orqali",
+        "jihozlardan ko`proq foydalanish orqali",
+        "keskin oshirish orqali"
+      ]
+    },
+    {
+      "question": "Yugurish mashqlarini o`rgatishda individual yondashuv nimani ta`minlaydi?",
+      "correctAnswer": "har bir sportchining imkoniyatiga mos rivojlanishni",
+      "options": [
+        "musobaqa sonining kamayishini",
+        "texnikani cheklashni",
+        "mashg`ulot hajmining kamayishini",
+        "har bir sportchining imkoniyatiga mos rivojlanishni"
+      ]
+    },
+    {
+      "question": "Yugurish texnikasini takomillashtirishda umumiy jismoniy tayyorgarlikning roli nimadan iborat?",
+      "correctAnswer": "texnikani barqaror va samarali bajarishga yordam berishdan",
+      "options": [
+        "texnikani barqaror va samarali bajarishga yordam berishdan",
+        "dam olishni ko`paytirishdan",
+        "kuchni oshirishdan",
+        "mashg`ulotni soddalashtirishdan"
+      ]
+    },
+    {
+      "question": "Yugurish turlari texnikasini to`g`ri o`rgatish qanday natija beradi?",
+      "correctAnswer": "yugurish samaradorligi va sport natijalarining oshishiga",
+      "options": [
+        "faoliyatni cheklashga",
+        "mashg`ulot hajmining kamayishiga",
+        "yuklamani pasaytirishga",
+        "yugurish samaradorligi va sport natijalarining oshishiga"
+      ]
+    },
+    {
+      "question": "Sakrash texnikasini o`rgatishdan asosiy maqsad nima?",
+      "correctAnswer": "harakat fazalarini to`g`ri va samarali bajarish ko`nikmasini shakllantirish",
+      "options": [
+        "yuklamani kamaytirish",
+        "musobaqa qoidalarini yodlash",
+        "harakat fazalarini to`g`ri va samarali bajarish ko`nikmasini shakllantirish",
+        "sakrash balandligini oshirish"
+      ]
+    },
+    {
+      "question": "Sakrash texnikasini o`rgatishda qaysi tamoyil muhim hisoblanadi?",
+      "correctAnswer": "oddiy mashqlardan murakkab texnik harakatlarga o`tish",
+      "options": [
+        "darhol maksimal yuklama berish",
+        "faqat nazariy tushuntirish bilan cheklanish",
+        "oddiy mashqlardan murakkab texnik harakatlarga o`tish",
+        "mashqlarni tasodifiy bajarish"
+      ]
+    },
+    {
+      "question": "Uzunlikka sakrashda asosiy texnik talab nimadan iborat?",
+      "correctAnswer": "yugurib kelish, itarilish va qo`nishning uyg`un bajarilishidan",
+      "options": [
+        "sakrash kuchini oshirishdan",
+        "yugurib kelish, itarilish va qo`nishning uyg`un bajarilishidan",
+        "qadamlar sonini ko`paytirishdan",
+        "havoda maksimal vaqt qolishdan"
+      ]
+    },
+    {
+      "question": "Balandlikka sakrash texnikasida qaysi bosqich hal qiluvchi ahamiyatga ega?",
+      "correctAnswer": "itarilish va tanani to`siqdan o`tkazish fazasi",
+      "options": [
+        "mashg`ulot yakuni",
+        "yugurishdan oldingi tayyorgarlik",
+        "itarilish va tanani to`siqdan o`tkazish fazasi",
+        "dam olish oralig`i"
+      ]
+    },
+    {
+      "question": "Uch hatlab sakrashni o`rgatishda qaysi jihat muhim?",
+      "correctAnswer": "ritm va harakat ketma-ketligini saqlash",
+      "options": [
+        "sakrash tezligini keskin oshirish",
+        "harakatlarni erkin bajarish",
+        "ritm va harakat ketma-ketligini saqlash",
+        "mashqlar sonini kamaytirish"
+      ]
+    },
+    {
+      "question": "Sakrash texnikasini takomillashtirishda qaysi metod samaraliroq?",
+      "correctAnswer": "takroriy mashqlar va texnik tahlil metodi",
+      "options": [
+        "erkin mashg`ulot usuli",
+        "musobaqa sakrashlari",
+        "nazariy ma`ruza bilan cheklanish",
+        "takroriy mashqlar va texnik tahlil metodi"
+      ]
+    },
+    {
+      "question": "Sakrash mashqlarida qo`l harakatlarining vazifasi nimadan iborat?",
+      "correctAnswer": "itarilish kuchini kuchaytirish va muvozanatni saqlash",
+      "options": [
+        "qadam uzunligini qisqartirish",
+        "itarilish kuchini kuchaytirish va muvozanatni saqlash",
+        "tana holatini bezash",
+        "nafas olishni cheklash"
+      ]
+    },
+    {
+      "question": "Sakrash texnikasini o`rgatishda xatolarni tuzatish qanday amalga oshiriladi?",
+      "correctAnswer": "ko`rsatma berish va bosqichma-bosqich takrorlash orqali",
+      "options": [
+        "ko`rsatma berish va bosqichma-bosqich takrorlash orqali",
+        "yuklamani oshirish orqali",
+        "nazoratni bekor qilish orqali",
+        "mashg`ulotni to`xtatish orqali"
+      ]
+    },
+    {
+      "question": "Sakrashlarda to`g`ri qo`nish texnikasi nimani ta`minlaydi?",
+      "correctAnswer": "jarohatlarning oldini olish va harakatni yakunlashni",
+      "options": [
+        "dam olish vaqtini qisqartirishni",
+        "sakrash balandligini oshirishni",
+        "yugurish tezligini ko`paytirishni",
+        "jarohatlarning oldini olish va harakatni yakunlashni"
+      ]
+    },
+    {
+      "question": "Sakrash mashqlarini takomillashtirishda yuklama qanday oshiriladi?",
+      "correctAnswer": "izchil va bosqichma-bosqich tarzda",
+      "options": [
+        "bir mashg`ulotda maksimal darajada",
+        "tasodifiy ravishda",
+        "faqat musobaqa kunlari",
+        "izchil va bosqichma-bosqich tarzda"
+      ]
+    },
+    {
+      "question": "Sakrash texnikasini o`rgatishda umumiy jismoniy tayyorgarlikning ahamiyati nimada?",
+      "correctAnswer": "kuch, tezkorlik va muvofiqlikni rivojlantirishda",
+      "options": [
+        "chidamlilikni oshirishda",
+        "mashg`ulotni soddalashtirishda",
+        "kuch, tezkorlik va muvofiqlikni rivojlantirishda",
+        "texnikani cheklashda"
+      ]
+    },
+    {
+      "question": "Sakrash mashqlarini o`rgatishda xavfsizlik qaysi yo`l bilan ta`minlanadi?",
+      "correctAnswer": "texnikani to`g`ri bajarish va yuklamani me`yorlash orqali",
+      "options": [
+        "texnikani to`g`ri bajarish va yuklamani me`yorlash orqali",
+        "tezlikni maksimal darajada oshirish orqali",
+        "jihozlardan ko`proq foydalanish orqali",
+        "mashg`ulot vaqtini uzaytirish orqali"
+      ]
+    },
+    {
+      "question": "Sakrash texnikasini o`rgatishda individual yondashuv nimani ta`minlaydi?",
+      "correctAnswer": "sportchining imkoniyatlariga mos rivojlanishni",
+      "options": [
+        "sportchining imkoniyatlariga mos rivojlanishni",
+        "mashg`ulot hajmining kamayishini",
+        "musobaqa sonining kamayishini",
+        "texnik mashqlarni cheklashni"
+      ]
+    },
+    {
+      "question": "Sakrash texnikasini takomillashtirishda maxsus mashqlarning vazifasi nimadan iborat?",
+      "correctAnswer": "sakrashga xos harakat fazalarini mustahkamlashdan",
+      "options": [
+        "sakrashga xos harakat fazalarini mustahkamlashdan",
+        "umumiy dam olishni ta`minlashdan",
+        "mashg`ulot vaqtini qisqartirishdan",
+        "faoliyatni cheklashdan"
+      ]
+    },
+    {
+      "question": "Sakrash turlari texnikasini to`g`ri o`rgatish qanday natija beradi?",
+      "correctAnswer": "sport mahorati va sakrash natijalarining oshishiga",
+      "options": [
+        "sport mahorati va sakrash natijalarining oshishiga",
+        "faoliyatni cheklashga",
+        "mashg`ulot hajmining kamayishiga",
+        "yuklamani pasaytirishga"
+      ]
+    },
+    {
+      "question": "Uloqtirish texnikasini o`rgatishning asosiy maqsadi nimadan iborat?",
+      "correctAnswer": "harakat fazalarini samarali va muvofiqlashtirilgan holda bajarishni shakllantirish",
+      "options": [
+        "uloqtirish masofasini oshirish",
+        "musobaqa qoidalarini yodlash",
+        "yuklamani kamaytirish",
+        "harakat fazalarini samarali va muvofiqlashtirilgan holda bajarishni shakllantirish"
+      ]
+    },
+    {
+      "question": "Uloqtirish texnikasini o`rgatishda qaysi tamoyil muhim hisoblanadi?",
+      "correctAnswer": "oddiy harakatlardan murakkab texnikaga bosqichma-bosqich o`tish",
+      "options": [
+        "faqat nazariy tushuntirish",
+        "oddiy harakatlardan murakkab texnikaga bosqichma-bosqich o`tish",
+        "darhol maksimal kuch bilan uloqtirish",
+        "mashqlarni tasodifiy tanlash"
+      ]
+    },
+    {
+      "question": "Yadro uloqtirish texnikasida asosiy harakat nimaga bog`liq?",
+      "correctAnswer": "tana aylanishi va itarilishning uyg`unligiga",
+      "options": [
+        "tana aylanishi va itarilishning uyg`unligiga",
+        "dam olish vaqtining ko`pligiga",
+        "uloqtirish joyining kengligiga",
+        "yugurish masofasining uzunligiga"
+      ]
+    },
+    {
+      "question": "Disk uloqtirishda texnik samaradorlikni belgilovchi omil qaysi?",
+      "correctAnswer": "aylanish tezligi va muvozanatni saqlash",
+      "options": [
+        "uloqtirish vaqtining qisqaligiga",
+        "diskning rangiga",
+        "qadamlar soniga",
+        "aylanish tezligi va muvozanatni saqlash"
+      ]
+    },
+    {
+      "question": "Nayza uloqtirish texnikasida asosiy e`tibor nimaga qaratiladi?",
+      "correctAnswer": "yugurib kelish va uloqtirish harakatlarining uyg`unligiga",
+      "options": [
+        "mashg`ulot davomiyligiga",
+        "faqat qo`l kuchiga",
+        "nafas olish tezligiga",
+        "yugurib kelish va uloqtirish harakatlarining uyg`unligiga"
+      ]
+    },
+    {
+      "question": "Uloqtirish texnikasini takomillashtirishda qaysi metod samaraliroq?",
+      "correctAnswer": "takroriy mashqlar va texnik tahlil metodi",
+      "options": [
+        "nazariy ma`ruza bilan cheklanish",
+        "takroriy mashqlar va texnik tahlil metodi",
+        "musobaqa uloqtirishlari",
+        "erkin mashg`ulot usuli"
+      ]
+    },
+    {
+      "question": "Uloqtirish mashqlarida oyoqlarning vazifasi nimadan iborat?",
+      "correctAnswer": "itarilish kuchini hosil qilish va harakatni qo`llab-quvvatlash",
+      "options": [
+        "harakatni sekinlashtirish",
+        "nafas olishni boshqarish",
+        "muvozanatni saqlash",
+        "itarilish kuchini hosil qilish va harakatni qo`llab-quvvatlash"
+      ]
+    },
+    {
+      "question": "Uloqtirish texnikasini o`rgatishda xatolarni tuzatish qanday amalga oshiriladi?",
+      "correctAnswer": "ko`rsatma berish va bosqichma-bosqich mashqlar orqali",
+      "options": [
+        "yuklamani keskin oshirish orqali",
+        "nazoratni bekor qilish orqali",
+        "mashg`ulotni to`xtatish orqali",
+        "ko`rsatma berish va bosqichma-bosqich mashqlar orqali"
+      ]
+    },
+    {
+      "question": "Uloqtirish mashqlarida to`g`ri tana holati nimani ta`minlaydi?",
+      "correctAnswer": "harakat samaradorligi va jarohatlar xavfining kamayishini",
+      "options": [
+        "tezlikni oshirishni",
+        "charchoqni tezlashtirishni",
+        "harakat samaradorligi va jarohatlar xavfining kamayishini",
+        "harakatni cheklashni"
+      ]
+    },
+    {
+      "question": "Uloqtirish mashqlarida yuklama qanday oshiriladi?",
+      "correctAnswer": "izchil va rejalashtirilgan tarzda",
+      "options": [
+        "bir mashg`ulotda maksimal darajada",
+        "izchil va rejalashtirilgan tarzda",
+        "faqat musobaqa kunlari",
+        "tasodifiy ravishda"
+      ]
+    },
+    {
+      "question": "Uloqtirish texnikasini o`rgatishda umumiy jismoniy tayyorgarlikning ahamiyati nimada?",
+      "correctAnswer": "kuch, tezkorlik va muvofiqlikni rivojlantirishda",
+      "options": [
+        "mashg`ulotni soddalashtirishda",
+        "faqat chidamlilikni oshirishda",
+        "kuch, tezkorlik va muvofiqlikni rivojlantirishda",
+        "texnik mashqlarni cheklashda"
+      ]
+    },
+    {
+      "question": "Uloqtirish mashqlarida xavfsizlikni ta`minlashning asosiy yo`li qaysi?",
+      "correctAnswer": "texnikani to`g`ri bajarish va yuklamani me`yorlash",
+      "options": [
+        "jihozlardan ko`proq foydalanish",
+        "texnikani to`g`ri bajarish va yuklamani me`yorlash",
+        "mashqlar tezligini oshirish",
+        "mashg`ulot vaqtini uzaytirish"
+      ]
+    },
+    {
+      "question": "Uloqtirish texnikasini o`rgatishda individual yondashuv nimani ta`minlaydi?",
+      "correctAnswer": "sportchining imkoniyatlariga mos rivojlanishni",
+      "options": [
+        "mashg`ulot hajmining kamayishini",
+        "musobaqa sonining kamayishini",
+        "texnik mashqlarni cheklashni",
+        "sportchining imkoniyatlariga mos rivojlanishni"
+      ]
+    },
+    {
+      "question": "Maxsus uloqtirish mashqlarining vazifasi nimadan iborat?",
+      "correctAnswer": "uloqtirishga xos harakat fazalarini mustahkamlashdan",
+      "options": [
+        "mashg`ulot vaqtini qisqartirishdan",
+        "faoliyatni cheklashdan",
+        "uloqtirishga xos harakat fazalarini mustahkamlashdan",
+        "umumiy dam olishni tashkil etishdan"
+      ]
+    },
+    {
+      "question": "Uloqtirish turlari texnikasini takomillashtirish qanday natija beradi?",
+      "correctAnswer": "sport mahorati va uloqtirish natijalarining oshishiga",
+      "options": [
+        "yuklamani pasaytirishga",
+        "faoliyatni cheklashga",
+        "sport mahorati va uloqtirish natijalarining oshishiga",
+        "mashg`ulot hajmining kamayishiga"
+      ]
+    }
+  ]
+}
