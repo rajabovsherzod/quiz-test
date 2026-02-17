@@ -71,6 +71,11 @@ async function main() {
       pattern: "Sport to'garaklarini",
       output: 'quiz-togarak.json',
       title: "1-Kurs Sport To'garaklarini Tashkil Qilish"
+    },
+    {
+      pattern: "Jismoniy tarbiya",
+      output: "quiz-jismoniy-tarbiya.json",
+      title: "1-Kurs Jismoniy Tarbiya va Sport Jismoniy tarbiya va sport sohasida ilmiy faoliyatni tashkil qilish"
     }
   ];
 
