@@ -1,0 +1,2295 @@
+{
+  "title": "1-Kurs Ilmiy Tadqiqot Metodologiyasi",
+  "questions": [
+    {
+      "question": "Ilmiy tadqiqot natijalarini keng jamoatchilikka qanday yetkazish mumkin?",
+      "correctAnswer": "ilmiy maqola va konferensiyalar orqali",
+      "options": [
+        "mahalliy tadbirlar orqali",
+        "o`quv dasturlarida qo`llash orqali",
+        "nazariy ma`ruzalar orqali",
+        "ilmiy maqola va konferensiyalar orqali"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotlar natijalarini rasmiylashtirishda qaysi hujjatlar muhim?",
+      "correctAnswer": "ilmiy maqola, tezis va hisobotlar",
+      "options": [
+        "yillik faoliyat tahlillari",
+        "ilmiy maqola, tezis va hisobotlar",
+        "nazariy ko`rsatmalar",
+        "eksperimental natijalar ro`yxati"
+      ]
+    },
+    {
+      "question": "Ilmiy bilishda nazariy yondashuvning asosiy xususiyati nimada?",
+      "correctAnswer": "dalillarni umumlashtirish va xulosalar chiqarish",
+      "options": [
+        "dalillarni umumlashtirish va xulosalar chiqarish",
+        "tahliliy jarayonlarni chuqurlashtirish",
+        "eksperimental natijalarni mustahkamlash",
+        "fanlararo bog`liqlikni kuchaytirish"
+      ]
+    },
+    {
+      "question": "Sportda ilmiy tadqiqot metodologiyasining asosiy tamoyili nima?",
+      "correctAnswer": "ilmiy dalillarga asoslangan holda qarorlar qabul qilish",
+      "options": [
+        "tahliliy tahlillarni oshirish",
+        "tajribaviy yondashuvlarni joriy etish",
+        "ilmiy dalillarga asoslangan holda qarorlar qabul qilish",
+        "sportchilarni individual baholash"
+      ]
+    },
+    {
+      "question": "Ilmiy izlanishda intuitiv bilimlarning roli qanday?",
+      "correctAnswer": "yangi strategiyalarni tezkor aniqlashda",
+      "options": [
+        "yangi strategiyalarni tezkor aniqlashda",
+        "o`quv jarayonlarini rivojlantirishda",
+        "tahliliy usullarni kengaytirishda",
+        "tadqiqot natijalarini optimallashtirishda"
+      ]
+    },
+    {
+      "question": "Ilmiy izlanishda dalillarni tizimlashtirishning eng muhim qismi nima?",
+      "correctAnswer": "olingan ma`lumotlarni aniq va ishonchli xulosalarga aylantirish",
+      "options": [
+        "tahlil natijalarini hujjatlashtirish",
+        "nazariy natijalarni tizimlashtirish",
+        "ilmiy munozaralarni kuchaytirish",
+        "olingan ma`lumotlarni aniq va ishonchli xulosalarga aylantirish"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya bo`yicha ilmiy tadqiqot natijalarini amaliyotga qanday tatbiq etish mumkin?",
+      "correctAnswer": "jismoniy mashqlar dasturlariga ilmiy natijalarni kiritish orqali",
+      "options": [
+        "tadbirlar samaradorligini oshirish orqali",
+        "amaliy ko`nikmalarni oshirish orqali",
+        "innovatsion yondashuvlarni qo`llash orqali",
+        "jismoniy mashqlar dasturlariga ilmiy natijalarni kiritish orqali"
+      ]
+    },
+    {
+      "question": "Sportchilarning jismoniy tayyorgarlik darajasini baholashda qaysi ilmiy usul samaraliroq hisoblanadi?",
+      "correctAnswer": "kuzatuv va statistik tahlil",
+      "options": [
+        "mashg`ulot natijalarini baholash",
+        "test tahlillarini kengaytirish",
+        "kuzatuv va statistik tahlil",
+        "jismoniy me`yorlarni solishtirish"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya darslarida innovatsiyalarni qo`llashning asosiy foydasi nima?",
+      "correctAnswer": "mashg`ulot natijalarini yaxshilash va qiziqishni oshirish",
+      "options": [
+        "o`quvchilarning ijodiy qobiliyatlarini rivojlantirish",
+        "faoliyatni tizimlashtirish",
+        "mashg`ulot natijalarini yaxshilash va qiziqishni oshirish",
+        "sportga qiziqishni oshirish"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotlar yordamida yangi sport texnikalarini o`rganishda qanday omillar muhim?",
+      "correctAnswer": "dalillarni yig`ish va ilmiy asosda tahlil qilish",
+      "options": [
+        "dalillarni yig`ish va ilmiy asosda tahlil qilish",
+        "jismoniy mashqlarni sinovdan o`tkazish",
+        "mashg`ulot samaradorligini baholash",
+        "tahliliy natijalarni taqdim etish"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotda sinergetik yondashuvning sport mashg`ulotlarida qanday ahamiyati bor?",
+      "correctAnswer": "jismoniy yuklamalarni yanada samarali boshqarishga yordam beradi",
+      "options": [
+        "faoliyatni dinamik rivojlantirishga imkon beradi",
+        "mashg`ulot jarayonini tahlil qilishni yaxshilaydi",
+        "sportchilarning tayyorgarlik darajasini oshiradi",
+        "jismoniy yuklamalarni yanada samarali boshqarishga yordam beradi"
+      ]
+    },
+    {
+      "question": "Sport mashg`ulotlarida ilmiy dalillarga asoslangan qaror qabul qilishning afzalliklari qanday?",
+      "correctAnswer": "mashg`ulot samaradorligini oshiradi va sportchilarni yaxshiroq tayyorlaydi",
+      "options": [
+        "sport natijalarining barqarorligini ta`minlaydi",
+        "yangi texnikalarni amaliyotga joriy etadi",
+        "faoliyat jarayonlarini optimallashtiradi",
+        "mashg`ulot samaradorligini oshiradi va sportchilarni yaxshiroq tayyorlaydi"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqot metodologiyasi fanining asosiy maqsadi nimadan iborat?",
+      "correctAnswer": "ilmiy tadqiqotlarni tizimli o`rganish",
+      "options": [
+        "amaliy natijalarni hisobga olish",
+        "ilmiy tadqiqotlarni tizimli o`rganish",
+        "boshqaruv jarayonlarini yaratish",
+        "tadqiqot usullarini kiritish"
+      ]
+    },
+    {
+      "question": "Ilmiy bilimlarning metodologik asoslari qaysi bosqichlarga asoslanadi?",
+      "correctAnswer": "nazariy va empirik bilishga",
+      "options": [
+        "nazariy va empirik bilishga",
+        "analitik va eksperimental tadqiqotlarga",
+        "statistika va modellashtirishga",
+        "axborot texnologiyalariga"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqot yo`nalishini tanlashda muhim omil nima?",
+      "correctAnswer": "ilmiy muammoning dolzarbligi",
+      "options": [
+        "iqtisodiy resurslarning mavjudligi",
+        "amaliy tahlil qulayligi",
+        "ilmiy muammoning dolzarbligi",
+        "o`quv jarayonidagi yutuqlar"
+      ]
+    },
+    {
+      "question": "Magistrlik dissertatsiyasi qanday tadqiqot turiga kiradi?",
+      "correctAnswer": "ilmiy-tadqiqot faoliyati",
+      "options": [
+        "tahliliy kuzatuv",
+        "ilmiy-tadqiqot faoliyati",
+        "nazorat usullari",
+        "ijtimoiy loyiha"
+      ]
+    },
+    {
+      "question": "Pedagogik tadqiqotlar qaysi omilga asoslanadi?",
+      "correctAnswer": "ijodiy yondashuv va metodik yutuqlarga",
+      "options": [
+        "eksperimental kuzatuvlarga",
+        "mavjud adabiyotlarga",
+        "axborot xavfsizligiga",
+        "ijodiy yondashuv va metodik yutuqlarga"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqot vositalari va metodlari nimalarni o`z ichiga oladi?",
+      "correctAnswer": "eksperimental, empirik va nazariy usullarni",
+      "options": [
+        "eksperimental, empirik va nazariy usullarni",
+        "axborot manbalarini tahlil qilishni",
+        "muammoli vaziyatlarni tahlil qilishni",
+        "rivojlantirish dasturlarini"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotda tarixiylik va mantiqiylikning tutgan o`rni qanday?",
+      "correctAnswer": "tahliliy va aniqroq natijalarni ta`minlaydi",
+      "options": [
+        "resurslarni boshqarishning muvofiqligini oshiradi",
+        "modellashtirish imkoniyatini cheklaydi",
+        "tahliliy va aniqroq natijalarni ta`minlaydi",
+        "nazariy yondashuvni mustahkamlaydi"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotda sinergetika muammosi nimani bildiradi?",
+      "correctAnswer": "tizimli va o`zaro bog`liq jarayonlarni o`rganish",
+      "options": [
+        "tizimli va o`zaro bog`liq jarayonlarni o`rganish",
+        "o`quv materiallarini diversifikatsiya qilish",
+        "axborot oqimlarini nazorat qilish",
+        "iqtisodiy yondashuvni kuchaytirish"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotlarda axborot xavfsizligining ahamiyati nimada?",
+      "correctAnswer": "tadqiqot natijalarini himoya qilishda",
+      "options": [
+        "resurslarni boshqarishda",
+        "raqamli modellashtirishda",
+        "tadqiqot natijalarini himoya qilishda",
+        "ma`lumotlarni tahlil qilishda"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotda ratsionallik va irratsionallikning o`rni qanday?",
+      "correctAnswer": "tadqiqot natijalarini diversifikatsiya qilishda",
+      "options": [
+        "tadqiqot natijalarini diversifikatsiya qilishda",
+        "tahliliy kuzatuvni kengaytirishda",
+        "ijtimoiy rivojlanishga ta`sir ko`rsatishda",
+        "amaliy tadqiqotlarni boyitishda"
+      ]
+    },
+    {
+      "question": "Ilmiy dalillarning pedagogik izlanishlardagi o`rni nima?",
+      "correctAnswer": "tajriba natijalarini isbotlashda",
+      "options": [
+        "tajriba natijalarini isbotlashda",
+        "axborot manbalarini aniqlashda",
+        "talabalarni tadqiqotga jalb qilishda",
+        "raqamli vositalarni kiritishda"
+      ]
+    },
+    {
+      "question": "Novatsiya va innovatsiyalar zamonaviy tadqiqotlarda qanday rol o`ynaydi?",
+      "correctAnswer": "yangi usullarni joriy qilishda",
+      "options": [
+        "axborot oqimini boshqarishda",
+        "amaliy natijalarni sintez qilishda",
+        "eksperimental usullarni kengaytirishda",
+        "yangi usullarni joriy qilishda"
+      ]
+    },
+    {
+      "question": "Eksperimental tadqiqotlarni amalga oshirish uchun qaysi jihozlar muhim?",
+      "correctAnswer": "stendlar va zamonaviy apparaturalar",
+      "options": [
+        "ishlab chiqarish quvvatlari",
+        "tahliliy dasturlar",
+        "stendlar va zamonaviy apparaturalar",
+        "axborot resurslari"
+      ]
+    },
+    {
+      "question": "Pedаgogik tаdqiqot metodlаri qanday turlarga bo`linadi?",
+      "correctAnswer": "nаzаriy vа аmаliy (empirik) turlаrgа bo`linаdi",
+      "options": [
+        "falsafiy va texnik",
+        "tajriba va kuzatish",
+        "nаzаriy vа аmаliy (empirik) turlаrgа bo`linаdi",
+        "raqamli va texnik"
+      ]
+    },
+    {
+      "question": "Sportchilar uchun individual mashg`ulot dasturini ishlab chiqishda qaysi metodologik yondashuv qo`llaniladi?",
+      "correctAnswer": "empirik va nazariy tahlilni birgalikda qo`llash",
+      "options": [
+        "moliyaviy natijalarni hisoblash",
+        "musobaqa natijalarini kuzatish",
+        "empirik va nazariy tahlilni birgalikda qo`llash",
+        "amaliy mashg`ulotlar o`tkazish"
+      ]
+    },
+    {
+      "question": "Yangi o`quv-mashg`ulot dasturlari samarasini baholashda ilmiy dalillar qanday rol o`ynaydi?",
+      "correctAnswer": "mashg`ulot natijalarining ishonchliligini ta`minlaydi",
+      "options": [
+        "mashg`ulot natijalarining ishonchliligini ta`minlaydi",
+        "sportchilarni rag`batlantiradi natijalarining ishonchliligini",
+        "jismoniy yuklamalarni cheklaydi",
+        "moliyaviy natijalarni oshiradi natijalarining ishonchliligini"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya va sportda ilmiy tadqiqot natijalarini amaliyotga tatbiq etishda qanday yondashuvlar muhim?",
+      "correctAnswer": "yangi metodlarni joriy etish va ularni samaradorligini sinash",
+      "options": [
+        "eksperimental jarayonlarni cheklash orqali",
+        "amaliy mashg`ulotlar bilan chegaralanish",
+        "moliyaviy ko`rsatkichlarni oshirish orqali",
+        "yangi metodlarni joriy etish va ularni samaradorligini sinash"
+      ]
+    },
+    {
+      "question": "Ilmiy bilishda mantiqiylik va tarixiylik o`rtasidagi aloqalar sport mashg`ulotlari tadqiqotida qanday namoyon bo`ladi?",
+      "correctAnswer": "jismoniy yuklamalarni tahlil qilish va samaradorlikni baholash orqali",
+      "options": [
+        "moliyaviy natijalarni oshirish orqali",
+        "jismoniy yuklamalarni tahlil qilish va samaradorlikni baholash orqali",
+        "nazorat sinovlari orqali",
+        "dalillarning tarixiyligini ko`rsatish orqali"
+      ]
+    },
+    {
+      "question": "Pedagogik tadqiqotlarda innovatsiyalarning ahamiyati jismoniy tarbiya darslarida qanday ko`rinadi?",
+      "correctAnswer": "ta`lim samaradorligini oshirish va jismoniy mashg`ulotlarni yanada qiziqarli qilishda",
+      "options": [
+        "eksperimental jarayonlarni cheklashda",
+        "moliyaviy natijalarni oshirishda",
+        "ta`lim samaradorligini oshirish va jismoniy mashg`ulotlarni yanada qiziqarli qilishda",
+        "nazorat sinovlarini ko`paytirishda"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotda empirik va nazariy yondashuvlarning asosiy farqi jismoniy mashg`ulotlar tadqiqotida qanday namoyon bo`ladi?",
+      "correctAnswer": "empirik kuzatuv va tajriba asosida, nazariy esa tahlil va umumlashma asosida shakllanadi",
+      "options": [
+        "nazorat sinovlarini ko`paytiradi nazariy esa tahlil va umumlashma asosida shakllanadi",
+        "eksperimental jarayonlarni cheklaydi nazariy esa tahlil va umumlashma asosida shakllanadi",
+        "empirik kuzatuv va tajriba asosida, nazariy esa tahlil va umumlashma asosida shakllanadi",
+        "moliyaviy ko`rsatkichlarni ko`rsatadi nazariy esa tahlil va umumlashma asosida shakllanadi"
+      ]
+    },
+    {
+      "question": "Ilmiy bashorat sport mashg`ulotlari rejalarida qanday rol o`ynaydi?",
+      "correctAnswer": "mashg`ulot natijalarini oldindan taxmin qilish va rejalashni yaxshilashda",
+      "options": [
+        "eksperimental tahlillarda oldindan taxmin qilish va rejalashni yaxshilashda",
+        "ma`lumotlarni yig`ishda oldindan taxmin qilish va rejalashni yaxshilashda",
+        "mashg`ulot natijalarini oldindan taxmin qilish va rejalashni yaxshilashda",
+        "nazorat sinovlarini amalga oshirishda"
+      ]
+    },
+    {
+      "question": "Sportda ilmiy tadqiqot natijalarini nashr qilishda qanday talablar muhim?",
+      "correctAnswer": "ma`lumotlarning aniqligi va natijalarning ishonchliligi",
+      "options": [
+        "nazorat sinovlarini oshirish",
+        "ma`lumotlarning aniqligi va natijalarning ishonchliligi",
+        "moliyaviy natijalarni taqdim etish",
+        "eksperimental jarayonlarni cheklash"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya va sport sohasida yangi trening texnologiyalarini sinab ko`rishning asosiy maqsadi nima?",
+      "correctAnswer": "sportchilarning jismoniy tayyorgarligini oshirish",
+      "options": [
+        "nazorat sinovlarini ko`paytirish",
+        "eksperimental jarayonlarni cheklash",
+        "moliyaviy natijalarni oshirish",
+        "sportchilarning jismoniy tayyorgarligini oshirish"
+      ]
+    },
+    {
+      "question": "Ilmiy izlanishda novatsiyalarning sport mashg`ulotlaridagi o`rni qanday ifodalanadi?",
+      "correctAnswer": "yangi mashg`ulot usullari va texnikalarini kiritish orqali",
+      "options": [
+        "moliyaviy natijalarni oshirish orqali",
+        "eksperimental jarayonlarni kamaytirish orqali",
+        "yangi mashg`ulot usullari va texnikalarini kiritish orqali",
+        "amaliy natijalarni ko`rsatish orqali"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya va sportda ilmiy dalillarni tizimlashtirishning asosiy usuli nima?",
+      "correctAnswer": "nazariy tahlil va statistik ma`lumotlar yordamida",
+      "options": [
+        "moliyaviy ko`rsatkichlarni tahlil qilish orqali",
+        "eksperimental jarayonlarni cheklash orqali",
+        "kuzatuvlar orqali",
+        "nazariy tahlil va statistik ma`lumotlar yordamida"
+      ]
+    },
+    {
+      "question": "Og`zaki metodlarga nimalar kiradi?",
+      "correctAnswer": "bilimlarni sо`z bilan bayon qilish, suhbat, darslik ma`lumotnoma va ilmiy adabiyotlar bilan ishlash",
+      "options": [
+        "vizual yordamlar va modellashtirish suhbat, darslik ma`lumotnoma va ilmiy adabiyotlar bilan ishlash",
+        "bilimlarni sо`z bilan bayon qilish, suhbat, darslik ma`lumotnoma va ilmiy adabiyotlar bilan ishlash",
+        "laboratoriya tajribalari suhbat, darslik ma`lumotnoma va ilmiy adabiyotlar bilan ishlash",
+        "kuzatish va yozma hisobot suhbat, darslik ma`lumotnoma va ilmiy adabiyotlar bilan ishlash"
+      ]
+    },
+    {
+      "question": "Metodlar haqidagi fan nima deb ataladi?",
+      "correctAnswer": "metodologiya",
+      "options": [
+        "antropologiya",
+        "tasavvuf",
+        "metodologiya",
+        "geometriya"
+      ]
+    },
+    {
+      "question": "Ta`lim metodlarining funksiyalari?",
+      "correctAnswer": "motivatsiyali, rivojlantiruvchi, tarbiyaviy",
+      "options": [
+        "yozma va og`zaki kuzatish",
+        "yaratish va o`zgartirish",
+        "motivatsiyali, rivojlantiruvchi, tarbiyaviy",
+        "ma`lumot yig`ish va saqlash"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqot predmeti bu…?",
+      "correctAnswer": "bu ilmiy tadqiqot jarayonida organiladigan obekt",
+      "options": [
+        "shaxsiy rivojlanish rejasi",
+        "bu ilmiy tadqiqot jarayonida organiladigan obekt",
+        "fan natijalari",
+        "ta`lim materiallari"
+      ]
+    },
+    {
+      "question": "Metodologiya – bu…?",
+      "correctAnswer": "o`rganilayotgan masalani xususiyatlarini e`tiborga olgan holda tadqiqot metodlarini tanlash va qo`llash imkonini yaratib beruvchi fandir",
+      "options": [
+        "ilmiy loyihalar boshqaruvi e`tiborga olgan holda tadqiqot metodlarini tanlash va qo`llash imkonini yaratib beruvchi fandir",
+        "o`rganilayotgan masalani xususiyatlarini e`tiborga olgan holda tadqiqot metodlarini tanlash va qo`llash imkonini yaratib beruvchi fandir",
+        "empirik bilim yig`ish texnikasi e`tiborga olgan holda tadqiqot metodlarini tanlash va qo`llash imkonini yaratib beruvchi fandir",
+        "tasavvufga asoslangan falsafa e`tiborga olgan holda tadqiqot metodlarini tanlash va qo`llash imkonini yaratib beruvchi fandir"
+      ]
+    },
+    {
+      "question": "Fan funktsiyalari qaysilar?",
+      "correctAnswer": "haqiqiy bilimni yaratish, loyiha-konstruktsiyalash va jamiyatdagi jarayonlarni ijtimoiy tartibga solish",
+      "options": [
+        "shaxsiy rivojlanish qo`llab-quvvatlash loyiha-konstruktsiyalash va jamiyatdagi jarayonlarni ijtimoiy tartibga solish",
+        "ma`naviyatni oshirish vositasi loyiha-konstruktsiyalash va jamiyatdagi jarayonlarni ijtimoiy tartibga solish",
+        "haqiqiy bilimni yaratish, loyiha-konstruktsiyalash va jamiyatdagi jarayonlarni ijtimoiy tartibga solish",
+        "falsafiy ma`lumotlarni saqlash loyiha-konstruktsiyalash va jamiyatdagi jarayonlarni ijtimoiy tartibga solish"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotning asosiy tashkil etuvchilari qaysilar?",
+      "correctAnswer": "odamning maqsadli faoliyati, ilmiy tadqiqot predmeti, ilmiy tadqiqot vositalari",
+      "options": [
+        "faoliyat va dam olish tavsilotlarni sintez qilish, faktlarni solishtirish, haqiqatning tubiga yetib borish",
+        "odamning maqsadli faoliyati, ilmiy tadqiqot predmeti, ilmiy tadqiqot vositalari",
+        "natijalar va xulosalar",
+        "tasdiqlash va o`rganish"
+      ]
+    },
+    {
+      "question": "Empirik – nazariy tadqiqot metodlari  Ushbu metodlarga qanday usullar kiradi?",
+      "correctAnswer": "tahlil (analiz), sintez, induktsiya, deduktsiya, modellashtirish",
+      "options": [
+        "tasodifiy kuzatish va yozish",
+        "tajriba va xulosalar chiqarish",
+        "yuzma-yuz suhbat va tahlil",
+        "tahlil (analiz), sintez, induktsiya, deduktsiya, modellashtirish"
+      ]
+    },
+    {
+      "question": "Empirik tadqiqot metodlariga qaysilar kiradi?",
+      "correctAnswer": "kuzatish, qiyoslash, hisoblash, o`lchash",
+      "options": [
+        "modellashtirish va faraz",
+        "kuzatish, qiyoslash, hisoblash, o`lchash",
+        "tahlil va sintez",
+        "yozma izoh va hisobot"
+      ]
+    },
+    {
+      "question": "Ushbu metod yordamida pedagogik kuzatish va suhbat jarayonida to`plangan dalillar boyitiladi – bu qaysi metod?",
+      "correctAnswer": "anketa metodi",
+      "options": [
+        "nazorat savollari",
+        "kuzatish orqali yozma materiallar",
+        "tajriba usuli",
+        "anketa metodi"
+      ]
+    },
+    {
+      "question": "Ratsional fikrlash usullari qaysilar?",
+      "correctAnswer": "muammolarni tahlil qilish, tavsilotlarni sintez qilish, faktlarni solishtirish, haqiqatning tubiga yetib borish",
+      "options": [
+        "muammolarni tahlil qilish, tavsilotlarni sintez qilish, faktlarni solishtirish, haqiqatning tubiga yetib borish",
+        "tasodifiy fikr yuritish tavsilotlarni sintez qilish, faktlarni solishtirish, haqiqatning tubiga yetib borish",
+        "oddiy kuzatishlar olib borish tavsilotlarni sintez qilish, faktlarni solishtirish, haqiqatning tubiga yetib borish",
+        "xarizmatik yetakchilik qilish tavsilotlarni sintez qilish, faktlarni solishtirish, haqiqatning tubiga yetib borish"
+      ]
+    },
+    {
+      "question": "Irratsional fikrlash usullari nechta va ular qaysilar?",
+      "correctAnswer": "3 ta: sezgi, yoritish, xayol",
+      "options": [
+        "4 ta: sezgi, meditatsiya, hissiyot, tuyg`u",
+        "3 ta: sezgi, yoritish, xayol",
+        "4 ta: sezgi, yoritish, xayol, meditatsiya",
+        "2 ta: sezgi va xayol"
+      ]
+    },
+    {
+      "question": "Amaliy ko`nikmalardan foydalanmasdan vaziyatni modellashtirib, muammoni hal qiluvchi qobiliyat turi qaysi?",
+      "correctAnswer": "xayol",
+      "options": [
+        "xayol",
+        "sezgi",
+        "hissiyot",
+        "meditatsiya"
+      ]
+    },
+    {
+      "question": "Ratsionalizm nima?",
+      "correctAnswer": "lotincha (ong): bilim   ong orqali aniqlanishi mumkin deb hisoblaydigan epistemologik oqimdir",
+      "options": [
+        "lotincha (hissiyot): bilimning manbai sifatida hislarni tan olish oqimi",
+        "grekcha (sezgi): bilishning asosiy manbai deb e`tirof etiladi",
+        "lotincha (ong): bilim   ong orqali aniqlanishi mumkin deb hisoblaydigan epistemologik oqimdir",
+        "inglizcha (analitik):   tajriba orqali bilish mumkinligini ta`kidlaydi"
+      ]
+    },
+    {
+      "question": "Har qanday dalil va mantiq bilan qo`llab-quvvatlanmaydigan bir xil oldindan sezish, his qilish  Bu nima?",
+      "correctAnswer": "sezgi",
+      "options": [
+        "xissiyot",
+        "meditatsiya",
+        "sezgi",
+        "ong"
+      ]
+    },
+    {
+      "question": "Meditatsiya so`zi ma`nosini nima?",
+      "correctAnswer": "diqqat va ongni o`rgatish, aqliy jihatdan aniq, hissiy jihatdan xotirjam va barqaror holatga erishish",
+      "options": [
+        "bilimning asosiy manbai sifatida tuyg`ularni tan olish",
+        "ongni nazorat qilish texnikasi borliqning bir necha mustaqil ibtidosi yoki bilimning bir qancha asoslari mavjudligini e`tirof etuvchi falsafiy qarash",
+        "aqlga asoslangan har qanday faoliyatni tashkil etish borliqning bir necha mustaqil ibtidosi yoki bilimning bir qancha asoslari mavjudligini e`tirof etuvchi falsafiy qarash",
+        "diqqat va ongni o`rgatish, aqliy jihatdan aniq, hissiy jihatdan xotirjam va barqaror holatga erishish"
+      ]
+    },
+    {
+      "question": "Plyuralizm so`zi ma`nosi?",
+      "correctAnswer": "lotincha pluralis – ko`plik, borliqning bir necha mustaqil ibtidosi yoki bilimning bir qancha asoslari mavjudligini e`tirof etuvchi falsafiy qarash",
+      "options": [
+        "grekcha – bilishning yagona manbaiga e`tibor qaratish borliqning bir necha mustaqil ibtidosi yoki bilimning bir qancha asoslari mavjudligini e`tirof etuvchi falsafiy qarash",
+        "inglizcha plurality – bir nechta obyektni birlashtirish",
+        "lotincha pluralis – ko`plik, borliqning bir necha mustaqil ibtidosi yoki bilimning bir qancha asoslari mavjudligini e`tirof etuvchi falsafiy qarash",
+        "lotincha – mantiqiy tizimlarning asosiy mohiyati borliqning bir necha mustaqil ibtidosi yoki bilimning bir qancha asoslari mavjudligini e`tirof etuvchi falsafiy qarash"
+      ]
+    },
+    {
+      "question": "Odamning amaliy ko`nikmalaridan foydalanmasdan vaziyatni modellashtirish va muammoni hal qilish qobiliyati nima?",
+      "correctAnswer": "xayol",
+      "options": [
+        "analitik tafakkur",
+        "mahorat",
+        "xayol",
+        "sezgi"
+      ]
+    },
+    {
+      "question": "Insoniy ijod rivojining omillari qaysilar?",
+      "correctAnswer": "ichki/tashqi",
+      "options": [
+        "ilmiy/ommabop",
+        "ilmiy/siyosiy",
+        "siyosiy/mahalliy",
+        "ichki/tashqi"
+      ]
+    },
+    {
+      "question": "shaxsning xislatlariga quyidagilar kiradi: kreativlik, tavakkalchilik, intuitsiya, iroda baquvvatlik, qobiliyat?",
+      "correctAnswer": "ijodkor",
+      "options": [
+        "ijobiy",
+        "ijodkor",
+        "nazariy",
+        "ilmiy"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqot uslublari qaysilar?",
+      "correctAnswer": "nazariy/empirik",
+      "options": [
+        "empirik/sintetik",
+        "nazariy/uslubiy",
+        "nazariy/empirik",
+        "nazariy/sintetik"
+      ]
+    },
+    {
+      "question": "Ilmiy bilishning shakllarini toping?",
+      "correctAnswer": "hissiy/aqliy",
+      "options": [
+        "badiiy/ilmiy",
+        "nazariy/ilmiy",
+        "aqliy/ilmiy",
+        "hissiy/aqliy"
+      ]
+    },
+    {
+      "question": "insonning individual qarashlari?",
+      "correctAnswer": "shaxsiy bilim",
+      "options": [
+        "badiiy bilim",
+        "shaxsiy bilim",
+        "analitik bilim",
+        "diniy bilim"
+      ]
+    },
+    {
+      "question": "chinligi isbotlanishi lozim bo`lgan bilim?",
+      "correctAnswer": "ilmiy faraz",
+      "options": [
+        "ilmiy asar",
+        "ilmiy faraz",
+        "ilmiy muammo",
+        "ilmiy kashfiyot"
+      ]
+    },
+    {
+      "question": "eksperiment texnika va boshqa fanlarda keng qo`llaniladi?",
+      "correctAnswer": "sun`iy",
+      "options": [
+        "nazariy",
+        "amaliy",
+        "sun`iy",
+        "ilmiy"
+      ]
+    },
+    {
+      "question": "Eksperiment turlari qaysilar?",
+      "correctAnswer": "tabiiy/sun`iy",
+      "options": [
+        "tabiiy/sun`iy",
+        "tabiiy/amaliy",
+        "tabiiy/ilmiy",
+        "ilmiy/amaliy"
+      ]
+    },
+    {
+      "question": "metodlari quyidagilardir: eng umumiy, umumiy va xususiy ilmiy metodlar?",
+      "correctAnswer": "bilish",
+      "options": [
+        "amaliy",
+        "bilish",
+        "sun`iy",
+        "ilmiy"
+      ]
+    },
+    {
+      "question": "Bilish metodlari nechta?",
+      "correctAnswer": "3",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "3"
+      ]
+    },
+    {
+      "question": "yechimi topilmagan noma`lum masala?",
+      "correctAnswer": "ilmiy muammo",
+      "options": [
+        "ilmiy muammo",
+        "ilmiy dalil",
+        "muammoli vaziyat",
+        "ilmiy nazariya"
+      ]
+    },
+    {
+      "question": "narsa, voqea va hodisalarning inson ongida bevosita aks etishi jarayoni, sezgi, idrok va tasavvur?",
+      "correctAnswer": "hissiy bilish",
+      "options": [
+        "aqliy bilish",
+        "ilmiy bilish",
+        "hissiy bilish",
+        "nazariy bilish"
+      ]
+    },
+    {
+      "question": "Bilimning empirik usullari ?",
+      "correctAnswer": "sezish, idrok etish, tasvirlash",
+      "options": [
+        "fikrlash",
+        "kuzatish",
+        "sezish, idrok etish, tasvirlash",
+        "sezish"
+      ]
+    },
+    {
+      "question": "Kuzatuv - bu nima ?",
+      "correctAnswer": "hodisalarni ularga aralashmasdan maqsadli idrok etish",
+      "options": [
+        "arifmetik 4 amal, tenglama va tengsizlik",
+        "hodisalarni ularga aralashmasdan maqsadli idrok etish",
+        "o`lchangan qiymatning nisbatini aniqlash standart (masalan, hisoblagich)",
+        "boshqariladigan va boshqariladigan sharoitlarda hodisalarni o`rganish"
+      ]
+    },
+    {
+      "question": "J  Bernal fan tushunchasiga qanday ta`rif bergan?",
+      "correctAnswer": "institut; metod; ilmiy anʼanalarning shakllanishi; ishlab chiqarishning rivojlanish omili; eʼtiqodlar va insonning dunyoga munosabatini shakllantiruvchi eng kuchli omil sifatida namoyon bo`ladi",
+      "options": [
+        "insonning dunyoga munosabatini shakllantiruvchi eng kuchli omil sifatida ishlab chiqarishning rivojlanish omili; eʼtiqodlar va insonning dunyoga munosabatini namoyon bo`ladi",
+        "institut; metod; ilmiy anʼanalarning shakllanishi; ishlab chiqarishning rivojlanish omili; eʼtiqodlar va insonning dunyoga munosabatini shakllantiruvchi eng kuchli omil sifatida namoyon bo`ladi",
+        "institut; metod insonning dunyoga munosabatini shakllantiruvchi eng kuchli omil sifatida namoyon bo`ladi",
+        "ishlab chiqarishning rivojlanish omili insonning dunyoga munosabatini shakllantiruvchi eng kuchli omil sifatida namoyon bo`ladi"
+      ]
+    },
+    {
+      "question": "O`lchov atamasiga mos tarifni toping?",
+      "correctAnswer": "o`lchangan qiymatning nisbatini aniqlash standart (masalan, hisoblagich)",
+      "options": [
+        "ob`ektlarning o`xshashliklari yoki farqlarini yoki ularning xususiyatlarini aniqlash",
+        "o`lchangan qiymatning nisbatini aniqlash standart (masalan, hisoblagich)",
+        "boshqariladigan va boshqariladigan sharoitlarda hodisalarni o`rganish",
+        "hodisalarni ularga aralashmasdan maqsadli idrok etish"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotda `solishtirish` atamasiga tarif bering?",
+      "correctAnswer": "ob`ektlarning o`xshashliklari yoki farqlarini yoki ularning xususiyatlarini aniqlash",
+      "options": [
+        "ob`ektlarning o`xshashliklari yoki farqlarini yoki ularning xususiyatlarini aniqlash",
+        "boshqariladigan va boshqariladigan sharoitlarda hodisalarni o`rganish",
+        "o`lchangan qiymatning nisbatini aniqlash standart (masalan, hisoblagich)",
+        "hodisalarni ularga aralashmasdan maqsadli idrok etish"
+      ]
+    },
+    {
+      "question": "Ilmiy bilishning empirik usullariga nimalar kiradi?",
+      "correctAnswer": "kuzatish, tajriba va modellashtirish",
+      "options": [
+        "sezish, kuzatish",
+        "tajriba va modellashtirish",
+        "sezish, idrok etish",
+        "kuzatish, tajriba va modellashtirish"
+      ]
+    },
+    {
+      "question": "U uchun alohida talab aniqlikdir, lekin u jarayonning sub`ektiv tomonini tavsiflaganligi sababli, tadqiqotda muayyan vazifani bajarish uchun yetarli bo`lgan aniqlik darajasini shakllantirish kerak  Ushbu tarif qaysi empirik shaklga mos?",
+      "correctAnswer": "o`lchov",
+      "options": [
+        "o`lchov",
+        "fikrlash",
+        "kuzatish",
+        "sezish"
+      ]
+    },
+    {
+      "question": "Kuzatish tarkibiga qanday predmetlar kiradi?",
+      "correctAnswer": "shart-sharoitlar va holatlar (vaqt, joy, texnik vositalar va nazariy kontekst)",
+      "options": [
+        "joy va nazariy kontekst (vaqt, joy, texnik vositalar va nazariy kontekst)",
+        "joylashgan pozitsiya va vaqt birliklari (vaqt, joy, texnik vositalar va nazariy kontekst)",
+        "o`lchov birliklari (vaqt, joy, texnik vositalar va nazariy kontekst)",
+        "shart-sharoitlar va holatlar (vaqt, joy, texnik vositalar va nazariy kontekst)"
+      ]
+    },
+    {
+      "question": "Modellashtirish tuzilishi:",
+      "correctAnswer": "mavzu, ob`ektning asl nusxasi, vositachi ob`ekt (model), tadqiqot konteksti (vaqt, joy, taxminlar, kontseptual va logistika vositalari)",
+      "options": [
+        "tadqiqot konteksti (vaqt, joy, taxminlar, kontseptual va logistika vositalari), ob`ektning asl nusxasi, vositachi ob`ekt (model)",
+        "ob`ektning asl nusxasi, vositachi ob`ekt (model), mavzu, tadqiqot konteksti (vaqt, joy, taxminlar, kontseptual va logistika vositalari)",
+        "mavzu, tadqiqot konteksti (vaqt, joy, taxminlar, kontseptual va logistika vositalari), ob`ektning asl nusxasi, vositachi ob`ekt (model)",
+        "mavzu, ob`ektning asl nusxasi, vositachi ob`ekt (model), tadqiqot konteksti (vaqt, joy, taxminlar, kontseptual va logistika vositalari)"
+      ]
+    },
+    {
+      "question": "Empirik tadqiqotning birinchi bosqichi haqida ma`lumot bering?",
+      "correctAnswer": "maqsad qo`yilgandan so`ng, tadqiqot maqsadlari shakllantirilgandan so`ng, gipoteza ilgari surilgandan so`ng, tadqiqotchi to`g`ridan-to`g`ri faktlarni olish jarayoniga o`tadi",
+      "options": [
+        "eksperiment jarayonni boshqarishning ma`lum darajasiga erishish uchun ob`ektga ongli ravishda ta`sir qilishni o`z ichiga oladi va tadqiqotchi to`g`ridan-to`g`ri faktlarni olish jarayoniga o`tadi",
+        "kuzatish ob`ekt haqidagi nazariy fikrlar bilan shartlanadi",
+        "maqsad qo`yilgandan so`ng, tadqiqot maqsadlari shakllantirilgandan so`ng, gipoteza ilgari surilgandan so`ng, tadqiqotchi to`g`ridan-to`g`ri faktlarni olish jarayoniga o`tadi",
+        "eksperimentator ma`lumotlarni iloji boricha ob`ektiv qilishga, ularni nojo`ya ta`sirlardan tozalashga harakat qiladi va tadqiqotchi to`g`ridan-to`g`ri faktlarni olish jarayoniga o`tadi"
+      ]
+    },
+    {
+      "question": "Tarkibiy jihatdan ilmiy tadqiqotlarni tashkil etish 5 ta asosiy bosqichni o`z ichiga oladi  Ularni tartib bilan sanab bering?",
+      "correctAnswer": "qiyinchilik va muammolar yuzaga kelishi; dastlabki taxmin va gipotezani taklif qilish; nazariy tadqiqotlar olib borish; amalda sinov - tajriba o`tkazish; xulosalar va tavsiyalarni shakllantirish",
+      "options": [
+        "dastlabki taxmin va gipotezani taklif qilish; nazariy tadqiqotlar olib borish; xulosalar va tavsiyalarni shakllantirish",
+        "nazariy tadqiqotlar olib borish; qiyinchilik va muammolar yuzaga kelishi; amalda sinov o`tkazish va nazariy tadqiqotlar olib borish; amalda sinov - tajriba o`tkazish; xulosalar va tavsiyalarni shakllantirish",
+        "amalga oshirishdan keyin xulosalar shakllantirish va nazariy tadqiqotlar olib borish; amalda sinov - tajriba o`tkazish; xulosalar va tavsiyalarni shakllantirish",
+        "qiyinchilik va muammolar yuzaga kelishi; dastlabki taxmin va gipotezani taklif qilish; nazariy tadqiqotlar olib borish; amalda sinov - tajriba o`tkazish; xulosalar va tavsiyalarni shakllantirish"
+      ]
+    },
+    {
+      "question": "Tarkibiy jihatdan ilmiy tadqiqotlarni tashkil etishning birinchi asosiy bosqichni ayting?",
+      "correctAnswer": "qiyinchilik va muammolar yuzaga kelishi",
+      "options": [
+        "amalda sinov - tajriba o`tkazish",
+        "qiyinchilik va muammolar yuzaga kelishi",
+        "nazariy tadqiqotlar olib borish",
+        "xulosalar va tavsiyalarni shakllantirish"
+      ]
+    },
+    {
+      "question": "Tarkibiy jihatdan ilmiy tadqiqotlarni tashkil etishning ikkinchi asosiy bosqichni ayting?",
+      "correctAnswer": "dastlabki taxmin va gipotezani taklif qilish",
+      "options": [
+        "dastlabki taxmin va gipotezani taklif qilish",
+        "qiyinchilik va muammolar yuzaga kelishi",
+        "xulosalar va tavsiyalarni shakllantirish",
+        "amalda sinov - tajriba o`tkazish"
+      ]
+    },
+    {
+      "question": "Tarkibiy jihatdan ilmiy tadqiqotlarni tashkil etishning uchinchi asosiy bosqichni ayting?",
+      "correctAnswer": "nazariy tadqiqotlar olib borish",
+      "options": [
+        "qiyinchilik va muammolar yuzaga kelishi",
+        "amalda sinov - tajriba o`tkazish",
+        "dastlabki taxmin va gipotezani taklif qilish",
+        "nazariy tadqiqotlar olib borish"
+      ]
+    },
+    {
+      "question": "Tarkibiy jihatdan ilmiy tadqiqotlarni tashkil etishning to`rtinchi asosiy bosqichni ayting?",
+      "correctAnswer": "amalda sinov - tajriba o`tkazish",
+      "options": [
+        "qiyinchilik va muammolar yuzaga kelishi",
+        "amalda sinov - tajriba o`tkazish",
+        "nazariy tadqiqotlar olib borish",
+        "dastlabki taxmin va gipotezani taklif qilish"
+      ]
+    },
+    {
+      "question": "Tarkibiy jihatdan ilmiy tadqiqotlarni tashkil etishning beshinchi asosiy bosqichni ayting?",
+      "correctAnswer": "xulosalar va tavsiyalarni shakllantirish",
+      "options": [
+        "amalda sinov - tajriba o`tkazish",
+        "xulosalar va tavsiyalarni shakllantirish",
+        "dastlabki taxmin va gipotezani taklif qilish",
+        "nazariy tadqiqotlar olib borish"
+      ]
+    },
+    {
+      "question": "Ilmiy va amaliy tadqiqotlarni tashkil etish darajalari bir qator belgilar bilan farqlanadi  Ular qaysilar?",
+      "correctAnswer": "mavzu bo`yicha; bilim vositalari va vositalari bilan; tadqiqot usullari bilan; olingan bilimlarning tabiati boʻyicha",
+      "options": [
+        "tabiiy resurslarni baholash va ishlatish bilan olingan bilimlarning tabiati boʻyicha",
+        "mavzu bo`yicha; tadqiqot yo`nalishlari bilan olingan bilimlarning tabiati boʻyicha",
+        "tadqiqot usullari bilan; bilim vositalari bilan olingan bilimlarning tabiati boʻyicha",
+        "mavzu bo`yicha; bilim vositalari va vositalari bilan; tadqiqot usullari bilan; olingan bilimlarning tabiati boʻyicha"
+      ]
+    },
+    {
+      "question": "Nazariy va empirik ishlarda qanday umumiy ilmiy usullardan foydalaniladi?",
+      "correctAnswer": "tahlil va sintez, induksiya va deduksiya, analogiya va modellashtirish, mantiqiy va tarixiy usullar",
+      "options": [
+        "tahlil va xulosa chiqarish deduksiya, analogiya va modellashtirish, mantiqiy va tarixiy usullar",
+        "abstraksiya va spetsifikatsiya, tizimli tahlil deduksiya, analogiya va modellashtirish, mantiqiy va tarixiy usullar",
+        "tahlil va sintez, induksiya va deduksiya, analogiya va modellashtirish, mantiqiy va tarixiy usullar",
+        "modellashtirish va tasniflash va deduksiya, analogiya va modellashtirish, mantiqiy va tarixiy usullar"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotni tashkil etish usuli boʻlib, u obʼyektni uning tarkibiy elementlariga (obʼyekt qismlari, uning xossalari, xususiyatlari, munosabatlari) intellektual yoki amaliy boʻlinish yoʻli bilan oʻrganishdan iborat  Ushbu qaysi ilmiy usul hisoblanadi?",
+      "correctAnswer": "tahlil",
+      "options": [
+        "induksiya",
+        "deduksiya",
+        "tahlil",
+        "modellashtirish"
+      ]
+    },
+    {
+      "question": "Obyektni yaxlit holda, uning qismlari birligi va bog`lanishida o`rganish usuli  Ushbu qaysi ilmiy usul hisoblanadi?",
+      "correctAnswer": "sintez",
+      "options": [
+        "analogiya (taqqoslash)",
+        "induksiya",
+        "sintez",
+        "tahlil"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotni tashkil etish usuli boʻlib, unda elementlar toʻplamining ayrim elementlarida ushbu xususiyatlarni oʻrganish asosida elementlar toʻplamining xususiyatlari haqida umumiy xulosa chiqariladi  Ushbu qaysi ilmiy usul hisoblanadi?",
+      "correctAnswer": "induksiya",
+      "options": [
+        "induksiya",
+        "sintez",
+        "deduksiya",
+        "tahlil"
+      ]
+    },
+    {
+      "question": "Umumiydan xususiyga mantiqiy fikrlash usuli, boshqacha qilib aytganda, avvalo ob`ektning yaxlit holati, so`ngra uning tarkibiy qismlari tekshiriladi  Ushbu qaysi ilmiy usul hisoblanadi?",
+      "correctAnswer": "deduksiya",
+      "options": [
+        "induksiya",
+        "analogiya (taqqoslash)",
+        "deduksiya",
+        "tahlil"
+      ]
+    },
+    {
+      "question": "Ob`ektlarning ayrim jihatlari bo`yicha o`xshashligiga asoslanib, ularning boshqa belgilari bo`yicha o`xshashligi haqida xulosa chiqariladigan usul  Ushbu qaysi ilmiy usul hisoblanadi?",
+      "correctAnswer": "analogiya (taqqoslash)",
+      "options": [
+        "sintez",
+        "induksiya",
+        "analogiya (taqqoslash)",
+        "o`qitish vositasi"
+      ]
+    },
+    {
+      "question": "Bu obyektni uning nusxasini yaratish va tahlil qilish orqali o`rganish  Ushbu qaysi ilmiy usul hisoblanadi?",
+      "correctAnswer": "modellash",
+      "options": [
+        "deduksiya",
+        "sintez",
+        "modellash",
+        "analogiya (taqqoslash)"
+      ]
+    },
+    {
+      "question": "Tadqiqot – bu?",
+      "correctAnswer": "ilmiy bilimlarni egallash bilan bogʻliq boʻlgan nazariyani oʻrganish, sinab koʻrish, kontseptsiyalash va sinovdan oʻtkazish jarayoni",
+      "options": [
+        "ilmiy bilimlarni egallash bilan bogʻliq boʻlgan nazariyani oʻrganish, sinab koʻrish, kontseptsiyalash va sinovdan oʻtkazish jarayoni",
+        "o`rganish predmeti o`rganish ob`ektining tomonlaridan biri hisoblanadi",
+        "ta`lim jarayoni doirasida shaxsni shakllantirish va rivojlantirish sohasidagi muammolarni aniqlash va bartaraf etishga qaratilgan maxsus tashkil etilgan jarayon",
+        "muammolarni aniqlash va bartaraf etishga qaratilgan maxsus tashkil etilgan jarayon"
+      ]
+    },
+    {
+      "question": "Pedagogik tadqiqotga to`g`ri tarif berilgan javobni ko`rsating?",
+      "correctAnswer": "ta`lim jarayoni doirasida shaxsni shakllantirish va rivojlantirish sohasidagi muammolarni aniqlash va bartaraf etishga qaratilgan maxsus tashkil etilgan jarayon",
+      "options": [
+        "ta`lim jarayoni doirasida shaxsni shakllantirish va rivojlantirish sohasidagi muammolarni aniqlash va bartaraf etishga qaratilgan maxsus tashkil etilgan jarayon",
+        "analogiya, kuzatish, shaxsni shakllantirish va rivojlantirish sohasidagi muammolarni aniqlash va bartaraf etishga qaratilgan eksperiment",
+        "induksiya, o`qituvchi yordamida bajarilgan mustaqil ish",
+        "suhbat, kitob bilan ishlash"
+      ]
+    },
+    {
+      "question": "Qaysi aniq tadqiqot muammosi boshqalar tomonidan hal qilinishi haqidagi taxmin, so`z bilan aytganda, tadqiqotchiga qanday ta`sir qilishi va u qanday o`zgarishlarni ko`rishni xohlaydi  Ushbu tarif qaysi pedagogik xususiyatga oid?",
+      "correctAnswer": "gipoteza",
+      "options": [
+        "mustaqil ish",
+        "ilmiy muammo",
+        "og`irli, mustaqil bilim oluvchi, amaliy metodlar",
+        "gipoteza"
+      ]
+    },
+    {
+      "question": "Pedagogika nazariyasi va amaliyoti oʻrtasidagi kelishmovchilikning mohiyatini aks ettiradi  Muvofiqlik tadqiqotning zarurati va ahamiyatini, muammolarni tavsiflaydi  Ushbu tarif qaysi pedagogik xususiyatga oid?",
+      "correctAnswer": "ilmiy muammo",
+      "options": [
+        "o`qitish metodlari",
+        "gipoteza",
+        "ilmiy muammo",
+        "amaliy metodlar"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotni tashkil etishning asosiy xususiyatlari?",
+      "correctAnswer": "natijalarning ehtimollik xususiyati; o`ziga xoslik; qiyinchilik; ko`lami va murakkabligi; tadqiqot va amaliyot o`rtasidagi bog`liqlik",
+      "options": [
+        "amaliy tadqiqotlar uchun mo`ljallangan oddiy jarayonlar va qiyinchilik; ko`lami va murakkabligi; tadqiqot va amaliyot o`rtasidagi bog`liqlik",
+        "ilmiy dalillarni nazariyaga muvofiq sinovdan o`tkazish va qiyinchilik; ko`lami va murakkabligi; tadqiqot va amaliyot o`rtasidagi bog`liqlik",
+        "natijalarning ehtimollik xususiyati; o`ziga xoslik; qiyinchilik; ko`lami va murakkabligi; tadqiqot va amaliyot o`rtasidagi bog`liqlik",
+        "ilmiy natijalarni to`liq tasvirlash va kengaytirish qiyinchilik; ko`lami va murakkabligi; tadqiqot va amaliyot o`rtasidagi bog`liqlik"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotni tashkil etishda aniqlik bu?",
+      "correctAnswer": "hodisani predmet ma`nosini anglatuvchi so`zlarning nominativ ma`noda qo`llanilishi va dalillarning izchilligi",
+      "options": [
+        "nazariy bilimlarning umumiyligi va kengaytirilishi so`zlarning nominativ ma`noda qo`llanilishi va dalillarning izchilligi",
+        "hodisani predmet ma`nosini anglatuvchi so`zlarning nominativ ma`noda qo`llanilishi va dalillarning izchilligi",
+        "ilmiy dalillarni isbotlash jarayoni va so`zlarning nominativ ma`noda qo`llanilishi va dalillarning izchilligi",
+        "fikrlarni aniq bayon etish va izchil tahlil qilish va so`zlarning nominativ ma`noda qo`llanilishi va dalillarning izchilligi"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotni tashkil etishda obyektivlik bu?",
+      "correctAnswer": "narsa va hodisalarning haqqoniy mavjudligi va dalillar bilan isbotlanishi",
+      "options": [
+        "tadqiqot jarayonida subyektiv qarashlarning qo`llanilishi",
+        "narsa va hodisalarning haqqoniy mavjudligi va dalillar bilan isbotlanishi",
+        "fikrlarning nazariy asosda sinchkovlik bilan tahlili",
+        "ilmiy natijalarning ishonchliligi va qayta tekshirilishi"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotni tashkil etishda mantiqiy izchillik bu?",
+      "correctAnswer": "abstrakt atamalarning mantiqiy bog`lanishi va izchil bayon etilishi",
+      "options": [
+        "ilmiy natijalar orasidagi uzviy bog`liqlik",
+        "dalillar va gipotezalar orasidagi izchillik",
+        "abstrakt atamalarning mantiqiy bog`lanishi va izchil bayon etilishi",
+        "tahlil va sintez jarayonlarining muvofiqligi"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotni tashkil etishda ixchamlik bu?",
+      "correctAnswer": "ilmiy nutqqa xos belgidir, ortiqcha tasvir va izoh talab etilmaydi",
+      "options": [
+        "ilmiy nutqqa xos belgidir, ortiqcha tasvir va izoh talab etilmaydi",
+        "ilmiy natijalarning to`liq tavsifi va kengaytirilishi",
+        "ilmiy dalillarni keng qamrovli tahlil qilish",
+        "tadqiqot natijalarining qisqacha bayoni"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotni tashkil etishda to`liqlik bu?",
+      "correctAnswer": "tadqiqot natijalarining keng qamrovli bayoni va daliliy materiallarning yetarliligi",
+      "options": [
+        "o`quv jarayonida eksperiment va nazariyaning bog`liqligi",
+        "ilmiy dalillarning kengaytirilgan tahlili",
+        "tadqiqot jarayonida nazariy bilimlarning muvofiqligi",
+        "tadqiqot natijalarining keng qamrovli bayoni va daliliy materiallarning yetarliligi"
+      ]
+    },
+    {
+      "question": "O`quv jarayonidan tashqari talabalarni ilmiy tadqiqot ishiga jalb etishning 2 xil shakli qaysilar?",
+      "correctAnswer": "fan ilmiy to`garagi va mutaxassislik bo`yicha ilmiy tadqiqot to`garagi",
+      "options": [
+        "gipotezalar va modellashtirish jarayonlari",
+        "fan ilmiy to`garagi va mutaxassislik bo`yicha ilmiy tadqiqot to`garagi",
+        "tahlil va sintez jarayonlari",
+        "nazariy tahlil va eksperimental kuzatuv"
+      ]
+    },
+    {
+      "question": "O`quv jarayonidan tashqari talabalarni ilmiy tadqiqot ishiga jalb etishning nechta xil shakli mavjud?",
+      "correctAnswer": "2",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "5"
+      ]
+    },
+    {
+      "question": "Ma`lum bir muayyan maqsadga erishish uchun amalga oshiriladigan jarayonlar ketma-ketligidan iborat bo`lgan yaratuvchilik faoliyatiga nima deyiladi?",
+      "correctAnswer": "texnologiya",
+      "options": [
+        "innovatsiya",
+        "texnologiya",
+        "dars",
+        "fan"
+      ]
+    },
+    {
+      "question": "Ta`lim texnologiyasi tizimiga to`g`ri ta`rif berilgan javobni ko`rsating?",
+      "correctAnswer": "ta`lim modellarini optimallashtirish, inson va texnika resurslarini hisobga olgan holda ta`lim jarayonini yaratish, qo`llash va aniqlash tizimi",
+      "options": [
+        "umumlashtirish va nazariy dalillarni to`ldirish tizimi texnika resurslarini hisobga olgan holda ta`lim jarayonini yaratish, qo`llash va aniqlash tizimi",
+        "o`quvchilar bilimini sinash jarayoni texnika resurslarini hisobga olgan holda ta`lim jarayonini yaratish, qo`llash va aniqlash tizimi",
+        "ta`lim modellarini optimallashtirish, inson va texnika resurslarini hisobga olgan holda ta`lim jarayonini yaratish, qo`llash va aniqlash tizimi",
+        "yangi bilim va tushunchalar berish jarayoni texnika resurslarini hisobga olgan holda ta`lim jarayonini yaratish, qo`llash va aniqlash tizimi"
+      ]
+    },
+    {
+      "question": "Ilmiy bilishning muhim xususiyatlari nimalardan iborat?",
+      "correctAnswer": "ilmiy tadqiqotlarni tashkil etish va aniq tadqiqot usullarini joriy etishdan",
+      "options": [
+        "ilmiy tadqiqotlarni tashkil etish va aniq tadqiqot usullarini joriy etishdan",
+        "o`quvchilar bilimini sinash",
+        "yangi bilim va ko`nikmalar hosil qilish",
+        "xulq-atvor va fikrlashni ilmiy tadqiqot orqali o`rganish"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqot ishida qanday me`yorlar mavjud bo`lishi kerak?",
+      "correctAnswer": "aniqlik, obyektivlik, mantiqiylik, izchillik, o`ziga xoslik, qisqalik va to`liqlilik",
+      "options": [
+        "mantiqiylik va obyektivlik",
+        "izchillik va o`ziga xoslik",
+        "qisqalik va to`liqlilik",
+        "aniqlik, obyektivlik, mantiqiylik, izchillik, o`ziga xoslik, qisqalik va to`liqlilik"
+      ]
+    },
+    {
+      "question": "Ta`lim modellarini optimallashtirish, inson va texnika resurslarini hisobga olgan holda bilimlarni o`zlashtirish jarayonini yaratish, qo`llash va aniqlash tizimi qaysi tizimga tegishli?",
+      "correctAnswer": "ta`lim texnologiyasi",
+      "options": [
+        "rivojlanish texnologiyasi",
+        "ta`lim texnologiyasi",
+        "innovatsiyalar texnologiyasi",
+        "siyosat texnologiyasi"
+      ]
+    },
+    {
+      "question": "Aniq fikrsiz ilmiy bilimning bo`lishi mumkin emas  Hodisani predmet ma`nosini anglatuvchi so`zlarning ilmiy nutqqa mos qo`llanishi qaysi ilmiy me`yor turiga kiradi?",
+      "correctAnswer": "aniqlik",
+      "options": [
+        "obyektivlik",
+        "mantiqiy izchillik",
+        "ixchamlik",
+        "aniqlik"
+      ]
+    },
+    {
+      "question": "Narsa va hodisalarning haqqoniy mavjudligi dalillar bilan isbotlanadi  Bu qaysi ilmiy me`yor turiga kiradi?",
+      "correctAnswer": "obyektivlik",
+      "options": [
+        "to`liqlik",
+        "aniqlik",
+        "obyektivlik",
+        "ixchamlik"
+      ]
+    },
+    {
+      "question": "Abstrakt atamalarning ko`p qo`llanishi, fikrlarning mantiqiy bog`lanishi va izchil bayon etilishi qaysi ilmiy me`yor turiga kiradi?",
+      "correctAnswer": "mantiqiy izchillik",
+      "options": [
+        "obyektivlik",
+        "ixchamlik",
+        "mantiqiy izchillik",
+        "to`liqlik"
+      ]
+    },
+    {
+      "question": "Ilmiy bayon ortiqcha tasvir va izohni talab etmaydi  Bu qaysi ilmiy me`yor turiga kiradi?",
+      "correctAnswer": "ixchamlik",
+      "options": [
+        "mantiqiy izchillik",
+        "to`liqlik",
+        "ixchamlik",
+        "aniqlik"
+      ]
+    },
+    {
+      "question": "Ilmiy natijalar bayon etishda fikr to`liq va aniq bo`lishi kerak  Bu qaysi ilmiy me`yor turiga kiradi?",
+      "correctAnswer": "to`liqlik",
+      "options": [
+        "aniqlik",
+        "obyektivlik",
+        "ixchamlik",
+        "to`liqlik"
+      ]
+    },
+    {
+      "question": "Talabalarning ilmiy tadqiqot ishlariga qo`yiladigan talablar nimalardan iborat?",
+      "correctAnswer": "barchasi to`g`ri",
+      "options": [
+        "nazariy bilimlarni amaliyotda qo`llash qobiliyatini rivojlantirish",
+        "barchasi to`g`ri",
+        "ijodiy fikrlashni rivojlantirish va ilmiy munozaralar olib borish",
+        "bo`lajak mutaxassislarning ilmiy eruditsiyasi va nazariy dunyoqarashini kengaytirish"
+      ]
+    },
+    {
+      "question": "Fan ilmiy to`garagi va mutaxassislik bo`yicha ilmiy tadqiqot to`garaklari qanday to`garaklar hisoblanadi?",
+      "correctAnswer": "o`quv jarayonidan tashqari talabalarni ilmiy tadqiqot ishiga jalb etish",
+      "options": [
+        "o`quv jarayonidan tashqari talabalarni ilmiy tadqiqot ishiga jalb etish",
+        "o`qituvchi rahbarligida darsdan keyin majburiy ravishda o`tkaziladigan mashg`ulotlar",
+        "o`quvchilar bilan darsdan tashqari vaqtda o`tkaziladigan majburiy mashg`ulotlar",
+        "o`qituvchi rahbarligida darsdan keyin ixtiyoriy ravishda o`tkaziladigan mashg`ulotlar"
+      ]
+    },
+    {
+      "question": "Ijtimoiy taraqqiyot jarayonida insoniyatning kundalik ehtiyojlariga javob sifatida paydo bo`lgan nima?",
+      "correctAnswer": "fan",
+      "options": [
+        "mashinalar",
+        "muammo",
+        "dalillar",
+        "fan"
+      ]
+    },
+    {
+      "question": "Fan qanday sifatida atrof-borliq narsalari va jarayonlarini amalda aniq, izchil va tadrijiy bilishga qaratilgan?",
+      "correctAnswer": "bilim",
+      "options": [
+        "bilim",
+        "ijtimoiy madaniy hodisa",
+        "taraqqiyot",
+        "faoliyat"
+      ]
+    },
+    {
+      "question": "Fan qanday sifatida maqsadlarni belgilash, qarorlar qabul qilish, tanlash, manfaatlarni ko`zlash va mas`uliyatni tan olish maydonida amal qiladi?",
+      "correctAnswer": "faoliyat",
+      "options": [
+        "omil",
+        "ijtimoiy madaniy hodisa",
+        "taraqqiyot",
+        "faoliyat"
+      ]
+    },
+    {
+      "question": "\"Fanning mazmuni ilmiy nazariyalar, gipotezalar, modellardan iborat va tirik odamlarning ilmiy ishi uning jonli mazmunini tashkil etadi\" fikrining muallifi kim?",
+      "correctAnswer": "v i vernadskiy",
+      "options": [
+        "v i vernadskiy",
+        "aristotel",
+        "j bernal",
+        "pifagor"
+      ]
+    },
+    {
+      "question": "Kim fanga amalda ta`rif berish mumkin emasligini qayd etib, fanning mohiyatiga yaqinlashish imkonini beruvchi yo`llarni belgilagan?",
+      "correctAnswer": "j bernal",
+      "options": [
+        "aristotel",
+        "e agatstsi",
+        "beruniy",
+        "j bernal"
+      ]
+    },
+    {
+      "question": "\"Etimologik lug`at\"da nimaga \"tabiiy hodisalarni kuzatish, tasniflash, tavsiflash, tajribada sinash va nazariy tushuntirish vositasi\" deb ta`rif berilgan?",
+      "correctAnswer": "fanga",
+      "options": [
+        "taraqqiyot",
+        "fanga",
+        "eksperiment",
+        "jamiyat"
+      ]
+    },
+    {
+      "question": "\"Fan institut, metod, ilmiy an`analarning shakllanishi va ishlab chiqarishning rivojlanish omili sifatida namoyon bo`ladi\" degan fikr kimga tegishli?",
+      "correctAnswer": "j bernal",
+      "options": [
+        "komenskiy",
+        "b shou",
+        "j bernal",
+        "e agatstsi"
+      ]
+    },
+    {
+      "question": "Kim \"Fan obyektlar haqidagi oddiy fikrlar majmui emas, balki obyektlarning muayyan sohasi haqidagi nazariya sifatida qaralishi kerak\" deb ta`kidlaydi?",
+      "correctAnswer": "e agatstsi",
+      "options": [
+        "b shou",
+        "komenskiy",
+        "e agatstsi",
+        "j bernal"
+      ]
+    },
+    {
+      "question": "Fan qanday sifatida insoniyatning dunyo haqida haqiqiy bilim olish va yaratishga bo`lgan ehtiyojiga javob sifatida yuzaga keladi?",
+      "correctAnswer": "ijtimoiy madaniy hodisa",
+      "options": [
+        "ijtimoiy madaniy hodisa",
+        "falsafiy",
+        "tarixiy",
+        "ma`naviy"
+      ]
+    },
+    {
+      "question": "Fanni qanday sifatida tushuntirish qiyin, chunki u erkinligidan voz kechmaydi va ijtimoiy munosabatlar kontekstiga butunlay singib ketmaydi?",
+      "correctAnswer": "ijtimoiy madaniy hodisa",
+      "options": [
+        "tarixiy",
+        "falsafiy",
+        "ma`naviy",
+        "ijtimoiy madaniy hodisa"
+      ]
+    },
+    {
+      "question": "… taklif qilgan tasnifga ko`ra sivilizatsiyaning 21 tipi farqlanadi  Eng umumiy yondashuv sivilizatsiyalarning ikki xili: an`anaviy va texnogen sivilizatsiyalarni hisobga olib, umumiy sivilizatsion farqlashni taklif qiladi?",
+      "correctAnswer": "a toynbi",
+      "options": [
+        "a toynbi",
+        "v i vernadskiy",
+        "j bernal",
+        "e agatstsi"
+      ]
+    },
+    {
+      "question": "Prezentizmga to`g`ri tarif berilgan javobni ko`rsating?",
+      "correctAnswer": "o`tishni hozirgi zamon tilida tushuntirilishi",
+      "options": [
+        "o`tishning manzarasini hozirgi zamonga bog`lamasdan tiklash",
+        "o`tishni hozirgi zamon tilida tushuntirilishi",
+        "o`tishdan voz kechish",
+        "kelajakdan o`tishga qaytish"
+      ]
+    },
+    {
+      "question": "Antikvarizmga to`g`ri tarif berilgan javobni ko`rsating?",
+      "correctAnswer": "o`tishning manzarasini hozirgi zamonga bog`lamasdan tiklash",
+      "options": [
+        "kelajakdan o`tishga qaytish",
+        "o`tishni hozirgi zamon tilida tushuntirilishi",
+        "o`tishning manzarasini hozirgi zamonga bog`lamasdan tiklash",
+        "o`tishdan voz kechish"
+      ]
+    },
+    {
+      "question": "… tamoyiliga ko`ra: fanning rivojlanishi ichki determinatsiya bilan tavsiflanadi, ya`ni ilmiy bilishga ichdan xos bo`lgan qonuniyatlar bilan belgilanadi?",
+      "correctAnswer": "internalizm",
+      "options": [
+        "eksternalizm",
+        "prezentizm",
+        "internalizm",
+        "antikvarizm"
+      ]
+    },
+    {
+      "question": "… g`oyalar   g`oyalardan kelib chiqishini ta`kidlaydilar?",
+      "correctAnswer": "internalistlar",
+      "options": [
+        "eksternalistlar",
+        "internalistlar",
+        "to`g`ri javob berilmagan",
+        "antikvaristlar"
+      ]
+    },
+    {
+      "question": "… ijtimoiy sharoitlar fanning rivojlanish jarayoniga ta`sir ko`rsatishini, albatta, inkor etmaydi, lekin bu ta`sirni ahamiyatga molik emas deb hisoblaydi?",
+      "correctAnswer": "internalizm",
+      "options": [
+        "antikvarizm",
+        "eksternalizm",
+        "prezentizm",
+        "internalizm"
+      ]
+    },
+    {
+      "question": "… Fan rivojlanishining ijtimoiy sharoitlariga tayangan holda mazkur rivojlanish sabablarini tushunish mumkin emasligini ta`kidlaydilar?",
+      "correctAnswer": "eksternalistlar",
+      "options": [
+        "to`g`ri javob berilmagan",
+        "eksternalistlar",
+        "internalistlar",
+        "antikvaristlar"
+      ]
+    },
+    {
+      "question": "U tafakkur uslubini tubdan qayta qurish fan paydo bo`lishining omili, deb hisoblaydi?",
+      "correctAnswer": "a koyre",
+      "options": [
+        "j bernal",
+        "a koyre",
+        "v i vernadskiy",
+        "aristotel"
+      ]
+    },
+    {
+      "question": "… o`z davrida shunday deb qayd etgan edi: «Fanning takomillashuvini biron-bir odamning qobiliyati yoki uddaburonligidan emas, balki bir-birining o`rniga keluvchi ko`plab avlodlarning izchil faoliyatidan kutish lozim»?",
+      "correctAnswer": "f bekon",
+      "options": [
+        "v i vernadskiy",
+        "f bekon",
+        "a koyre",
+        "j bernal"
+      ]
+    },
+    {
+      "question": "Fan qay tarzda namoyon bo`ladi?",
+      "correctAnswer": "barcha javoblar to`g`ri",
+      "options": [
+        "barcha javoblar to`g`ri",
+        "faoliyat",
+        "bilim",
+        "ijtimoiy hodisa"
+      ]
+    },
+    {
+      "question": "… fan-texnika taraqqiyotining ijobiy jihatlarini mutlaqlashtiradi?",
+      "correctAnswer": "ssientizm",
+      "options": [
+        "internalizm",
+        "ssientizm",
+        "prezentizm",
+        "eksternalizm"
+      ]
+    },
+    {
+      "question": "… falsafiy bilishni ilmiy bilishdan ajratadi, uni ilmiy bilish bilan muvofiq emas, deb e`lon qiladi, u oqilonalikni kamsitadi va mistika, intuitsiya, iroda va shu kabilarni mutlaqlashtiradi?",
+      "correctAnswer": "antissientizm",
+      "options": [
+        "antissientizm",
+        "ssientizm",
+        "prezentizm",
+        "eksternalizm"
+      ]
+    },
+    {
+      "question": "Kuzatish, maktab hujjatlarini o`rganish, tajriba o`tkazish metodlari qaysi guruhga to`g`ri keladi?",
+      "correctAnswer": "ilmiy tadqiqot metodlari guruhi",
+      "options": [
+        "o`quv faoliyatni tashkil etish guruhi",
+        "reproduktiv metodlar",
+        "ilmiy tadqiqot metodlari guruhi",
+        "produktiv guruhlar metodi"
+      ]
+    },
+    {
+      "question": "Fanning … fan rivojlanuvchi kengroq ijtimoiy madaniy muhitdagi bog`liqliklar haqida bahs etadi; bu fan ijtimoiy mezonining ifodasidir?",
+      "correctAnswer": "makrokonteksti",
+      "options": [
+        "ssientizmi",
+        "antissientizmi",
+        "mikrokonteksti",
+        "makrokonteksti"
+      ]
+    },
+    {
+      "question": "O`qitish metodlariga berilgan to`g`ri ta`rifni ko`rsating?",
+      "correctAnswer": "o`qitish metodlari o`qituvchi va o`quvchilarning birgalikdagi faoliyatlari usullari bo`lib, bu faoliyat yordamida yangi bilimlar, malakalar va ko`nikmalarga erishiladi, o`quvchilarning dunyoqarashlari shakllanadi, ularning qobiliyatlari rivojlanadi",
+      "options": [
+        "o`qitish metodlari o`qituvchi va o`quvchilarning birgalikdagi faoliyatlari usullari bo`lib, bu faoliyat yordamida yangi bilimlar, malakalar va ko`nikmalarga erishiladi, o`quvchilarning dunyoqarashlari shakllanadi, ularning qobiliyatlari rivojlanadi",
+        "o`qitish metodlari bu o`qituvchilarning shunday faoliyat usuliki, u bolalarga ma`lumot beradi",
+        "o`qitish metodlari bu o`quvchilarning shunday faoliyat usuliki, u o`quvchilarga bilim beradi",
+        "o`qitish metodlari bu o`quvchilarning bilim olishga qaratilgan faoliyat usuli bo`lib, bu usul orqali o`quvchilarda umuminsoniy fazilatlar rivojlanadi"
+      ]
+    },
+    {
+      "question": "Og`zaki metodlar jumlasiga qanday metodlarni kiritish mumkin?",
+      "correctAnswer": "tushuntirish, suhbat, hikoya, o`quvchilarning darslik bilan ishlashlari",
+      "options": [
+        "qisman izlanish, evristik suhbat",
+        "tushuntirish, suhbat, hikoya, o`quvchilarning darslik bilan ishlashlari",
+        "savol-javob, kitob bilan ishlash, mashq bajarish",
+        "hikoya, mustaqil ish, amaliy ish"
+      ]
+    },
+    {
+      "question": "Fanda eng nufuzli mukofot qanday mukofoti hisoblanadi?",
+      "correctAnswer": "nobel mukofoti",
+      "options": [
+        "fahriy yorliq olish",
+        "rag`batlantirish",
+        "bir aklat miqdorida pul olish",
+        "nobel mukofoti"
+      ]
+    },
+    {
+      "question": "A Toynbi taklif qilgan tasnifga ko`ra sivilizatsiyaning necha tipi farqlanadi?",
+      "correctAnswer": "21",
+      "options": [
+        "21",
+        "22",
+        "23",
+        "20"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqot deb nimaga aytiladi?",
+      "correctAnswer": "yangi bilimlarni ishlab chiqish jarayoni, bilish faoliyati turlaridan biri  unga obʼyektivlik, ishonchlilik, aniqlik xos",
+      "options": [
+        "ilmiy tadqiqotlarni fundamental va amaliy",
+        "ilmiy tadqiqotlarning metod va tajribalari fanning oʻzidagina emas, balki koʻpgina iqtisodiy va ijtimoiy masalalarni hal qilishda ham keng qoʻllaniladi",
+        "ilmiy farazlarni oldindan tahlil etish",
+        "yangi bilimlarni ishlab chiqish jarayoni, bilish faoliyati turlaridan biri  unga obʼyektivlik, ishonchlilik, aniqlik xos"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqot fanining vazifasi?",
+      "correctAnswer": "talabalarni nazariy bilimlar, amaliy ko`nikmalar, radioelektron qurilmalar va tizimlarga va temir yo`l transportida avtomatika va telemexanikaga uslubiy yondashuv",
+      "options": [
+        "bu ob`ektni uning nusxasini (modelini) yaratish va o`rganish",
+        "ilmiy tadqiqot metodologiyasi fanini magistraturada o`qitishdan maqsad",
+        "bu bilish usuli bo`lib, unda ob`ektlarning ayrim belgilarida o`xshashligiga asoslanib, ular boshqa xususiyatlarda o`xshash degan xulosaga keladi",
+        "talabalarni nazariy bilimlar, amaliy ko`nikmalar, radioelektron qurilmalar va tizimlarga va temir yo`l transportida avtomatika va telemexanikaga uslubiy yondashuv"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqot turlari muayyan bir ketma-ketlikda bosqichma bosqich amalga oshiriladi ular berilgan javobni belgilang?",
+      "correctAnswer": "fundamental, amaliy, izlanish",
+      "options": [
+        "izlanish fundamental amliy",
+        "fundamental, amaliy, izlanish",
+        "nazariy bilimlar, amaliy ko`nikmalar, radioelektron qurilmalar",
+        "tahlil qilishni, xulosalar chiqarishni"
+      ]
+    },
+    {
+      "question": "Fan - nima?",
+      "correctAnswer": "fan - bu dalillarga asoslangan tizimli metodologiyaga rioya qilgan holda tabiiy va ijtimoiy dunyoni bilish",
+      "options": [
+        "fan - bu dalillarga asoslangan tizimli metodologiyaga rioya qilgan holda tabiiy va ijtimoiy dunyoni bilish",
+        "o`qitish metodlari bu o`qituvchilarning shunday faoliyat usuliki, u bolalarga ma`lumot beradi",
+        "bu ob`ektni uning nusxasini yaratish va o`rganish",
+        "ta`lim oluvchilarni faollashtiruvchi va mustaqil fikrlashga undovchi metodlar"
+      ]
+    },
+    {
+      "question": "Fundamental tadqiqotlar deb nimaga aytiladi?",
+      "correctAnswer": "prinsipial yangi bilimlarni (yaratish) barpo etish va oldinda mavjud bilimlar sistemasini rivojlantirishga qaratiladi",
+      "options": [
+        "prinsipial yangi bilimlarni (yaratish) barpo etish va oldinda mavjud bilimlar sistemasini rivojlantirishga qaratiladi",
+        "amaliy tadqiqotlar natijalarini ishlab chiqarish texnologiyalarini tajriba nusxalarini yaratish",
+        "ilmiy izlanishlar obyektiv borliqni anglab yetishdir",
+        "ilmiy tadqiqotlar bosqichma-bosqich amalga oshiriladi"
+      ]
+    },
+    {
+      "question": "Bilish deganga nimani tushunasiz?",
+      "correctAnswer": "ilmiy izlanishlar yordamida amalga oshiriladigan bilmaslikdan bilimga yo`naltirilgan murakkab jarayon",
+      "options": [
+        "masalani shakllantirishga tadqiqot olib borilayotgan muammo haqida ma`lumotlar yig`ish",
+        "eksperimental tadqiqotlardan ko`zlangan maqsad ilmiy muammoni tekshirishdir",
+        "ilmiy izlanishlar yordamida amalga oshiriladigan bilmaslikdan bilimga yo`naltirilgan murakkab jarayon",
+        "matematik apparatlardan foydalanib ma`lum bo`lmagan yangi qonuniyatlarni ochish"
+      ]
+    },
+    {
+      "question": "Zamonaviy dars deb nimaga aytiladi?",
+      "correctAnswer": "ta`limning rivojlangan shakli bo`lib, yangi metod va usullardan foydalanishni nazarda tutadi",
+      "options": [
+        "o`quvchilar savollarga javob topib, darsda bahs-munozara olib boriladi",
+        "darsda muammoli vaziyat vujudga keltiriladi",
+        "o`qituvchi konferentsiya darslarini tashkil etishdan oldin maqsadni aniq belgilaydi",
+        "ta`limning rivojlangan shakli bo`lib, yangi metod va usullardan foydalanishni nazarda tutadi"
+      ]
+    },
+    {
+      "question": "Zamonaviy dars turlari qaysilar?",
+      "correctAnswer": "ma`ruza, seminar, laboratoriya, konferensiya, bahs-munozara",
+      "options": [
+        "falsafiy, siyosiy, maishiy, biografik kabi xillarga bo`linadi",
+        "ma`ruza, seminar, laboratoriya, konferensiya, bahs-munozara",
+        "munozarali bahs, suhbat, savol-javob",
+        "jamoa, guruhli va individual shakllari"
+      ]
+    },
+    {
+      "question": "Dars nima?",
+      "correctAnswer": "ta`limning o`quvchilar tomonidan o`zlashtirilishi lozim bo`lgan bilim va ko`nikma, malaka, axloqiy estetik sifatlarni o`zlashtirish maqsadida tashkil etiladigan shakli",
+      "options": [
+        "muayyan muammolarni yechishda jamoa bo`lib ishlash",
+        "ta`limning o`quvchilar tomonidan o`zlashtirilishi lozim bo`lgan bilim va ko`nikma, malaka, axloqiy estetik sifatlarni o`zlashtirish maqsadida tashkil etiladigan shakli",
+        "mavzuni o`rganish va yangi bilimlarni amaliyotda qo`llash darsi va o`zlashtirilishi lozim bo`lgan bilim va ko`nikma, malaka, axloqiy estetik sifatlarni o`zlashtirish maqsadida tashkil etiladigan shakli",
+        "muammoli vaziyat vujudga keltiriladi va o`zlashtirilishi lozim bo`lgan bilim va ko`nikma, malaka, axloqiy estetik sifatlarni o`zlashtirish maqsadida tashkil etiladigan shakli"
+      ]
+    },
+    {
+      "question": "Qanday dars turlarini bilasiz?",
+      "correctAnswer": "mavzuni o`rganish, o`tilgan mavzuni mustahkamlash, bilim va ko`nikmalarni tekshirishga qaratilgan nazorat darslari",
+      "options": [
+        "bahs-munozara asosida olib boriladi",
+        "turli eksperimental topshiriqlarni bajarishadi",
+        "jamoa, guruhli va individual",
+        "mavzuni o`rganish, o`tilgan mavzuni mustahkamlash, bilim va ko`nikmalarni tekshirishga qaratilgan nazorat darslari"
+      ]
+    },
+    {
+      "question": "Interfaol metodlar deganda nimani tushunasiz?",
+      "correctAnswer": "ta`lim oluvchilarni faollashtiruvchi va mustaqil fikrlashga undovchi metodlar",
+      "options": [
+        "o`qitishning interfaol usullari ta`lim maqsadiga qarab tanlanadi",
+        "ta`lim beruvchi tomonidan ta`lim oluvchilarning qiziqishini oshirishga yo`naltirilgan metodlar",
+        "interfaol ta`lim metodlari turli ta`lim-tarbiya jarayonlarida qo`llaniladi",
+        "ta`lim oluvchilarni faollashtiruvchi va mustaqil fikrlashga undovchi metodlar"
+      ]
+    },
+    {
+      "question": "Ta`lim metodlarining turlariga to`g`ri tarif berilgan javobni ko`rsating?",
+      "correctAnswer": "nazariy bilim berish, amaliy ko`nikma va malakalarni o`rgatish metodlari",
+      "options": [
+        "o`quvchilarning iqtidorlarini aniqlash",
+        "mashg`ulot sifati va samaradorligini oshirish metodlari",
+        "nazariy bilim berish, amaliy ko`nikma va malakalarni o`rgatish metodlari",
+        "interfaol usullarni ta`lim maqsadiga qarab tanlash"
+      ]
+    },
+    {
+      "question": "Pedagogik va psixologik yo`nalishlariga tegishli ta`lim metodlari qaysilar?",
+      "correctAnswer": "interfaol, didaktik o`yinlar, muammoli ta`lim metodlari",
+      "options": [
+        "tabiiy fanlarni o`qitishga mos metodlar",
+        "interfaol, didaktik o`yinlar, muammoli ta`lim metodlari",
+        "yozma ishlar, diktant, nazorat ishlari",
+        "mustaqil ishlar va savol-javoblar"
+      ]
+    },
+    {
+      "question": "Metod tushunchasiga to`g`ri tarif berilgan javobni ko`rsating?",
+      "correctAnswer": "yun  \"metodos\" — bilish yoki tadqiqot yoʻli, nazariya, taʼlimot",
+      "options": [
+        "yangi qonuniyatlarni ochish uchun nazariy usullardan foydalaniladi",
+        "yun  \"metodos\" — bilish yoki tadqiqot yoʻli, nazariya, taʼlimot",
+        "amaliy darslarda o`quvchilar guruhlarga ajralib ishlashadi",
+        "interfaol ta`lim metodlari, didaktik o`yinlar"
+      ]
+    },
+    {
+      "question": "Pedagogik tadqiqot metodlari nima?",
+      "correctAnswer": "ilmiy nazariyalarning bog`liqliklarini o`rnash maqsadida ilmiy ma`lumotlarni olish yo`llari",
+      "options": [
+        "bilimlarni sо`z bilan bayon qilish va suhbat",
+        "qonuniy aloqalarni o`rnashga yo`naltirilgan metodlar",
+        "adabiyotlar bilan ishlash yo`llari",
+        "ilmiy nazariyalarning bog`liqliklarini o`rnash maqsadida ilmiy ma`lumotlarni olish yo`llari"
+      ]
+    },
+    {
+      "question": "Ilmiy izlanishda olimning ijtimoiy mas`uliyati nimadan iborat?",
+      "correctAnswer": "tadqiqot natijalarining ijtimoiy manfaatga xizmat qilishi",
+      "options": [
+        "tadqiqot jarayonini hujjatlashtirish",
+        "individual manfaatlarni ko`zlash",
+        "texnologik yutuqlarga qaratilganlik",
+        "tadqiqot natijalarining ijtimoiy manfaatga xizmat qilishi"
+      ]
+    },
+    {
+      "question": "Fan ijtimoiy madaniy hodisa sifatida qanday tushuniladi?",
+      "correctAnswer": "jamiyat rivojlanishiga ta`sir qiluvchi omil sifatida",
+      "options": [
+        "jamiyat rivojlanishiga ta`sir qiluvchi omil sifatida",
+        "ilmiy natijalarni targ`ib qilish sifatida",
+        "texnik yutuqlarga asoslangan jarayon sifatida",
+        "nazariy fanlarni rivojlantirish"
+      ]
+    },
+    {
+      "question": "Pedagogika sohasidagi tadqiqotlarning o`ziga xos jihatlari nimalardan iborat?",
+      "correctAnswer": "ijodiy yondashuv va o`quv jarayonini takomillashtirish",
+      "options": [
+        "ilmiy texnologiyalarni tatbiq etish",
+        "statistik tahlillarga qaratilganlik",
+        "ijodiy yondashuv va o`quv jarayonini takomillashtirish",
+        "laboratoriya natijalariga asoslanish"
+      ]
+    },
+    {
+      "question": "Ilmiy bilishning shakl va metodlari qanday aniqlanadi?",
+      "correctAnswer": "tadqiqot maqsadi va muammoga asoslangan holda",
+      "options": [
+        "ilmiy yondashuvlarni kengaytirish orqali",
+        "tarixiy nazariyalarni o`rganish orqali",
+        "tahliliy natijalarga asoslanish",
+        "tadqiqot maqsadi va muammoga asoslangan holda"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotda tushunish va tushuntirishning ahamiyati nimada?",
+      "correctAnswer": "tadqiqot natijalarini to`g`ri talqin qilishda",
+      "options": [
+        "tajriba natijalarini hujjatlashtirishda",
+        "ilmiy muloqotlarni shakllantirishda",
+        "ilmiy nazariyalarni sintez qilishda",
+        "tadqiqot natijalarini to`g`ri talqin qilishda"
+      ]
+    },
+    {
+      "question": "Ilmiy muammo va muammoli vaziyatning tadqiqotdagi o`rni qanday?",
+      "correctAnswer": "ilmiy yo`nalishni aniqlashda",
+      "options": [
+        "nazariy fanlar uchun asos yaratishda",
+        "ilmiy gipotezalarni tasdiqlashda",
+        "ilmiy masalalarni tizimlashtirishda",
+        "ilmiy yo`nalishni aniqlashda"
+      ]
+    },
+    {
+      "question": "Tasvirlash, tavsiflash, tushunish va tushuntirish ilmiy tadqiqot jarayonida qanday ahamiyatga ega?",
+      "correctAnswer": "nazariy va empirik natijalarni aniqlashda",
+      "options": [
+        "ilmiy tahlil va xulosalar chiqarishda",
+        "nazariy va empirik natijalarni aniqlashda",
+        "ilmiy gipotezalarni mustahkamlashda",
+        "ilmiy metodologiyani shakllantirishda"
+      ]
+    },
+    {
+      "question": "Ilmiy bilish darajalari qanday tasniflanadi?",
+      "correctAnswer": "empirik va nazariy bilish darajalariga",
+      "options": [
+        "ilmiy-texnik yondashuvlarga",
+        "fundamental va qo`llanma yondashuvlariga",
+        "empirik va nazariy bilish darajalariga",
+        "nazariy va eksperimental tadqiqotlarga"
+      ]
+    },
+    {
+      "question": "Fan va ilmiy faoliyat shaffofligi nima bilan ta`minlanadi?",
+      "correctAnswer": "ochiq ma`lumotlar va natijalarni oshkor qilish bilan",
+      "options": [
+        "natijalarni ommaga taqdim etish bilan",
+        "ilmiy jarayonlarni tizimlashtirish bilan",
+        "ilmiy hamkorliklarni kengaytirish bilan",
+        "ochiq ma`lumotlar va natijalarni oshkor qilish bilan"
+      ]
+    },
+    {
+      "question": "Axborot va axborot texnologiyalarining ilmiy bilishdagi o`rni qanday?",
+      "correctAnswer": "tezkor ma`lumot olish va tahlil qilish imkonini beradi",
+      "options": [
+        "ilmiy jarayonlarni optimallashtirish imkonini yaratadi",
+        "axborot oqimlarini boshqarish imkoniyatini oshiradi",
+        "ilmiy natijalarni tezkor yetkazishga yordam beradi",
+        "tezkor ma`lumot olish va tahlil qilish imkonini beradi"
+      ]
+    },
+    {
+      "question": "Ijod va ijodiy faoliyat uyg`unligi tadqiqotlarda qanday namoyon bo`ladi?",
+      "correctAnswer": "yangi metodlarni joriy qilishda",
+      "options": [
+        "innovatsion jarayonlarni rivojlantirishda",
+        "ilmiy tahlil natijalarini kengaytirishda",
+        "tizimlardagi muammolarni hal qilishda",
+        "yangi metodlarni joriy qilishda"
+      ]
+    },
+    {
+      "question": "Ilmiy bashoratning ilmiy nazariya bilan bog`liqligi qanday tushuntiriladi?",
+      "correctAnswer": "kelgusidagi tadqiqot yo`nalishlarini belgilash orqali",
+      "options": [
+        "fundamental natijalarni kuchaytirish orqali",
+        "tahliliy jarayonlarni takomillashtirish orqali",
+        "ilmiy gipotezalarni shakllantirish orqali",
+        "kelgusidagi tadqiqot yo`nalishlarini belgilash orqali"
+      ]
+    },
+    {
+      "question": "Sinergetika fanlararo tadqiqot metodi sifatida qanday ishlatiladi?",
+      "correctAnswer": "tizimli va o`zaro bog`liq hodisalarni o`rganishda",
+      "options": [
+        "tizimli va o`zaro bog`liq hodisalarni o`rganishda",
+        "fanlararo hamkorlikni kuchaytirishda",
+        "fundamental yondashuvlarni diversifikatsiya qilishda",
+        "ilmiy jarayonlarni rivojlantirishda"
+      ]
+    },
+    {
+      "question": "Intuitsiya ilmiy bilishda qanday ahamiyatga ega?",
+      "correctAnswer": "muammolarni tezkorlik bilan tushunish va yechim topishda",
+      "options": [
+        "gipotezalarni tasdiqlashda",
+        "tadqiqot natijalarini boyitishda",
+        "muammolarni tezkorlik bilan tushunish va yechim topishda",
+        "ilmiy jarayonlarni soddalashtirishda"
+      ]
+    },
+    {
+      "question": "Ilmiy bilish shakllari qanday tasniflanadi?",
+      "correctAnswer": "empirik va nazariy shakllarga",
+      "options": [
+        "fundamental va eksperimental shakllarga",
+        "ilmiy-tahliliy shakllarga",
+        "gipoteza va modellashtirish shakllariga",
+        "empirik va nazariy shakllarga"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotda axborot xavfsizligini ta`minlashning sport sohasidagi ahamiyati nimada?",
+      "correctAnswer": "mashg`ulot rejalarining maxfiyligini ta`minlash",
+      "options": [
+        "mashg`ulot rejalarining maxfiyligini ta`minlash",
+        "amaliy natijalarni yozish",
+        "eksperimental jarayonlarni cheklash",
+        "moliyaviy ko`rsatkichlarni oshirish"
+      ]
+    },
+    {
+      "question": "Ilmiy bilishda intuitiv yondashuv sportchilar uchun qanday ahamiyatga ega?",
+      "correctAnswer": "muammoni tez tushunish va samarali echimlarni topishda",
+      "options": [
+        "eksperimental jarayonlarni cheklashda",
+        "nazariy yondashuvga asoslanishda",
+        "muammoni tez tushunish va samarali echimlarni topishda",
+        "moliyaviy natijalarni oshirishda"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotda ratsionallik va irratsionallikning sport mashg`ulotlariga ta`siri qanday ko`rinadi?",
+      "correctAnswer": "mashg`ulot jarayonlarining natijalarini aniq va ishonchli baholashda",
+      "options": [
+        "tizimli mashg`ulotlar uchun asos yaratishda",
+        "sportchilar natijalarini tahlil qilishda",
+        "mashg`ulot jarayonlarining natijalarini aniq va ishonchli baholashda",
+        "yangi yondashuvlarni amaliyotga joriy etishda"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya darslarida qanday mashg`ulot turlari samaraliroq hisoblanadi?",
+      "correctAnswer": "o`yinlar va jismoniy mashqlar",
+      "options": [
+        "o`yinlar va jismoniy mashqlar",
+        "faoliyatga yo`naltirilgan tajribalar",
+        "interfaol o`quv mashg`ulotlari",
+        "harakatga asoslangan guruh mashqlari"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotda sinergetik yondashuv nima uchun muhim?",
+      "correctAnswer": "murakkab tizimlarni tushunish va boshqarishda",
+      "options": [
+        "jismoniy yuklamalarni samarali boshqarishda",
+        "murakkab tizimlarni tushunish va boshqarishda",
+        "ilmiy natijalarni optimallashtirishda",
+        "sportchilarning moslashuvchanligini oshirishda"
+      ]
+    },
+    {
+      "question": "Sport mashg`ulotlarida dalillarni to`plashning eng samarali usuli qaysi?",
+      "correctAnswer": "kuzatish va statistik tahlil",
+      "options": [
+        "kuzatish va statistik tahlil",
+        "eksperimental sinovlar o`tkazish",
+        "amaliy kuzatuv usullarini qo`llash",
+        "mashg`ulot natijalarini solishtirish"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya va sportda yangi mashg`ulot texnikalarini sinovdan o`tkazishning eng muhim jihati nima?",
+      "correctAnswer": "mashg`ulot samaradorligini aniqlash",
+      "options": [
+        "sportchilar natijalarini optimallashtirish",
+        "innovatsion yondashuvlarni qo`llash",
+        "mashg`ulot samaradorligini aniqlash",
+        "yangi usullarni joriy qilish"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya va sport bo`yicha ilmiy tadqiqot natijalarini qanday qilib keng jamoatchilikka taqdim etish mumkin?",
+      "correctAnswer": "ilmiy maqolalar va hisobotlar orqali",
+      "options": [
+        "o`quv dasturlarida kiritish orqali",
+        "jamoatchilik bilan ochiq suhbatlar tashkil etish orqali",
+        "ilmiy maqolalar va hisobotlar orqali",
+        "mahalliy va xalqaro konferensiyalar orqali"
+      ]
+    },
+    {
+      "question": "Sportda ilmiy tadqiqot metodologiyasi bo`yicha eng oddiy tushuncha qaysi?",
+      "correctAnswer": "tadqiqot usullari va natijalarni tahlil qilish qoidalari yig`indisi",
+      "options": [
+        "nazariy va empirik metodlarni uyg`unlashtirish",
+        "ilmiy-texnik yondashuvlarni optimallashtirish",
+        "tadqiqot natijalarini tizimlashtirish",
+        "tadqiqot usullari va natijalarni tahlil qilish qoidalari yig`indisi"
+      ]
+    },
+    {
+      "question": "Jismoniy mashg`ulotlar samaradorligini oshirish uchun ilmiy dalillarni qanday foydalanish mumkin?",
+      "correctAnswer": "mashg`ulot rejalarini dalillarga asoslangan holda tuzish orqali",
+      "options": [
+        "nazorat mashqlari natijalariga tayangan holda",
+        "harakatli mashqlarni kuzatish orqali",
+        "sportchilarning individual ehtiyojlariga asoslangan holda",
+        "mashg`ulot rejalarini dalillarga asoslangan holda tuzish orqali"
+      ]
+    },
+    {
+      "question": "Sportchilar uchun maxsus mashg`ulot dasturlarini ishlab chiqishda qanday tadqiqot usullari ishlatiladi?",
+      "correctAnswer": "kuzatish va eksperimental sinovlar",
+      "options": [
+        "kuzatish va eksperimental sinovlar",
+        "jismoniy yuklamalarni solishtirish",
+        "mashg`ulot natijalarini o`lchash",
+        "innovatsion yondashuvlarni sinovdan o`tkazish"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqot natijalarini qanday qilib sport mashg`ulotlariga qo`llash mumkin?",
+      "correctAnswer": "olingan natijalarni mashg`ulot rejalariga integratsiya qilish orqali",
+      "options": [
+        "olingan natijalarni mashg`ulot rejalariga integratsiya qilish orqali",
+        "sportchilarning individual rejalarini yaratish orqali",
+        "nazariy ma`lumotlarni amaliyotga moslashtirish orqali",
+        "mashg`ulot natijalarini muntazam kuzatish orqali"
+      ]
+    },
+    {
+      "question": "Ilmiy izlanishda axborot xavfsizligi qanday ta`minlanadi?",
+      "correctAnswer": "ma`lumotlarni shifrlash va maxfiy saqlash orqali",
+      "options": [
+        "olingan ma`lumotlarni qayta ishlash va nazorat qilish orqali",
+        "ilmiy natijalarni himoya qilish mexanizmlarini joriy qilish orqali",
+        "ma`lumotlarni shifrlash va maxfiy saqlash orqali",
+        "tahliliy natijalarni hujjatlashtirish orqali"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya darslarida talabalar qiziqishini oshirish uchun qaysi usul samarali?",
+      "correctAnswer": "o`yin mashg`ulotlarini kiritish",
+      "options": [
+        "guruhli va interfaol mashqlarni tashkil qilish",
+        "faoliyatga yo`naltirilgan ta`lim metodlari",
+        "o`yin mashg`ulotlarini kiritish",
+        "mashg`ulotlarga innovatsiyalarni qo`llash"
+      ]
+    },
+    {
+      "question": "Sportda yangi mashg`ulot texnikasini sinovdan o`tkazish uchun nima zarur?",
+      "correctAnswer": "tajribalar va kuzatishlar o`tkazish",
+      "options": [
+        "tajribalar va kuzatishlar o`tkazish",
+        "mashg`ulot rejalarini joriy etish",
+        "eksperimental natijalarni tahlil qilish",
+        "innovatsion usullarni amaliyotga tatbiq qilish"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya va sport mashg`ulotlarini ilmiy asosda qanday tashkil qilish mumkin?",
+      "correctAnswer": "ilmiy tadqiqot natijalariga tayanib mashg`ulot rejalarini tuzish",
+      "options": [
+        "ilmiy tadqiqot natijalariga tayanib mashg`ulot rejalarini tuzish",
+        "innovatsion texnologiyalarni tatbiq qilish",
+        "sportchilarning ehtiyojlarini muntazam tahlil qilish",
+        "amaliy mashqlarni nazariy tahlil bilan qo`shib olib borish"
+      ]
+    },
+    {
+      "question": "Sportchilar uchun mashg`ulot dasturlarini shakllantirishda qanday omillar muhim?",
+      "correctAnswer": "jismoniy yuklamalarning ilmiy asosda tahlili",
+      "options": [
+        "mashg`ulot jarayonining davomiyligi va intensivligi",
+        "jismoniy yuklamalarning ilmiy asosda tahlili",
+        "sportchilarning individual moslashuvchanligi",
+        "natijalarni kuzatish va baholash tizimlari"
+      ]
+    },
+    {
+      "question": "Ilmiy izlanishda axloqiy me`yorlarning ahamiyati nimada?",
+      "correctAnswer": "natijalarni halol taqdim etish va jamiyat manfaati uchun ishlatishda",
+      "options": [
+        "natijalarni halol taqdim etish va jamiyat manfaati uchun ishlatishda",
+        "ilmiy natijalarni shaffof va ishonchli qilish",
+        "jamiyatga xizmat qiluvchi ilmiy yondashuvlarni tatbiq etishda",
+        "axloqiy tamoyillarga asoslangan tadqiqot jarayonlarini rivojlantirish"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqotda metodologik yondashuvning asosiy tamoyillari qaysilar?",
+      "correctAnswer": "tizimlilik, izchillik, ratsionallik",
+      "options": [
+        "ilmiy jarayonlarni samarali boshqarish",
+        "ilmiy natijalarni nazariy va amaliy jihatdan uyg`unlashtirish",
+        "empirik va nazariy metodlarni uyg`un ravishda qo`llash",
+        "tizimlilik, izchillik, ratsionallik"
+      ]
+    },
+    {
+      "question": "Ilmiy bilish shakllari qaysi bosqichlarda namoyon bo`ladi?",
+      "correctAnswer": "empirik va nazariy bosqichlarda",
+      "options": [
+        "empirik va nazariy bosqichlarda",
+        "ilmiy kuzatuv va tajriba natijalarida",
+        "fundamental va qo`llanma tadqiqotlar orqali",
+        "tadqiqot natijalarini tahlil qilish va umumlashtirish bosqichlarida"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqot natijalarini nashr qilishda qanday mezonlar e`tiborga olinadi?",
+      "correctAnswer": "ma`lumotlarning aniq, ishonchli va dolzarb bo`lishi",
+      "options": [
+        "nazariy va amaliy ahamiyatga ega bo`lgan natijalar",
+        "yangi bilimlarni targ`ib qilishga xizmat qiluvchi yondashuvlar",
+        "ma`lumotlarning aniq, ishonchli va dolzarb bo`lishi",
+        "ilmiy natijalarni keng jamoatchilikka taqdim etish"
+      ]
+    },
+    {
+      "question": "Ilmiy tadqiqot natijalarini amaliyotga tatbiq etishda qanday yondashuvlar muhim?",
+      "correctAnswer": "innovatsion texnologiyalarni ishlab chiqish va ulardan foydalanish",
+      "options": [
+        "innovatsion texnologiyalarni ishlab chiqish va ulardan foydalanish",
+        "nazariy bilimlarni amaliy mashg`ulotlarga integratsiya qilish",
+        "tadqiqot natijalarini amaliyotda sinovdan o`tkazish",
+        "ilmiy asoslangan dasturlarni joriy etish"
+      ]
+    },
+    {
+      "question": "Sport fanlari bo`yicha magistraturaning asosiy maqsadi nima?",
+      "correctAnswer": "ilmiy tadqiqot ko`nikmalarini shakllantirish",
+      "options": [
+        "sport musobaqalarini tashkil etish",
+        "sportchilarning mashg`ulotlarini kuzatish",
+        "ilmiy tadqiqot ko`nikmalarini shakllantirish",
+        "sportchilar uchun individual dasturlar yaratish"
+      ]
+    },
+    {
+      "question": "Sport fanlarida samaradorlikni baholash qanday usullarni o`z ichiga oladi?",
+      "correctAnswer": "ma`lumot to`plash va statistik tahlil qilish",
+      "options": [
+        "sportchilarni individual baholash",
+        "motivatsion nutqlar o`tkazish",
+        "an`anaviy kuzatish",
+        "ma`lumot to`plash va statistik tahlil qilish"
+      ]
+    },
+    {
+      "question": "Magistrlik dissertatsiyasi muvaffaqiyatli bo`lishi uchun qaysi qadam muhim?",
+      "correctAnswer": "tadqiqot savolining to`g`ri aniqlanishi",
+      "options": [
+        "sport mashg`ulotlarini tahlil qilish",
+        "sportchilar bilan individual suhbatlar o`tkazish",
+        "kuzatuv natijalarini yig`ish",
+        "tadqiqot savolining to`g`ri aniqlanishi"
+      ]
+    },
+    {
+      "question": "Sport fanlarida biomexanikaning asosiy maqsadi nima?",
+      "correctAnswer": "harakatlarni yanada samarali qilish",
+      "options": [
+        "sport jihozlarini tanlash",
+        "harakatlarni yanada samarali qilish",
+        "sportchilar uchun dietalarni belgilash",
+        "sport musobaqalarini tashkil etish"
+      ]
+    },
+    {
+      "question": "Sport psixologiyasi nimaga qaratilgan?",
+      "correctAnswer": "sportchilarning ruhiy chidamliligini oshirish",
+      "options": [
+        "sportchilarning ruhiy chidamliligini oshirish",
+        "sport jihozlarini joylashtirish",
+        "jismoniy tayyorgarlikni nazorat qilish",
+        "sportchilarni dam olishga yo`naltirish"
+      ]
+    },
+    {
+      "question": "Aerobik chidamlilikni oshirish uchun qaysi mashq samarali?",
+      "correctAnswer": "uzoq masofaga yugurish",
+      "options": [
+        "asta-sekin sprintlar bajarish",
+        "qisqa muddatli esnash",
+        "kuch mashqlari bajarish",
+        "uzoq masofaga yugurish"
+      ]
+    },
+    {
+      "question": "Sport fanlarida etik tamoyillar nega muhim?",
+      "correctAnswer": "tadqiqotlarning ishonchliligini oshirish uchun",
+      "options": [
+        "sportchilarni boshqarish uchun",
+        "tadqiqotlarning ishonchliligini oshirish uchun",
+        "sport mashqlarini rejalashtirish uchun",
+        "sport musobaqalari qoidalarini belgilash uchun"
+      ]
+    },
+    {
+      "question": "Adabiyotlar tahlilining dissertatsiya uchun roli nima?",
+      "correctAnswer": "mavzu bo`yicha oldingi tadqiqotlarni o`rganish",
+      "options": [
+        "sport mashg`ulotlarini kuzatish",
+        "sportchilarni fiziologik tahlil qilish",
+        "mavzu bo`yicha oldingi tadqiqotlarni o`rganish",
+        "mashg`ulot natijalarini nazorat qilish"
+      ]
+    },
+    {
+      "question": "Reabilitatsiya sport fanlarida nimani o`z ichiga oladi?",
+      "correctAnswer": "jarohatlarni oldini olish va davolash",
+      "options": [
+        "mashg`ulot natijalarini kuzatish",
+        "mushak massasi oshirish",
+        "sport natijalarini taqqoslash",
+        "jarohatlarni oldini olish va davolash"
+      ]
+    },
+    {
+      "question": "Mashg`ulot yuklamasi qanday omillarni hisobga olishi kerak?",
+      "correctAnswer": "sportchilarning individual imkoniyatlari",
+      "options": [
+        "sportchilarning individual imkoniyatlari",
+        "mashg`ulot davomiyligi",
+        "sport jihozlarining soni",
+        "mashg`ulot joyining o`lchami"
+      ]
+    },
+    {
+      "question": "Sportchi ovqatlanishida proteinning roli qanday?",
+      "correctAnswer": "mushak tiklanishini qo`llab-quvvatlash",
+      "options": [
+        "energiya darajasini oshirish",
+        "tana vaznini oshirish",
+        "mushak tiklanishini qo`llab-quvvatlash",
+        "suv balansini saqlash"
+      ]
+    },
+    {
+      "question": "Fiziologik testlar sport fanlarida nega kerak?",
+      "correctAnswer": "natijalarni obyektiv baholash uchun",
+      "options": [
+        "sport jihozlarini tanlash uchun",
+        "sportchilarni motivatsiyalash uchun",
+        "mashg`ulotlarni rejalashtirish uchun",
+        "natijalarni obyektiv baholash uchun"
+      ]
+    },
+    {
+      "question": "Qaysi mashq turi anaerobik chidamlilikni oshiradi?",
+      "correctAnswer": "qisqa masofaga yugurish",
+      "options": [
+        "esnash mashqlari",
+        "yoga mashqlari",
+        "uzoq masofaga yurish",
+        "qisqa masofaga yugurish"
+      ]
+    },
+    {
+      "question": "Sport fanlarida ma`lumot yig`ishning eng samarali usuli nima?",
+      "correctAnswer": "kuzatuv va so`rovnomalar",
+      "options": [
+        "video tahlil qilish",
+        "musobaqa natijalarini yozib olish",
+        "kuzatuv va so`rovnomalar",
+        "nazariy adabiyotlar o`qish"
+      ]
+    },
+    {
+      "question": "Magistratura talabalari uchun ilmiy maqola yozishning foydasi nima?",
+      "correctAnswer": "ilm-fanga hissa qo`shish",
+      "options": [
+        "ilm-fanga hissa qo`shish",
+        "tadbirlarni boshqarish",
+        "sportchilarning individual dasturlarini rejalashtirish",
+        "sport musobaqalarini tahlil qilish"
+      ]
+    },
+    {
+      "question": "Kuchni oshirish uchun qaysi mashq samarali?",
+      "correctAnswer": "ağırlık ko`tarish",
+      "options": [
+        "suzish",
+        "uzoq masofaga yurish",
+        "ağırlık ko`tarish",
+        "yengil esnash"
+      ]
+    },
+    {
+      "question": "Sport fanlarida motivatsiya nega muhim?",
+      "correctAnswer": "sportchilarning treningda davomiyligini ta`minlash uchun",
+      "options": [
+        "sport musobaqalarini boshqarish uchun",
+        "sportchilarni rag`batlantirish uchun",
+        "sportchilarning treningda davomiyligini ta`minlash uchun",
+        "mashg`ulot joylarini tashkil etish uchun"
+      ]
+    },
+    {
+      "question": "Qaysi omil sport natijalariga salbiy ta`sir ko`rsatishi mumkin?",
+      "correctAnswer": "yetarli darajada uxlamaslik",
+      "options": [
+        "faol mashg`ulot rejasi",
+        "yetarli darajada uxlamaslik",
+        "optimal jismoniy tayyorgarlik",
+        "to`g`ri ovqatlanish"
+      ]
+    },
+    {
+      "question": "Sport fanlarida qaysi texnologiya keng qo`llaniladi?",
+      "correctAnswer": "harakat tahlili uskunalari",
+      "options": [
+        "harakat tahlili uskunalari",
+        "raqamli jadval uskunalari",
+        "sport zallaridagi moslamalar",
+        "kompyuter dasturlari"
+      ]
+    },
+    {
+      "question": "Sport bilan bog`liq tadqiqotlarda ilmiy nashrning ahamiyati nima?",
+      "correctAnswer": "yangi ilmiy g`oyalarni rivojlantirish",
+      "options": [
+        "sport tadbirlarini tashkil etish",
+        "musobaqa natijalarini yozish",
+        "sportchilarning dasturlarini tayyorlash",
+        "yangi ilmiy g`oyalarni rivojlantirish"
+      ]
+    },
+    {
+      "question": "Sportda biomexanikaning asosiy vazifasi nimadan iborat?",
+      "correctAnswer": "natijalarni yaxshilash uchun harakatlarni tahlil qilish",
+      "options": [
+        "natijalarni yaxshilash uchun harakatlarni tahlil qilish",
+        "sport jihozlarini sinab ko`rish",
+        "sportchilarni psixologik qo`llab-quvvatlash",
+        "mashg`ulot jarayonini rejalashtirish"
+      ]
+    },
+    {
+      "question": "Sport mashg`ulotlarida intensivlik darajasini qanday aniqlash mumkin?",
+      "correctAnswer": "yurak urish tezligini kuzatish orqali",
+      "options": [
+        "sport jihozlaridan foydalanish orqali",
+        "nazariy tahlil orqali",
+        "yurak urish tezligini kuzatish orqali",
+        "jismoniy yuklamalarni kamaytirish orqali"
+      ]
+    },
+    {
+      "question": "Jismoniy tayyorgarlikni baholashda qaysi parametrlar muhim hisoblanadi?",
+      "correctAnswer": "kuch, chidamlilik, tezlik va muvozanat",
+      "options": [
+        "sport tajribasi",
+        "tanadagi yog` miqdori",
+        "ovqatlanish odatlari",
+        "kuch, chidamlilik, tezlik va muvozanat"
+      ]
+    },
+    {
+      "question": "Yuqori darajadagi sport natijalariga erishish uchun ovqatlanishning qanday roli bor?",
+      "correctAnswer": "energiya darajasini oshirish va tiklanishni tezlashtirish",
+      "options": [
+        "energiya darajasini oshirish va tiklanishni tezlashtirish",
+        "faoliyatni qisqartirish",
+        "mashg`ulotlarni kamaytirish",
+        "sportchini psixologik qo`llab-quvvatlash"
+      ]
+    },
+    {
+      "question": "Sport psixologiyasining sportchilarga qanday foydasi bor?",
+      "correctAnswer": "stressni boshqarish va motivatsiyani oshirish",
+      "options": [
+        "stressni boshqarish va motivatsiyani oshirish",
+        "sport jihozlarini tanlash",
+        "texnikani takomillashtirish",
+        "jarohatlarning oldini olish"
+      ]
+    },
+    {
+      "question": "Aerobik va anaerobik mashg`ulotlar o`rtasidagi farq nimada?",
+      "correctAnswer": "aerobik mashg`ulot kislorod bilan ishlaydi, anaerobik esa qisqa muddatda yuqori kuch sarflaydi",
+      "options": [
+        "aerobik mashg`ulot charchoqni kamaytiradi, anaerobik esa aksincha",
+        "aerobik mashg`ulot yurakni kuchaytiradi",
+        "anaerobik mashg`ulot   suyaklarni mustahkamlaydi",
+        "aerobik mashg`ulot kislorod bilan ishlaydi, anaerobik esa qisqa muddatda yuqori kuch sarflaydi"
+      ]
+    },
+    {
+      "question": "Sport jarohatlarining oldini olishda qaysi mashg`ulotlar yordam beradi?",
+      "correctAnswer": "qizdirish va cho`zish mashqlari",
+      "options": [
+        "yugurish",
+        "texnikaga e`tibor bermaslik",
+        "kuch mashqlari",
+        "qizdirish va cho`zish mashqlari"
+      ]
+    },
+    {
+      "question": "Sportchilar uchun suyuqlik iste`mol qilishning ahamiyati nimada?",
+      "correctAnswer": "dehidratsiyani oldini olish va tananing haroratini boshqarish",
+      "options": [
+        "faoliyatni susaytirish",
+        "mashg`ulotni qisqartirish",
+        "dehidratsiyani oldini olish va tananing haroratini boshqarish",
+        "energiya darajasini pasaytirish"
+      ]
+    },
+    {
+      "question": "Sportda interval mashg`ulotlar nima uchun qo`llaniladi?",
+      "correctAnswer": "tezlik va chidamlilikni bir vaqtning o`zida rivojlantirish uchun",
+      "options": [
+        "tezlik va chidamlilikni bir vaqtning o`zida rivojlantirish uchun",
+        "sportchilarni dam oldirish uchun",
+        "faoliyatni kamaytirish uchun",
+        "tana og`irligini oshirish uchun"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya darslarida qaysi o`yinlar bolalarning harakat koordinatsiyasini yaxshilaydi?",
+      "correctAnswer": "to`p bilan o`ynaladigan o`yinlar",
+      "options": [
+        "stol o`yinlari",
+        "shaxmat o`yinlari",
+        "texnik ko`nikmalarni cheklash",
+        "to`p bilan o`ynaladigan o`yinlar"
+      ]
+    },
+    {
+      "question": "Sport genetikasi nimani o`rganadi?",
+      "correctAnswer": "jismoniy qobiliyatlarning genetik asoslarini",
+      "options": [
+        "sport mashg`ulotlarining texnikasini",
+        "sportchilarni ta`limdan o`tkazishni",
+        "jismoniy qobiliyatlarning genetik asoslarini",
+        "sport psixologiyasining ta`sirini"
+      ]
+    },
+    {
+      "question": "Sport menejmentining asosiy maqsadi nimada?",
+      "correctAnswer": "sport tashkilotlarini samarali boshqarish",
+      "options": [
+        "jarohatlarning oldini olish",
+        "sportchilarning salomatligini nazorat qilish",
+        "sport tashkilotlarini samarali boshqarish",
+        "nazariy mashg`ulotlarni o`tkazish"
+      ]
+    },
+    {
+      "question": "Sport mashg`ulotlarida to`g`ri nafas olish texnikasi qanday ahamiyatga ega?",
+      "correctAnswer": "charchashni kechiktirish va kislorod yetkazib berishni oshirish",
+      "options": [
+        "charchashni kechiktirish va kislorod yetkazib berishni oshirish",
+        "mashg`ulotni qisqartirish",
+        "jismoniy yuklamani kamaytirish",
+        "yurak tezligini pasaytirish"
+      ]
+    },
+    {
+      "question": "Yosh sportchilar uchun ortiqcha yuklamaning xavfi nimada?",
+      "correctAnswer": "jarohatlar va rivojlanishning buzilishi",
+      "options": [
+        "natijalarni yaxshilash",
+        "jarohatlar va rivojlanishning buzilishi",
+        "charchoqni kamaytirish",
+        "tana chidamliligini oshirish"
+      ]
+    }
+  ]
+}

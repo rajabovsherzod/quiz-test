@@ -1,7 +1,7 @@
 
 import { Button } from "@/components/base/buttons/button";
 import Link from "next/link";
-import { BookOpen, Users, Trophy, Activity } from "lucide-react";
+import { BookOpen, Users, Trophy, Activity, ClipboardList } from "lucide-react";
 
 export default function Page() {
   return (
@@ -26,7 +26,7 @@ export default function Page() {
 
       {/* Cards Section */}
       <section className="flex-1 flex flex-col items-center justify-start px-4 pb-20 z-10">
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 w-full max-w-7xl">
+        <div className="grid md:grid-cols-2 gap-8 w-full max-w-5xl">
 
           {/* Card 1: Sport Pedagogikasi */}
           <div className="bg-bg-primary dark:bg-gray-800 rounded-3xl p-8 shadow-lg shadow-gray-200/50 dark:shadow-black/30 border border-border-secondary hover:border-brand-300 dark:hover:border-brand-700 hover:shadow-xl transition-all duration-300 group flex flex-col relative overflow-hidden">
@@ -94,6 +94,30 @@ export default function Page() {
             <div className="mt-auto">
               <Link href="/quiz/jismoniy-tarbiya" className="w-full block">
                 <Button size="xl" color="primary" className="w-full justify-center bg-blue-600 hover:bg-blue-700 text-white border-transparent shadow-md shadow-blue-500/20 group-hover:shadow-blue-500/40">
+                  Boshlash
+                </Button>
+              </Link>
+            </div>
+          </div>
+
+          {/* Card 4: Ilmiy Tadqiqot Metodologiyasi */}
+          <div className="bg-bg-primary dark:bg-gray-800 rounded-3xl p-8 shadow-lg shadow-gray-200/50 dark:shadow-black/30 border border-border-secondary hover:border-purple-300 dark:hover:border-purple-700 hover:shadow-xl transition-all duration-300 group flex flex-col relative overflow-hidden">
+            <div className="absolute top-0 right-0 w-32 h-32 bg-purple-50 dark:bg-purple-900/10 rounded-full blur-3xl -mr-10 -mt-10 transition-all group-hover:bg-purple-100 dark:group-hover:bg-purple-900/20" />
+
+            <div className="w-16 h-16 bg-gradient-to-br from-purple-50 to-purple-100 dark:from-purple-900 dark:to-purple-800 rounded-2xl flex items-center justify-center mb-6 text-purple-600 dark:text-purple-400 group-hover:scale-110 group-hover:rotate-3 transition-transform duration-300 shadow-sm">
+              <ClipboardList className="w-8 h-8" />
+            </div>
+
+            <h2 className="text-2xl font-bold text-primary mb-3 group-hover:text-purple-600 dark:group-hover:text-purple-400 transition-colors">
+              Ilmiy Tadqiqot Metodologiyasi
+            </h2>
+            <p className="text-tertiary mb-8 leading-relaxed">
+              Ilmiy tadqiqot asoslari, metodlari va ularni amaliyotda qo'llash bo'yicha testlar to'plami.
+            </p>
+
+            <div className="mt-auto">
+              <Link href="/quiz/metodologiya" className="w-full block">
+                <Button size="xl" color="primary" className="w-full justify-center bg-purple-600 hover:bg-purple-700 text-white border-transparent shadow-md shadow-purple-500/20 group-hover:shadow-purple-500/40">
                   Boshlash
                 </Button>
               </Link>

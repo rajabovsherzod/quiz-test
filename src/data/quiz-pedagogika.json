@@ -6,17 +6,17 @@
       "correctAnswer": "Jismoniy tarbiya va sport sohasidagi ta`lim jarayonini",
       "options": [
         "Sportchilarning o`ziga xos rivojlanishini",
-        "Jismoniy tarbiya va sport sohasidagi ta`lim jarayonini",
+        "Sport jarayonidagi nazorat usullarini",
         "Musobaqalarda pedagogik yondashuvni",
-        "Sport jarayonidagi nazorat usullarini"
+        "Jismoniy tarbiya va sport sohasidagi ta`lim jarayonini"
       ]
     },
     {
       "question": "Sport o`qituvchisini kasbiy faoliyatida muhim omil nima?",
       "correctAnswer": "Pedagogik mahorat va kommunikatsiya ko`nikmalari",
       "options": [
-        "Pedagogik mahorat va kommunikatsiya ko`nikmalari",
         "O`quvchilarning ehtiyojlarini tushunish",
+        "Pedagogik mahorat va kommunikatsiya ko`nikmalari",
         "Dars samaradorligini tahlil qilish",
         "Jismoniy mashqlarni to`g`ri taqsimlash"
       ]
@@ -25,19 +25,19 @@
       "question": "Pedagogik jarayonni tashkil etishning asosiy shakllaridan biri qaysi?",
       "correctAnswer": "Dars va mashg`ulotlar",
       "options": [
-        "Tanqidiy fikrlashga asoslangan metodlar",
-        "Interfaol treninglar",
+        "Guruhli muhokamalar",
         "Dars va mashg`ulotlar",
-        "Guruhli muhokamalar"
+        "Interfaol treninglar",
+        "Tanqidiy fikrlashga asoslangan metodlar"
       ]
     },
     {
       "question": "Sport o`qituvchisining tarbiyaviy faoliyatida asosiy maqsad nima",
       "correctAnswer": "Sportchilarni axloqiy va jismoniy rivojlantirish",
       "options": [
-        "Jamoaviy ishlash ko`nikmalarini rivojlantirish",
         "Ta`lim jarayonini tizimli boshqarish",
         "Pedagogik strategiyalarni rejalashtirish",
+        "Jamoaviy ishlash ko`nikmalarini rivojlantirish",
         "Sportchilarni axloqiy va jismoniy rivojlantirish"
       ]
     },
@@ -45,28 +45,28 @@
       "question": "Jismoniy tarbiya va sport sohasidagi pedagogik texnologiyalarning mohiyati nimada?",
       "correctAnswer": "O`quv jarayonini samarali boshqarish",
       "options": [
-        "Nazorat tizimini optimallashtirish",
+        "Innovatsion treninglarni qo`llash",
         "Sportchilarni motivatsiyalas",
         "O`quv jarayonini samarali boshqarish",
-        "Innovatsion treninglarni qo`llash"
+        "Nazorat tizimini optimallashtirish"
       ]
     },
     {
       "question": "Pedagogik innovatsiyalarning sport sohasida qo`llanilishi qanday ahamiyatga ega?",
       "correctAnswer": "O`quv jarayonining samaradorligini oshiradi",
       "options": [
-        "Mashg`ulotlarning mazmunini boyitadi",
-        "O`quv jarayonining samaradorligini oshiradi",
         "Ta`limda ilg`or texnologiyalarni sinovdan o`tkazadi",
-        "Yangi metodik usullarni ishlab chiqadi"
+        "Yangi metodik usullarni ishlab chiqadi",
+        "O`quv jarayonining samaradorligini oshiradi",
+        "Mashg`ulotlarning mazmunini boyitadi"
       ]
     },
     {
       "question": "Jismoniy tarbiya o`qituvchisining asosiy vositalari nimalar?",
       "correctAnswer": "Jismoniy mashqlar, o`yinlar va sport musobaqalari",
       "options": [
-        "Mashg`ulotlarni baholash tizimi",
         "Jamoaviy faoliyatni tashkil etish",
+        "Mashg`ulotlarni baholash tizimi",
         "Jismoniy mashqlar, o`yinlar va sport musobaqalari",
         "Individual o`quv dasturlari"
       ]
@@ -75,49 +75,49 @@
       "question": "Jismoniy tarbiya darslarida yangi pedagogik texnologiyalarni qo`llash qanday natija beradi?",
       "correctAnswer": "O`quvchilarning qiziqishini oshiradi",
       "options": [
-        "Musobaqalar uchun bilim bazasini kengaytiradi",
         "Ta`lim mazmunini rivojlantiradi",
-        "O`quvchilarning qiziqishini oshiradi",
-        "Innovatsion g`oyalarni amalga oshirishga yordam beradi"
+        "Musobaqalar uchun bilim bazasini kengaytiradi",
+        "Innovatsion g`oyalarni amalga oshirishga yordam beradi",
+        "O`quvchilarning qiziqishini oshiradi"
       ]
     },
     {
       "question": "Pedagogik ijodkorlik nima bilan bog`liq?",
       "correctAnswer": "Ta`lim jarayoniga yangi usullarni kiritish",
       "options": [
-        "Interaktiv vositalarni qo`llash",
         "Shaxsiy yondashuvni rivojlantirish",
-        "Ta`lim jarayoniga yangi usullarni kiritish",
-        "Sportchilarga qaratilgan motivatsion tizim yaratish"
+        "Interaktiv vositalarni qo`llash",
+        "Sportchilarga qaratilgan motivatsion tizim yaratish",
+        "Ta`lim jarayoniga yangi usullarni kiritish"
       ]
     },
     {
       "question": "Sport o`qituvchisi o`z faoliyatida qaysi usullardan foydalanadi?",
       "correctAnswer": "Dars, mashg`ulot va musobaqalar",
       "options": [
-        "Dars, mashg`ulot va musobaqalar",
-        "Analitik kuzatish metodlari",
         "Innovatsion trening mashg`ulotlari",
-        "Motivatsiya va qo`llab-quvvatlash strategiyalari"
+        "Motivatsiya va qo`llab-quvvatlash strategiyalari",
+        "Dars, mashg`ulot va musobaqalar",
+        "Analitik kuzatish metodlari"
       ]
     },
     {
       "question": "Jismoniy tarbiya darslarida o`quvchilarning qiziqishini oshirish uchun nimalar zarur?",
       "correctAnswer": "O`yin shakllarini kiritish va rag`batlantirish",
       "options": [
-        "O`yin shakllarini kiritish va rag`batlantirish",
-        "Faoliyatga ijodiy yondashish",
         "Interfaol muloqotlarni rivojlantirish",
-        "Dars mazmunini kengaytirish"
+        "Faoliyatga ijodiy yondashish",
+        "Dars mazmunini kengaytirish",
+        "O`yin shakllarini kiritish va rag`batlantirish"
       ]
     },
     {
       "question": "Pedagogik mahoratning asosiy qismi nimadan iborat?",
       "correctAnswer": "O`quvchilar bilan samarali muloqot qilish qobiliyati",
       "options": [
-        "Muammolarni hal qilish qobiliyati",
         "Shaxsiy ko`nikmalarni rivojlantirish",
         "O`quvchilar bilan samarali muloqot qilish qobiliyati",
+        "Muammolarni hal qilish qobiliyati",
         "Dars davomida yangi metodlarni qo`llash"
       ]
     },
@@ -125,30 +125,30 @@
       "question": "Sport pedagogikasida \"diagnostika\" nima uchun kerak?",
       "correctAnswer": "O`quvchilarning rivojlanishini kuzatish uchun",
       "options": [
-        "Sport dasturlarini baholash uchun",
         "Faoliyat natijalarini o`lchash uchun",
-        "Musobaqalar sifatini tahlil qilish uchun",
-        "O`quvchilarning rivojlanishini kuzatish uchun"
+        "Sport dasturlarini baholash uchun",
+        "O`quvchilarning rivojlanishini kuzatish uchun",
+        "Musobaqalar sifatini tahlil qilish uchun"
       ]
     },
     {
       "question": "Jismoniy tarbiya o`qituvchisining tarbiyaviy faoliyati tizimi nimalardan iborat?",
       "correctAnswer": "Axloqiy, jismoniy va ma`naviy ta`limdan",
       "options": [
-        "Dars jarayonida ijodiy yondashishdan",
-        "Mashg`ulotlarni tashkil etish va nazorat qilishdan",
+        "Axloqiy, jismoniy va ma`naviy ta`limdan",
         "Pedagogik metodlarni tizimli qo`llashdan",
-        "Axloqiy, jismoniy va ma`naviy ta`limdan"
+        "Dars jarayonida ijodiy yondashishdan",
+        "Mashg`ulotlarni tashkil etish va nazorat qilishdan"
       ]
     },
     {
       "question": "Yangi pedagogik texnologiyalarni joriy etishning asosiy foydasi nimada?",
       "correctAnswer": "Ta`lim jarayonining samaradorligini oshiradi",
       "options": [
+        "Talabalarning mustaqil fikrlash ko`nikmalarini kuchaytiradi",
         "Resurslardan samarali foydalanishni ta`minlaydi",
-        "Ta`lim jarayonining samaradorligini oshiradi",
         "Mashg`ulotlar jarayonini optimallashtiradi",
-        "Talabalarning mustaqil fikrlash ko`nikmalarini kuchaytiradi"
+        "Ta`lim jarayonining samaradorligini oshiradi"
       ]
     },
     {
@@ -156,9 +156,9 @@
       "correctAnswer": "Ta`lim jarayoniga ijodiy yondashuvni shakllantirish",
       "options": [
         "Talabalar ishtirokini tizimli ravishda oshirish",
-        "Mashqlarni yaxshilash uchun yangi usullarni sinash",
+        "Ta`lim jarayoniga ijodiy yondashuvni shakllantirish",
         "Innovatsion texnologiyalardan foydalangan holda rivojlanish",
-        "Ta`lim jarayoniga ijodiy yondashuvni shakllantirish"
+        "Mashqlarni yaxshilash uchun yangi usullarni sinash"
       ]
     },
     {
@@ -166,28 +166,28 @@
       "correctAnswer": "O`quvchilarning jismoniy va axloqiy rivojlanishini ta`minlash",
       "options": [
         "Mashg`ulotlar natijalarini tahlil qilish",
+        "Dars davomida nazorat mexanizmini kuchaytirish",
         "Innovatsion metodlarni qo`llashni o`rganish",
-        "O`quvchilarning jismoniy va axloqiy rivojlanishini ta`minlash",
-        "Dars davomida nazorat mexanizmini kuchaytirish"
+        "O`quvchilarning jismoniy va axloqiy rivojlanishini ta`minlash"
       ]
     },
     {
       "question": "Sport o`qituvchisining darsga tayyorgarlik bosqichi qaysi jarayonni o`z ichiga oladi?",
       "correctAnswer": "Rejalashtirish, mashg`ulotni o`tkazish va natijani tahlil qilish",
       "options": [
-        "Innovatsion yondashuvlarni sinab ko`rish",
         "Rejalashtirish, mashg`ulotni o`tkazish va natijani tahlil qilish",
         "Texnik vositalardan foydalanish uchun tayyorgarlik",
-        "Dars jarayonini tahlil qilish va rivojlantirish"
+        "Dars jarayonini tahlil qilish va rivojlantirish",
+        "Innovatsion yondashuvlarni sinab ko`rish"
       ]
     },
     {
       "question": "Jismoniy tarbiya darslarida o`yinlardan foydalanishning afzalliklari nimada?",
       "correctAnswer": "Qiziqishni oshiradi va jismoniy faollikni kuchaytiradi",
       "options": [
+        "O`yin metodikasini boyitadi",
         "Darsning samaradorligini tahlil qilish imkonini beradi",
         "Qiziqishni oshiradi va jismoniy faollikni kuchaytiradi",
-        "O`yin metodikasini boyitadi",
         "Pedagogik jarayonlarni tizimli rivojlantiradi"
       ]
     },
@@ -195,9 +195,9 @@
       "question": "Sport pedagogikasida ta`limning asosiy maqsadi nima?",
       "correctAnswer": "Shaxsning har tomonlama rivojlanishini ta`minlash",
       "options": [
-        "Pedagogik usullarni takomillashtirish",
-        "Jismoniy faollikni oshirish",
         "Shaxsning har tomonlama rivojlanishini ta`minlash",
+        "Jismoniy faollikni oshirish",
+        "Pedagogik usullarni takomillashtirish",
         "Ta`lim jarayonini diversifikatsiya qilish"
       ]
     },
@@ -205,39 +205,39 @@
       "question": "Sport o`qituvchisi o`quvchilarni qanday usullar bilan rag`batlantiradi?",
       "correctAnswer": "O`yin va musobaqalar orqali",
       "options": [
-        "O`yin va musobaqalar orqali",
+        "Shaxsiy rivojlanish dasturlari orqali",
         "Innovatsion yondashuvlarni qo`llash orqali",
         "Pedagogik texnologiyalardan foydalanish orqali",
-        "Shaxsiy rivojlanish dasturlari orqali"
+        "O`yin va musobaqalar orqali"
       ]
     },
     {
       "question": "Sport pedagogikasida \"ijodkorlik\" nima uchun muhim?",
       "correctAnswer": "Yangi usullarni ishlab chiqish va qo`llash uchun",
       "options": [
-        "Talabalarni individual yondashuv bilan ta`minlash uchun",
         "Rivojlanishni tizimli boshqarish uchun",
         "Mashg`ulotlarni boyitish uchun",
-        "Yangi usullarni ishlab chiqish va qo`llash uchun"
+        "Yangi usullarni ishlab chiqish va qo`llash uchun",
+        "Talabalarni individual yondashuv bilan ta`minlash uchun"
       ]
     },
     {
       "question": "Jismoniy tarbiya va sportdagi pedagogik texnologiyalarning samaradorligi nimaga bog`liq?",
       "correctAnswer": "To`g`ri rejalashtirish va ijodiy yondashuvga",
       "options": [
-        "Resurslardan samarali foydalanishga",
+        "Innovatsion metodlarni tizimli qo`llashga",
         "To`g`ri rejalashtirish va ijodiy yondashuvga",
         "Talabalar ishtirokini kuchaytirishga",
-        "Innovatsion metodlarni tizimli qo`llashga"
+        "Resurslardan samarali foydalanishga"
       ]
     },
     {
       "question": "Sport o`qituvchisining o`quvchilar bilan samarali muloqot qilish ko`nikmasi nimani ta`minlaydi?",
       "correctAnswer": "Darslarning muvaffaqiyatli o`tishini",
       "options": [
-        "Innovatsiyalarni qo`llashni kuchaytirishni",
-        "Darslarning muvaffaqiyatli o`tishini",
         "Mashg`ulot jarayonini boyitishni",
+        "Darslarning muvaffaqiyatli o`tishini",
+        "Innovatsiyalarni qo`llashni kuchaytirishni",
         "Talabalar bilan aloqani mustahkamlashni"
       ]
     },
@@ -247,18 +247,18 @@
       "options": [
         "Pedagogik metodlarni diversifikatsiya qilishga",
         "Jismoniy faollik darajasini oshirishga",
-        "Musobaqalar mazmunini kengaytirishga",
-        "O`quvchilarning ijodiy fikrlashini rivojlantirishga"
+        "O`quvchilarning ijodiy fikrlashini rivojlantirishga",
+        "Musobaqalar mazmunini kengaytirishga"
       ]
     },
     {
       "question": "Pedagogik faoliyatda \"tarbiyaviy jarayon\" nima uchun zarur?",
       "correctAnswer": "Shaxsning axloqiy sifatlarini rivojlantirish uchun",
       "options": [
-        "Shaxsning axloqiy sifatlarini rivojlantirish uchun",
         "Innovatsion texnologiyalardan samarali foydalanish uchun",
         "Jamoaviy faoliyatni tashkil qilish uchun",
-        "Ta`lim jarayonida yangi yondashuvlarni kiritish uchun"
+        "Ta`lim jarayonida yangi yondashuvlarni kiritish uchun",
+        "Shaxsning axloqiy sifatlarini rivojlantirish uchun"
       ]
     },
     {
@@ -266,9 +266,9 @@
       "correctAnswer": "Rejalashtirish, ijodkorlik va kommunikatsiya ko`nikmalariga",
       "options": [
         "Rejalashtirish, ijodkorlik va kommunikatsiya ko`nikmalariga",
+        "Resurslarni optimal boshqarishga",
         "Samaradorlikni oshirishga qaratilgan strategiyalarga",
-        "Talabalarni rag`batlantirish usullarini rivojlantirishga",
-        "Resurslarni optimal boshqarishga"
+        "Talabalarni rag`batlantirish usullarini rivojlantirishga"
       ]
     },
     {
@@ -276,19 +276,19 @@
       "correctAnswer": "Sportchilarning har tomonlama rivojlanishiga",
       "options": [
         "Dars mazmunini optimallashtirishga",
+        "Sportchilarning har tomonlama rivojlanishiga",
         "Texnik imkoniyatlarni kengaytirishga",
-        "Pedagogik innovatsiyalarni rivojlantirishga",
-        "Sportchilarning har tomonlama rivojlanishiga"
+        "Pedagogik innovatsiyalarni rivojlantirishga"
       ]
     },
     {
       "question": "Sport o`qituvchisining o`z pedagogik mahoratini rivojlantirishdagi asosiy qadam nima?",
       "correctAnswer": "Doimiy o`qish va o`zini takomillashtirish",
       "options": [
-        "Innovatsion usullardan foydalanish",
         "Faoliyat natijalarini tahlil qilish",
+        "Doimiy o`qish va o`zini takomillashtirish",
         "Ta`lim metodlarini nazorat qilish",
-        "Doimiy o`qish va o`zini takomillashtirish"
+        "Innovatsion usullardan foydalanish"
       ]
     },
     {
@@ -297,18 +297,18 @@
       "options": [
         "Talabalarning qiziqishini oshiradi",
         "Darsning samaradorligini ta`minlaydi",
-        "Dars jarayoniga yangi usullar kiritadi",
-        "Ta`lim jarayonini tizimli boshqaradi"
+        "Ta`lim jarayonini tizimli boshqaradi",
+        "Dars jarayoniga yangi usullar kiritadi"
       ]
     },
     {
       "question": "Pedagogik faoliyatda sportchilarni rag`batlantirish qanday natijaga olib keladi?",
       "correctAnswer": "O`quvchilarning motivatsiyasini oshiradi",
       "options": [
-        "O`quvchilarning motivatsiyasini oshiradi",
+        "Mashg`ulot jarayonini boyitadi",
         "Faoliyatga ijodiy yondashuvni rivojlantiradi",
-        "Innovatsion texnologiyalardan foydalanishni kuchaytiradi",
-        "Mashg`ulot jarayonini boyitadi"
+        "O`quvchilarning motivatsiyasini oshiradi",
+        "Innovatsion texnologiyalardan foydalanishni kuchaytiradi"
       ]
     },
     {
@@ -325,39 +325,39 @@
       "question": "Jismoniy tarbiya va sportdagi pedagogik texnologiyalar qanday omillarga asoslanadi?",
       "correctAnswer": "Samaradorlik va ijodkorlikka",
       "options": [
-        "Resurslardan oqilona foydalanishga",
-        "Samaradorlik va ijodkorlikka",
         "Innovatsiyalarni rivojlantirishga",
-        "Talabalar ishtirokini oshirishga"
+        "Talabalar ishtirokini oshirishga",
+        "Resurslardan oqilona foydalanishga",
+        "Samaradorlik va ijodkorlikka"
       ]
     },
     {
       "question": "Sport o`qituvchisining dars davomida samarali vositalardan foydalanishi qanday natijaga olib keladi?",
       "correctAnswer": "O`quvchilarning qiziqishini oshiradi",
       "options": [
+        "Mashg`ulot samaradorligini oshiradi",
         "Faoliyatni diversifikatsiya qiladi",
-        "Innovatsion yondashuvlarni boyitadi",
         "O`quvchilarning qiziqishini oshiradi",
-        "Mashg`ulot samaradorligini oshiradi"
+        "Innovatsion yondashuvlarni boyitadi"
       ]
     },
     {
       "question": "Jismoniy tarbiya mashg`ulotlarida ijodiy yondashuvning ahamiyati nimada?",
       "correctAnswer": "Ta`lim jarayoniga yangi usullarni kiritadi",
       "options": [
-        "O`quv jarayonini tizimli boshqaradi",
         "O`yin shakllarini rivojlantiradi",
+        "Dars mazmunini diversifikatsiya qiladi",
         "Ta`lim jarayoniga yangi usullarni kiritadi",
-        "Dars mazmunini diversifikatsiya qiladi"
+        "O`quv jarayonini tizimli boshqaradi"
       ]
     },
     {
       "question": "Sport pedagogikasida “diagnostika”ning asosiy maqsadi nima?",
       "correctAnswer": "Sportchilarning rivojlanishini kuzatish",
       "options": [
-        "Texnik vositalardan foydalanishni yaxshilash",
         "Sportchilarning rivojlanishini kuzatish",
         "O`quv jarayonini nazorat qilish",
+        "Texnik vositalardan foydalanishni yaxshilash",
         "Pedagogik jarayonni baholash"
       ]
     },
@@ -366,8 +366,8 @@
       "correctAnswer": "Dars samaradorligini oshiradi va motivatsiyani kuchaytiradi",
       "options": [
         "Dars samaradorligini oshiradi va motivatsiyani kuchaytiradi",
-        "Talabalar ishtirokini tizimli ravishda oshiradi",
         "Innovatsion resurslarni kiritadi",
+        "Talabalar ishtirokini tizimli ravishda oshiradi",
         "Faoliyatning interfaol yondashuvlarini kengaytiradi"
       ]
     },
@@ -376,38 +376,38 @@
       "correctAnswer": "Dars rejalashtirish va muloqot ko`nikmalariga",
       "options": [
         "Innovatsion texnologiyalardan foydalanishga",
-        "Dars rejalashtirish va muloqot ko`nikmalariga",
         "Jamoaviy mashg`ulotlarni tashkil qilishga",
-        "Ta`lim jarayonini tizimli rivojlantirishga"
+        "Ta`lim jarayonini tizimli rivojlantirishga",
+        "Dars rejalashtirish va muloqot ko`nikmalariga"
       ]
     },
     {
       "question": "Jismoniy tarbiya darslarida sport mashg`ulotlarini rejalashtirish qaysi natijaga olib keladi?",
       "correctAnswer": "Ta`limning maqsadli amalga oshirilishiga",
       "options": [
-        "Faoliyat samaradorligini oshirishga",
-        "Innovatsion yondashuvlarni rivojlantirishga",
         "Talabalar ishtirokini tizimli ravishda oshirishga",
-        "Ta`limning maqsadli amalga oshirilishiga"
+        "Faoliyat samaradorligini oshirishga",
+        "Ta`limning maqsadli amalga oshirilishiga",
+        "Innovatsion yondashuvlarni rivojlantirishga"
       ]
     },
     {
       "question": "Sport pedagogikasida tarbiyaviy faoliyatning asosiy maqsadi nima?",
       "correctAnswer": "Sportchilarning ma`naviy va jismoniy rivojlanishini ta`minlash",
       "options": [
-        "Shaxsiy yondashuvni rivojlantirish",
-        "Sportchilarning ma`naviy va jismoniy rivojlanishini ta`minlash",
+        "O`quv jarayonida ijodkorlikni rivojlantirish",
         "Pedagogik jarayonni tizimli boshqarish",
-        "O`quv jarayonida ijodkorlikni rivojlantirish"
+        "Shaxsiy yondashuvni rivojlantirish",
+        "Sportchilarning ma`naviy va jismoniy rivojlanishini ta`minlash"
       ]
     },
     {
       "question": "Jismoniy tarbiya darslarida o`yinlardan foydalanish qanday natijalar beradi?",
       "correctAnswer": "Motivatsiyani kuchaytiradi va o`quvchilarning faoliyatini yaxshilaydi",
       "options": [
-        "Innovatsion texnologiyalarning samaradorligini oshiradi",
-        "Motivatsiyani kuchaytiradi va o`quvchilarning faoliyatini yaxshilaydi",
         "Faoliyat jarayoniga ijodiy yondashuvni kiritadi",
+        "Motivatsiyani kuchaytiradi va o`quvchilarning faoliyatini yaxshilaydi",
+        "Innovatsion texnologiyalarning samaradorligini oshiradi",
         "Jamoaviy mashg`ulotlarni mustahkamlaydi"
       ]
     },
@@ -416,59 +416,59 @@
       "correctAnswer": "Yangi yondashuvlarni ishlab chiqish va amalga oshirish",
       "options": [
         "Yangi yondashuvlarni ishlab chiqish va amalga oshirish",
-        "Ta`lim mazmunini kengaytirish",
+        "O`quv jarayonini diversifikatsiya qilish",
         "Resurslardan oqilona foydalanish",
-        "O`quv jarayonini diversifikatsiya qilish"
+        "Ta`lim mazmunini kengaytirish"
       ]
     },
     {
       "question": "Sport o`qituvchisining dars davomida o`quvchilar bilan samarali muloqoti qanday foyda beradi?",
       "correctAnswer": "O`quvchilarning qiziqishini va ishtirokini oshiradi",
       "options": [
-        "Talabalar bilan ishlash ko`nikmalarini kuchaytiradi",
+        "Pedagogik faoliyatni optimallashtiradi",
         "Innovatsion metodlarni kiritishni osonlashtiradi",
-        "O`quvchilarning qiziqishini va ishtirokini oshiradi",
-        "Pedagogik faoliyatni optimallashtiradi"
+        "Talabalar bilan ishlash ko`nikmalarini kuchaytiradi",
+        "O`quvchilarning qiziqishini va ishtirokini oshiradi"
       ]
     },
     {
       "question": "Sport pedagogikasida yangi texnologiyalarni joriy qilishning asosiy maqsadi nima?",
       "correctAnswer": "O`quv jarayonini samarali boshqarish",
       "options": [
-        "Innovatsion metodlardan tizimli foydalanish",
-        "Resurslarni optimal boshqarish",
         "Faoliyatni ijodiy rivojlantirish",
-        "O`quv jarayonini samarali boshqarish"
+        "Innovatsion metodlardan tizimli foydalanish",
+        "O`quv jarayonini samarali boshqarish",
+        "Resurslarni optimal boshqarish"
       ]
     },
     {
       "question": "Jismoniy tarbiya darslarida o`yin usullarini qo`llashning afzalliklari qaysilar?",
       "correctAnswer": "Qiziqishni oshirish va dars samaradorligini yaxshilash",
       "options": [
+        "Qiziqishni oshirish va dars samaradorligini yaxshilash",
         "Innovatsion vositalardan foydalanishni oshirish",
         "O`yin va jismoniy mashqlarni diversifikatsiya qilish",
-        "Ta`lim mazmunini boyitish",
-        "Qiziqishni oshirish va dars samaradorligini yaxshilash"
+        "Ta`lim mazmunini boyitish"
       ]
     },
     {
       "question": "Pedagogik faoliyatda “axloqiy tarbiya”ning ahamiyati nimada?",
       "correctAnswer": "O`quvchilarning shaxs sifatida rivojlanishini ta`minlaydi",
       "options": [
-        "Faoliyatni tizimli boshqarish imkoniyatini yaratadi",
-        "Jamoaviy ishlash ko`nikmalarini kuchaytiradi",
         "O`quvchilarning shaxs sifatida rivojlanishini ta`minlaydi",
-        "Talabalarni yangi yondashuvlarga moslashtiradi"
+        "Faoliyatni tizimli boshqarish imkoniyatini yaratadi",
+        "Talabalarni yangi yondashuvlarga moslashtiradi",
+        "Jamoaviy ishlash ko`nikmalarini kuchaytiradi"
       ]
     },
     {
       "question": "Sport o`qituvchisining kasbiy tayyorgarligi nimalarni o`z ichiga oladi?",
       "correctAnswer": "Nazariy, amaliy va pedagogik ko`nikmalarni",
       "options": [
-        "Rejalashtirish va nazorat tizimlarini rivojlantirishni",
         "Innovatsion usullarni kiritish mahoratini",
+        "Jamoaviy ishlash uchun strategik rejalashtirishni",
         "Nazariy, amaliy va pedagogik ko`nikmalarni",
-        "Jamoaviy ishlash uchun strategik rejalashtirishni"
+        "Rejalashtirish va nazorat tizimlarini rivojlantirishni"
       ]
     },
     {
@@ -485,20 +485,20 @@
       "question": "Jismoniy tarbiya darslarida harakat faoliyatini boshqarishning eng samarali usuli qaysi?",
       "correctAnswer": "Mashg`ulotni bosqichma-bosqich tashkil etish",
       "options": [
+        "Innovatsion metodlarni qo`llash",
         "Mashg`ulotni bosqichma-bosqich tashkil etish",
         "Ta`lim mazmunini optimallashtirish",
-        "Talabalar ishtirokini kuchaytirish",
-        "Innovatsion metodlarni qo`llash"
+        "Talabalar ishtirokini kuchaytirish"
       ]
     },
     {
       "question": "Sport pedagogikasida pedagogik jarayonning asosiy jihatlari nimalardan iborat?",
       "correctAnswer": "Ta`lim, tarbiya va rivojlanish",
       "options": [
-        "Faoliyatni strategik boshqarish",
-        "Ta`lim, tarbiya va rivojlanish",
+        "Innovatsiyalarni tizimli kiritish",
         "Jamoaviy muloqotni rivojlantirish",
-        "Innovatsiyalarni tizimli kiritish"
+        "Faoliyatni strategik boshqarish",
+        "Ta`lim, tarbiya va rivojlanish"
       ]
     },
     {
@@ -515,69 +515,69 @@
       "question": "Sport o`qituvchisining kommunikatsiya ko`nikmasi qanday ahamiyatga ega?",
       "correctAnswer": "O`quvchilar bilan samarali muloqotni ta`minlaydi",
       "options": [
-        "O`quvchilar bilan samarali muloqotni ta`minlaydi",
-        "Faoliyatning samaradorligini oshirishga xizmat qiladi",
+        "Innovatsion yondashuvlarni amalga oshirishni osonlashtiradi",
         "Jamoaviy ishlash uchun zarur shart-sharoit yaratadi",
-        "Innovatsion yondashuvlarni amalga oshirishni osonlashtiradi"
+        "Faoliyatning samaradorligini oshirishga xizmat qiladi",
+        "O`quvchilar bilan samarali muloqotni ta`minlaydi"
       ]
     },
     {
       "question": "Jismoniy tarbiya darslarida yangi pedagogik texnologiyalardan foydalanishning afzalliklari qaysilar?",
       "correctAnswer": "O`quvchilarning qiziqishini oshiradi va samaradorlikni kuchaytiradi",
       "options": [
+        "Faoliyat mazmunini kengaytiradi",
         "Darsning ijodiy tomonlarini boyitadi",
         "Ta`lim jarayonini rivojlantirishga ko`maklashadi",
-        "O`quvchilarning qiziqishini oshiradi va samaradorlikni kuchaytiradi",
-        "Faoliyat mazmunini kengaytiradi"
+        "O`quvchilarning qiziqishini oshiradi va samaradorlikni kuchaytiradi"
       ]
     },
     {
       "question": "Sport pedagogikasida “ijodkorlik”ning asosiy vazifasi nima?",
       "correctAnswer": "Yangi usullarni ishlab chiqish va amaliyotga joriy etish",
       "options": [
-        "Resurslarni tizimli boshqarish",
         "Ta`lim tizimini diversifikatsiya qilish",
+        "Innovatsion resurslardan foydalanishni kuchaytirish",
         "Yangi usullarni ishlab chiqish va amaliyotga joriy etish",
-        "Innovatsion resurslardan foydalanishni kuchaytirish"
+        "Resurslarni tizimli boshqarish"
       ]
     },
     {
       "question": "Jismoniy tarbiya darslarida pedagogik innovatsiyalar qanday natijalar beradi?",
       "correctAnswer": "Ta`lim jarayonini qiziqarli va samarali qiladi",
       "options": [
-        "Ta`lim jarayonini qiziqarli va samarali qiladi",
+        "O`quv jarayonida yangi texnologiyalardan foydalanishni kengaytiradi",
         "Mashg`ulot jarayoniga ijodiy yondashuvni kiritadi",
-        "Faoliyatga moslashtirilgan yondashuvlarni kiritadi",
-        "O`quv jarayonida yangi texnologiyalardan foydalanishni kengaytiradi"
+        "Ta`lim jarayonini qiziqarli va samarali qiladi",
+        "Faoliyatga moslashtirilgan yondashuvlarni kiritadi"
       ]
     },
     {
       "question": "Pedagogik texnologiyalarning asosiy maqsadi nima?",
       "correctAnswer": "O`quv jarayonining samaradorligini oshirish",
       "options": [
-        "Innovatsiyalarni pedagogik amaliyotga kiritish",
-        "O`quv jarayonining samaradorligini oshirish",
+        "Talabalar ishtirokini tizimli rivojlantirish",
         "Resurslardan samarali foydalanishni ta`minlash",
-        "Talabalar ishtirokini tizimli rivojlantirish"
+        "O`quv jarayonining samaradorligini oshirish",
+        "Innovatsiyalarni pedagogik amaliyotga kiritish"
       ]
     },
     {
       "question": "Jismoniy tarbiya darslarida o`yin shakllarini qo`llash qanday afzalliklarga ega?",
       "correctAnswer": "Motivatsiyani oshiradi va faoliyatni yaxshilaydi",
       "options": [
-        "O`quvchilarning ijodiy qobiliyatlarini rivojlantiradi",
+        "Motivatsiyani oshiradi va faoliyatni yaxshilaydi",
         "O`yin mazmunini diversifikatsiya qiladi",
         "Ta`lim jarayonini qiziqarli qiladi",
-        "Motivatsiyani oshiradi va faoliyatni yaxshilaydi"
+        "O`quvchilarning ijodiy qobiliyatlarini rivojlantiradi"
       ]
     },
     {
       "question": "Pedagogik faoliyatda darsning asosiy bosqichlari qanday tartibda amalga oshiriladi?",
       "correctAnswer": "Rejalashtirish, tashkil etish va tahlil qilish",
       "options": [
-        "Innovatsion metodlarni tizimli qo`llash",
-        "Rejalashtirish, tashkil etish va tahlil qilish",
         "Talabalar faoliyatini diversifikatsiya qilish",
+        "Rejalashtirish, tashkil etish va tahlil qilish",
+        "Innovatsion metodlarni tizimli qo`llash",
         "Mashg`ulot samaradorligini oshirish"
       ]
     },
@@ -586,19 +586,19 @@
       "correctAnswer": "O`quvchilarning axloqiy va jismoniy sifatlarini rivojlantirish",
       "options": [
         "Ta`lim jarayonini optimallashtirish",
-        "O`quvchilarning axloqiy va jismoniy sifatlarini rivojlantirish",
+        "Innovatsion yondashuvlarni rivojlantirish",
         "Jamoaviy ishlash ko`nikmalarini rivojlantirish",
-        "Innovatsion yondashuvlarni rivojlantirish"
+        "O`quvchilarning axloqiy va jismoniy sifatlarini rivojlantirish"
       ]
     },
     {
       "question": "Sport pedagogikasida ta`limni tashkil etish shakllari nimalardan iborat?",
       "correctAnswer": "Dars, mashg`ulot va mustaqil ishlar",
       "options": [
-        "Dars, mashg`ulot va mustaqil ishlar",
-        "Guruhli faoliyatlar va nazorat jarayonlari",
         "Faoliyatga ijodiy yondashuvni kiritish",
-        "Jamoaviy treninglar va interfaol mashg`ulotlar"
+        "Jamoaviy treninglar va interfaol mashg`ulotlar",
+        "Dars, mashg`ulot va mustaqil ishlar",
+        "Guruhli faoliyatlar va nazorat jarayonlari"
       ]
     },
     {
@@ -606,8 +606,8 @@
       "correctAnswer": "Yangi yondashuvlarni ishlab chiqish va samaradorlikni oshirishga",
       "options": [
         "Ta`lim jarayonini modernizatsiya qilishga",
-        "Mashg`ulotlarni interaktiv qilishga",
         "Resurslardan oqilona foydalanish imkoniyatini kengaytirishga",
+        "Mashg`ulotlarni interaktiv qilishga",
         "Yangi yondashuvlarni ishlab chiqish va samaradorlikni oshirishga"
       ]
     },
@@ -615,10 +615,10 @@
       "question": "Jismoniy tarbiya darslarida samarali muloqot qanday ahamiyatga ega?",
       "correctAnswer": "O`quvchilarning qiziqishini oshiradi va faol ishtirokini ta`minlaydi",
       "options": [
+        "Mashg`ulot jarayonini interfaol boshqaradi",
         "O`quvchilarning qiziqishini oshiradi va faol ishtirokini ta`minlaydi",
-        "Jamoaviy ishlashga sharoit yaratadi",
         "Innovatsion yondashuvlarni amalga oshirishni osonlashtiradi",
-        "Mashg`ulot jarayonini interfaol boshqaradi"
+        "Jamoaviy ishlashga sharoit yaratadi"
       ]
     },
     {
@@ -626,28 +626,28 @@
       "correctAnswer": "O`quvchilarning rivojlanish darajasini aniqlash",
       "options": [
         "Mashg`ulot natijalarini tizimli baholash",
-        "Innovatsion vositalarni sinovdan o`tkazish",
+        "O`quvchilarning rivojlanish darajasini aniqlash",
         "Faoliyat samaradorligini oshirish",
-        "O`quvchilarning rivojlanish darajasini aniqlash"
+        "Innovatsion vositalarni sinovdan o`tkazish"
       ]
     },
     {
       "question": "Jismoniy tarbiya darslarida yangi texnologiyalarni joriy etish qanday samaradorlikka olib keladi?",
       "correctAnswer": "Ta`lim jarayonining interaktivligini oshiradi",
       "options": [
-        "Resurslardan samarali foydalanishni ta`minlaydi",
+        "Pedagogik mahoratni boyitadi",
         "Mashg`ulot mazmunini kengaytiradi",
-        "Ta`lim jarayonining interaktivligini oshiradi",
-        "Pedagogik mahoratni boyitadi"
+        "Resurslardan samarali foydalanishni ta`minlaydi",
+        "Ta`lim jarayonining interaktivligini oshiradi"
       ]
     },
     {
       "question": "Pedagogik faoliyatda shaxsiy yondashuv qanday ahamiyatga ega?",
       "correctAnswer": "Har bir o`quvchining imkoniyatlarini hisobga olishga yordam beradi",
       "options": [
-        "Mashg`ulotlarni diversifikatsiya qiladi",
         "Shaxsiy qobiliyatlarni rivojlantirishni ta`minlaydi",
         "Innovatsion texnologiyalarning samaradorligini oshiradi",
+        "Mashg`ulotlarni diversifikatsiya qiladi",
         "Har bir o`quvchining imkoniyatlarini hisobga olishga yordam beradi"
       ]
     },
@@ -657,28 +657,28 @@
       "options": [
         "Mashg`ulot samaradorligini tahlil qilish",
         "Innovatsiyalarni pedagogik amaliyotga tatbiq qilish",
-        "Ta`lim jarayonini samarali va ijodiy qilish",
-        "Faoliyatga ijodkorlikni tizimli kiritish"
+        "Faoliyatga ijodkorlikni tizimli kiritish",
+        "Ta`lim jarayonini samarali va ijodiy qilish"
       ]
     },
     {
       "question": "Jismoniy tarbiya darslarida individual mashg`ulotlarning afzalliklari nimada?",
       "correctAnswer": "O`quvchilarning shaxsiy rivojlanishiga yordam beradi",
       "options": [
-        "Mashg`ulotlarni moslashtirish imkoniyatini yaratadi",
-        "Innovatsion yondashuvlarni boyitadi",
         "Faoliyatning tizimli optimallashtirilishini ta`minlaydi",
-        "O`quvchilarning shaxsiy rivojlanishiga yordam beradi"
+        "O`quvchilarning shaxsiy rivojlanishiga yordam beradi",
+        "Mashg`ulotlarni moslashtirish imkoniyatini yaratadi",
+        "Innovatsion yondashuvlarni boyitadi"
       ]
     },
     {
       "question": "Sport pedagogikasida “motivatsiya”ning asosiy roli nimada?",
       "correctAnswer": "O`quvchilarning faoliyatini rag`batlantirish",
       "options": [
-        "Talabalar ishtirokini tizimli ravishda rivojlantirish",
-        "Ta`lim jarayonini qiziqarli qilish",
         "Mashg`ulotlarga qiziqishni oshirish",
-        "O`quvchilarning faoliyatini rag`batlantirish"
+        "O`quvchilarning faoliyatini rag`batlantirish",
+        "Ta`lim jarayonini qiziqarli qilish",
+        "Talabalar ishtirokini tizimli ravishda rivojlantirish"
       ]
     },
     {
@@ -687,28 +687,28 @@
       "options": [
         "Innovatsion texnologiyalardan foydalanishni osonlashtirish",
         "O`quvchilarning shaxs sifatida rivojlanishini ta`minlash",
-        "Mashg`ulotlarni ijodiy boshqarish",
-        "Faoliyatning pedagogik ahamiyatini kuchaytirish"
+        "Faoliyatning pedagogik ahamiyatini kuchaytirish",
+        "Mashg`ulotlarni ijodiy boshqarish"
       ]
     },
     {
       "question": "Sport o`qituvchisining pedagogik faoliyatida kommunikatsiyaning ahamiyati nimada?",
       "correctAnswer": "O`quvchilar bilan samarali muloqotni ta`minlash",
       "options": [
-        "O`quvchilar bilan samarali muloqotni ta`minlash",
+        "Mashg`ulot samaradorligini oshirish",
         "Jamoaviy ishlashni rivojlantirish",
         "Pedagogik resurslarni optimallashtirish",
-        "Mashg`ulot samaradorligini oshirish"
+        "O`quvchilar bilan samarali muloqotni ta`minlash"
       ]
     },
     {
       "question": "Pedagogik ijodkorlik sport o`qituvchisi uchun qanday foyda keltiradi?",
       "correctAnswer": "Yangi yondashuvlarni ishlab chiqish va darslarni takomillashtirish",
       "options": [
-        "Resurslardan samarali foydalanishni rivojlantirish",
+        "Pedagogik jarayonni diversifikatsiya qilish",
         "Yangi yondashuvlarni ishlab chiqish va darslarni takomillashtirish",
         "Talabalar ishtirokini oshirish",
-        "Pedagogik jarayonni diversifikatsiya qilish"
+        "Resurslardan samarali foydalanishni rivojlantirish"
       ]
     },
     {
@@ -716,28 +716,28 @@
       "correctAnswer": "Ta`lim jarayonini yanada interaktiv va qiziqarli qiladi",
       "options": [
         "Ta`lim jarayonini yanada interaktiv va qiziqarli qiladi",
+        "Mashg`ulotlarning texnik bazasini boyitadi",
         "Innovatsion resurslardan foydalanishni optimallashtiradi",
-        "Pedagogik faoliyatni tizimli ravishda kengaytiradi",
-        "Mashg`ulotlarning texnik bazasini boyitadi"
+        "Pedagogik faoliyatni tizimli ravishda kengaytiradi"
       ]
     },
     {
       "question": "Sport pedagogikasida diagnostikaning asosiy mohiyati nimada?",
       "correctAnswer": "O`quvchilarning rivojlanish darajasini aniqlash",
       "options": [
+        "Innovatsion metodlarni sinash",
         "Mashg`ulot samaradorligini oshirish",
         "O`quvchilarning rivojlanish darajasini aniqlash",
-        "Faoliyat natijalarini tizimli baholash",
-        "Innovatsion metodlarni sinash"
+        "Faoliyat natijalarini tizimli baholash"
       ]
     },
     {
       "question": "Jismoniy tarbiya darslarida o`yin usullaridan foydalanish qanday natijalarga olib keladi?",
       "correctAnswer": "Motivatsiyani oshiradi va qiziqishni kuchaytiradi",
       "options": [
+        "Motivatsiyani oshiradi va qiziqishni kuchaytiradi",
         "Faoliyat mazmunini kengaytiradi",
         "Mashg`ulotlarni ijodiy rivojlantiradi",
-        "Motivatsiyani oshiradi va qiziqishni kuchaytiradi",
         "Talabalar ishtirokini tizimli boshqaradi"
       ]
     },
@@ -745,10 +745,10 @@
       "question": "Pedagogik faoliyatda yangi texnologiyalarni qo`llashning afzalliklari qaysilar?",
       "correctAnswer": "O`quv jarayonining samaradorligini oshiradi va ijodkorlikni kuchaytiradi",
       "options": [
-        "Mashg`ulot mazmunini diversifikatsiya qiladi",
-        "Pedagogik faoliyatni tizimli boshqarishni rivojlantiradi",
         "O`quv jarayonining samaradorligini oshiradi va ijodkorlikni kuchaytiradi",
-        "Innovatsion vositalarning ta`limdagi o`rnini kuchaytiradi"
+        "Innovatsion vositalarning ta`limdagi o`rnini kuchaytiradi",
+        "Mashg`ulot mazmunini diversifikatsiya qiladi",
+        "Pedagogik faoliyatni tizimli boshqarishni rivojlantiradi"
       ]
     },
     {
@@ -756,9 +756,9 @@
       "correctAnswer": "Rejalashtirish, tashkil etish va tahlil qilish",
       "options": [
         "Jamoaviy mashg`ulotlarni rivojlantirish",
-        "Innovatsion resurslarni qo`llash",
         "Rejalashtirish, tashkil etish va tahlil qilish",
-        "Mashg`ulot jarayonini boshqarish"
+        "Mashg`ulot jarayonini boshqarish",
+        "Innovatsion resurslarni qo`llash"
       ]
     },
     {
@@ -775,30 +775,30 @@
       "question": "Pedagogik innovatsiyalarni qo`llash qanday natijalarga olib keladi?",
       "correctAnswer": "O`quv jarayonini qiziqarli va samarali qiladi",
       "options": [
+        "O`quv jarayonini qiziqarli va samarali qiladi",
         "Innovatsion vositalarni amaliyotga joriy etadi",
-        "Mashg`ulot mazmunini kengaytiradi",
         "Resurslardan samarali foydalanishni ta`minlaydi",
-        "O`quv jarayonini qiziqarli va samarali qiladi"
+        "Mashg`ulot mazmunini kengaytiradi"
       ]
     },
     {
       "question": "Jismoniy tarbiya darslarida individual mashg`ulotlarning afzalliklari qaysilar?",
       "correctAnswer": "O`quvchilarning individual ehtiyojlarini qondirish",
       "options": [
-        "O`quvchilarning individual ehtiyojlarini qondirish",
-        "Innovatsion texnologiyalardan foydalanishni oshirish",
         "Mashg`ulot jarayonini optimallashtirish",
-        "Faoliyat natijalarini diversifikatsiya qilish"
+        "Faoliyat natijalarini diversifikatsiya qilish",
+        "O`quvchilarning individual ehtiyojlarini qondirish",
+        "Innovatsion texnologiyalardan foydalanishni oshirish"
       ]
     },
     {
       "question": "Sport pedagogikasida kommunikatsiyaning asosiy vazifasi nima?",
       "correctAnswer": "O`quvchilar bilan samarali muloqotni ta`minlash",
       "options": [
-        "Jamoaviy ishlash ko`nikmalarini rivojlantirish",
         "O`quvchilar bilan samarali muloqotni ta`minlash",
         "Mashg`ulotlarni tizimli boshqarish",
-        "Faoliyat samaradorligini oshirish"
+        "Faoliyat samaradorligini oshirish",
+        "Jamoaviy ishlash ko`nikmalarini rivojlantirish"
       ]
     },
     {
@@ -815,60 +815,60 @@
       "question": "Pedagogik texnologiyalarning ta`lim jarayonidagi asosiy maqsadi nima?",
       "correctAnswer": "Samaradorlikni oshirish va qiziqishni kuchaytirish",
       "options": [
+        "Samaradorlikni oshirish va qiziqishni kuchaytirish",
         "Innovatsiyalarni tizimli qo`llash",
-        "Mashg`ulot mazmunini diversifikatsiya qilish",
         "Jamoaviy yondashuvni rivojlantirish",
-        "Samaradorlikni oshirish va qiziqishni kuchaytirish"
+        "Mashg`ulot mazmunini diversifikatsiya qilish"
       ]
     },
     {
       "question": "Sport pedagogikasida “ijodkorlik”ning ahamiyati nimada?",
       "correctAnswer": "Yangi pedagogik yondashuvlarni ishlab chiqish",
       "options": [
-        "Ta`lim jarayonini diversifikatsiya qilish",
-        "Mashg`ulot samaradorligini oshirish",
         "Innovatsion resurslardan foydalanishni kuchaytirish",
-        "Yangi pedagogik yondashuvlarni ishlab chiqish"
+        "Yangi pedagogik yondashuvlarni ishlab chiqish",
+        "Ta`lim jarayonini diversifikatsiya qilish",
+        "Mashg`ulot samaradorligini oshirish"
       ]
     },
     {
       "question": "Jismoniy tarbiya darslarida yangi texnologiyalarni joriy qilishning natijasi qanday bo`ladi?",
       "correctAnswer": "Dars jarayonining qiziqarli va samarali bo`lishiga yordam beradi",
       "options": [
-        "Mashg`ulot mazmunini tizimli boyitadi",
+        "Dars jarayonining qiziqarli va samarali bo`lishiga yordam beradi",
         "Resurslarni oqilona boshqaradi",
-        "Innovatsion metodlarning samaradorligini oshiradi",
-        "Dars jarayonining qiziqarli va samarali bo`lishiga yordam beradi"
+        "Mashg`ulot mazmunini tizimli boyitadi",
+        "Innovatsion metodlarning samaradorligini oshiradi"
       ]
     },
     {
       "question": "Pedagogik faoliyatda motivatsiyaning asosiy vazifasi nima?",
       "correctAnswer": "O`quvchilarning faoliyatga bo`lgan qiziqishini oshirish",
       "options": [
-        "Faoliyat jarayonini ijodiy rivojlantirish",
-        "O`quvchilarning faoliyatga bo`lgan qiziqishini oshirish",
         "Talabalar ishtirokini kuchaytirish",
-        "Innovatsion metodlarni tizimli kiritish"
+        "Innovatsion metodlarni tizimli kiritish",
+        "Faoliyat jarayonini ijodiy rivojlantirish",
+        "O`quvchilarning faoliyatga bo`lgan qiziqishini oshirish"
       ]
     },
     {
       "question": "Sport o`qituvchisining tarbiyaviy faoliyati qanday natijalarga olib keladi?",
       "correctAnswer": "O`quvchilarning axloqiy va jismoniy rivojlanishini ta`minlaydi",
       "options": [
+        "Innovatsion texnologiyalarni qo`llashni kuchaytiradi",
         "Talabalarning ijodiy qobiliyatlarini rivojlantiradi",
-        "Mashg`ulot natijalarini tizimli baholashga imkon beradi",
         "O`quvchilarning axloqiy va jismoniy rivojlanishini ta`minlaydi",
-        "Innovatsion texnologiyalarni qo`llashni kuchaytiradi"
+        "Mashg`ulot natijalarini tizimli baholashga imkon beradi"
       ]
     },
     {
       "question": "Jismoniy tarbiya va sportda innovatsion texnologiyalar qanday foyda keltiradi?",
       "correctAnswer": "Ta`lim jarayonini samarali boshqaradi va ijodkorlikni oshiradi",
       "options": [
+        "Faoliyatni tizimli boshqarishga imkon beradi",
         "Ta`lim jarayonini samarali boshqaradi va ijodkorlikni oshiradi",
-        "Resurslardan samarali foydalanishni ta`minlaydi",
         "Pedagogik faoliyatni diversifikatsiya qiladi",
-        "Faoliyatni tizimli boshqarishga imkon beradi"
+        "Resurslardan samarali foydalanishni ta`minlaydi"
       ]
     },
     {
@@ -877,17 +877,17 @@
       "options": [
         "Mashg`ulot jarayonini samarali boshqarishga",
         "Yondashuvlarning to`g`ri rejalashtirilishi va ijodiyligi",
-        "Talabalar ishtirokini rivojlantirishga",
-        "Innovatsion vositalardan foydalanishga"
+        "Innovatsion vositalardan foydalanishga",
+        "Talabalar ishtirokini rivojlantirishga"
       ]
     },
     {
       "question": "Pedagogik innovatsiyalarni qo`llash qaysi jarayonni takomillashtiradi?",
       "correctAnswer": "Ta`limning samaradorligini va qiziqishini oshiradi",
       "options": [
-        "Faoliyat natijalarini tizimli diversifikatsiya qiladi",
         "Innovatsion texnologiyalardan foydalanishni kengaytiradi",
         "Ta`limning samaradorligini va qiziqishini oshiradi",
+        "Faoliyat natijalarini tizimli diversifikatsiya qiladi",
         "Mashg`ulot jarayonini optimallashtiradi"
       ]
     },
@@ -895,39 +895,39 @@
       "question": "Jismoniy tarbiya darslarida individual yondashuvning ahamiyati nimada?",
       "correctAnswer": "Har bir o`quvchining ehtiyojlarini hisobga olishda",
       "options": [
-        "Faoliyatni talabalarga moslashtirishda",
-        "Innovatsion usullardan samarali foydalanishda",
+        "Resurslarni optimal boshqarishda",
         "Har bir o`quvchining ehtiyojlarini hisobga olishda",
-        "Resurslarni optimal boshqarishda"
+        "Faoliyatni talabalarga moslashtirishda",
+        "Innovatsion usullardan samarali foydalanishda"
       ]
     },
     {
       "question": "Sport o`qituvchisining pedagogik mahorati qanday ko`nikmalarni o`z ichiga oladi?",
       "correctAnswer": "Kommunikatsiya, rejalashtirish va ijodkorlik",
       "options": [
-        "Innovatsion vositalarni kiritish qobiliyati",
-        "Pedagogik resurslarni diversifikatsiya qilish",
         "Faoliyat natijalarini tahlil qilish qobiliyati",
-        "Kommunikatsiya, rejalashtirish va ijodkorlik"
+        "Kommunikatsiya, rejalashtirish va ijodkorlik",
+        "Pedagogik resurslarni diversifikatsiya qilish",
+        "Innovatsion vositalarni kiritish qobiliyati"
       ]
     },
     {
       "question": "Pedagogik diagnostika jarayoni qanday natijalar beradi?",
       "correctAnswer": "O`quvchilarning rivojlanishini kuzatish va tahlil qilish imkonini beradi",
       "options": [
-        "Faoliyat mazmunini kengaytiradi",
         "Mashg`ulot samaradorligini oshiradi",
-        "O`quvchilarning rivojlanishini kuzatish va tahlil qilish imkonini beradi",
-        "Innovatsion texnologiyalardan samarali foydalanadi"
+        "Faoliyat mazmunini kengaytiradi",
+        "Innovatsion texnologiyalardan samarali foydalanadi",
+        "O`quvchilarning rivojlanishini kuzatish va tahlil qilish imkonini beradi"
       ]
     },
     {
       "question": "Sport pedagogikasida ta`lim jarayonining asosiy maqsadi nimada?",
       "correctAnswer": "O`quvchilarning jismoniy va axloqiy rivojlanishini ta`minlash",
       "options": [
-        "Innovatsion metodlarni tizimli qo`llash",
         "Pedagogik vositalarning samaradorligini oshirish",
         "Ta`lim jarayonini ijodiy rivojlantirish",
+        "Innovatsion metodlarni tizimli qo`llash",
         "O`quvchilarning jismoniy va axloqiy rivojlanishini ta`minlash"
       ]
     },
@@ -935,19 +935,19 @@
       "question": "Jismoniy tarbiya darslarida ijodiy yondashuv qanday natija beradi?",
       "correctAnswer": "O`quv jarayonini yanada qiziqarli va samarali qiladi",
       "options": [
-        "O`quv jarayonini yanada qiziqarli va samarali qiladi",
         "Innovatsion strategiyalarni kengaytiradi",
-        "Resurslardan samarali foydalanishni oshiradi",
-        "Mashg`ulot mazmunini diversifikatsiya qiladi"
+        "O`quv jarayonini yanada qiziqarli va samarali qiladi",
+        "Mashg`ulot mazmunini diversifikatsiya qiladi",
+        "Resurslardan samarali foydalanishni oshiradi"
       ]
     },
     {
       "question": "Sport o`qituvchisi dars rejasini qanday tashkil qilishi kerak?",
       "correctAnswer": "Mashg`ulotning maqsadi va bosqichlarini aniq belgilash orqali",
       "options": [
-        "Faoliyatning pedagogik mazmunini boyitish orqali",
         "Resurslarni tizimli boshqarish orqali",
         "Mashg`ulotning maqsadi va bosqichlarini aniq belgilash orqali",
+        "Faoliyatning pedagogik mazmunini boyitish orqali",
         "Innovatsion texnologiyalardan foydalanish orqali"
       ]
     },
@@ -956,8 +956,8 @@
       "correctAnswer": "O`quvchilarning qiziqishini oshirish va ta`limni takomillashtirish",
       "options": [
         "Faoliyat samaradorligini tizimli rivojlantirish",
-        "O`quvchilarning qiziqishini oshirish va ta`limni takomillashtirish",
         "Innovatsion resurslarni diversifikatsiya qilish",
+        "O`quvchilarning qiziqishini oshirish va ta`limni takomillashtirish",
         "Mashg`ulot mazmunini kengaytirish"
       ]
     },
@@ -967,18 +967,18 @@
       "options": [
         "Mashg`ulotlarni samarali diversifikatsiya qiladi",
         "Ta`lim jarayonining muvaffaqiyatli amalga oshirilishini ta`minlaydi",
-        "Faoliyat natijalarini tizimli boshqaradi",
-        "Innovatsion metodlarni boyitishga xizmat qiladi"
+        "Innovatsion metodlarni boyitishga xizmat qiladi",
+        "Faoliyat natijalarini tizimli boshqaradi"
       ]
     },
     {
       "question": "Sport pedagogikasining asosiy maqsadi nima?",
       "correctAnswer": "Jismoniy tarbiya va sport orqali shaxsni har tomonlama rivojlantirish",
       "options": [
-        "Sportchilarning ma`naviy o`sishini ta`minlash",
-        "Faoliyatga innovatsion yondashuvlarni qo`llash",
+        "Ta`lim jarayonini samarali boshqarish",
         "Jismoniy tarbiya va sport orqali shaxsni har tomonlama rivojlantirish",
-        "Ta`lim jarayonini samarali boshqarish"
+        "Sportchilarning ma`naviy o`sishini ta`minlash",
+        "Faoliyatga innovatsion yondashuvlarni qo`llash"
       ]
     },
     {
@@ -986,9 +986,9 @@
       "correctAnswer": "Yangi yondashuvlarni o`rganish va ulardan foydalanish",
       "options": [
         "Innovatsion texnologiyalardan foydalanishni rivojlantirish",
-        "Resurslardan samarali foydalanishni ta`minlash",
         "Yangi yondashuvlarni o`rganish va ulardan foydalanish",
-        "Ta`lim jarayonini global miqyosda diversifikatsiya qilish"
+        "Ta`lim jarayonini global miqyosda diversifikatsiya qilish",
+        "Resurslardan samarali foydalanishni ta`minlash"
       ]
     },
     {
@@ -996,8 +996,8 @@
       "correctAnswer": "Sportchilarning axloqiy va texnik rivojlanishini ta`minlash",
       "options": [
         "Sportchilarning axloqiy va texnik rivojlanishini ta`minlash",
-        "Jamoaviy ruhni rivojlantirishga xizmat qilish",
         "Innovatsiyalarni joriy etishni kengaytirish",
+        "Jamoaviy ruhni rivojlantirishga xizmat qilish",
         "Ta`lim jarayonini qiziqarli qilishga ko`maklashish"
       ]
     },
@@ -1005,9 +1005,9 @@
       "question": "Kelajakda sport pedagogikasining eng muhim rivojlanish yo`nalishi qaysi bo`lishi mumkin?",
       "correctAnswer": "Texnologiyalar va ekologik yondashuvlarni ta`limga integratsiya qilish",
       "options": [
+        "Mashg`ulot natijalarini optimallashtirish",
         "Resurslarni samarali boshqarish",
         "Texnologiyalar va ekologik yondashuvlarni ta`limga integratsiya qilish",
-        "Mashg`ulot natijalarini optimallashtirish",
         "Talabalar ishtirokini tizimli oshirish"
       ]
     },
@@ -1015,19 +1015,19 @@
       "question": "Jismoniy tarbiya darslarida o`yinlardan foydalanishning asosiy maqsadi nima?",
       "correctAnswer": "O`quvchilarning qiziqishini oshirish va faoliyatini yaxshilash",
       "options": [
-        "O`quvchilarning qiziqishini oshirish va faoliyatini yaxshilash",
-        "Mashg`ulot jarayoniga ijodiy yondashuvni kiritish",
         "Faoliyat mazmunini kengaytirish",
-        "Jamoaviy ishlashni rivojlantirish"
+        "Jamoaviy ishlashni rivojlantirish",
+        "Mashg`ulot jarayoniga ijodiy yondashuvni kiritish",
+        "O`quvchilarning qiziqishini oshirish va faoliyatini yaxshilash"
       ]
     },
     {
       "question": "Dunyoda sport pedagogikasining rivojlanishi qaysi omillar bilan bog`liq?",
       "correctAnswer": "Xalqaro hamkorlik va ilmiy yondashuvlar bilan",
       "options": [
-        "Jamoaviy mashg`ulotlarni boyitish bilan",
         "Innovatsion resurslardan foydalanish imkoniyatlari bilan",
         "Xalqaro hamkorlik va ilmiy yondashuvlar bilan",
+        "Jamoaviy mashg`ulotlarni boyitish bilan",
         "Mashg`ulot jarayonining samaradorligini oshirish bilan"
       ]
     },
@@ -1036,8 +1036,8 @@
       "correctAnswer": "Ta`lim jarayonining samaradorligini oshiradi",
       "options": [
         "Pedagogik resurslarni boyitadi",
-        "Faoliyat natijalarini tizimli optimallashtiradi",
         "Ta`lim jarayonining samaradorligini oshiradi",
+        "Faoliyat natijalarini tizimli optimallashtiradi",
         "Innovatsion vositalarni kengaytiradi"
       ]
     },
@@ -1046,69 +1046,69 @@
       "correctAnswer": "Sog`lom turmush tarzini targ`ib qilishni kuchaytiradi",
       "options": [
         "Innovatsion texnologiyalarning qo`llanishini kengaytiradi",
-        "Mashg`ulot jarayonini ekologik moslashtiradi",
+        "Sog`lom turmush tarzini targ`ib qilishni kuchaytiradi",
         "Resurslardan oqilona foydalanishni ta`minlaydi",
-        "Sog`lom turmush tarzini targ`ib qilishni kuchaytiradi"
+        "Mashg`ulot jarayonini ekologik moslashtiradi"
       ]
     },
     {
       "question": "Olimpiya o`yinlarida qatnashgan sportchilarning axloqiy tayyorgarligi nima uchun muhim?",
       "correctAnswer": "Jamoaviy ruhni va sport madaniyatini rivojlantirish uchun",
       "options": [
-        "Faoliyat natijalarini tizimli tahlil qilish uchun",
+        "Jamoaviy ruhni va sport madaniyatini rivojlantirish uchun",
         "Innovatsion metodlarni sinovdan o`tkazish uchun",
-        "Ta`lim jarayonini axloqiy yondashuv bilan boyitish uchun",
-        "Jamoaviy ruhni va sport madaniyatini rivojlantirish uchun"
+        "Faoliyat natijalarini tizimli tahlil qilish uchun",
+        "Ta`lim jarayonini axloqiy yondashuv bilan boyitish uchun"
       ]
     },
     {
       "question": "Sport pedagogikasida texnologik innovatsiyalar qanday muhim rol o`ynaydi?",
       "correctAnswer": "Ta`lim jarayonini samarali va qiziqarli qilish uchun",
       "options": [
-        "Faoliyatning texnik tomonlarini boyitish uchun",
-        "Mashg`ulot samaradorligini oshirish uchun",
         "Innovatsion resurslarni pedagogik jarayonga integratsiya qilish uchun",
-        "Ta`lim jarayonini samarali va qiziqarli qilish uchun"
+        "Ta`lim jarayonini samarali va qiziqarli qilish uchun",
+        "Faoliyatning texnik tomonlarini boyitish uchun",
+        "Mashg`ulot samaradorligini oshirish uchun"
       ]
     },
     {
       "question": "Dunyodagi sport tizimida ekologik ongni rivojlantirishning maqsadi nima?",
       "correctAnswer": "Sog`lom turmush tarzini targ`ib qilish",
       "options": [
-        "Sog`lom turmush tarzini targ`ib qilish",
-        "Talabalar ishtirokini kengaytirish",
+        "Faoliyat mazmunini ekologik jihatdan moslashtirish",
         "Mashg`ulot natijalarini tizimli baholash",
-        "Faoliyat mazmunini ekologik jihatdan moslashtirish"
+        "Talabalar ishtirokini kengaytirish",
+        "Sog`lom turmush tarzini targ`ib qilish"
       ]
     },
     {
       "question": "Olimpiya o`yinlarida axloqiy tamoyillar qanday ahamiyatga ega?",
       "correctAnswer": "Sportchilar o`rtasida adolatli raqobatni ta`minlaydi",
       "options": [
-        "Sportchilar o`rtasida adolatli raqobatni ta`minlaydi",
-        "Faoliyatni ekologik moslashtiradi",
         "Jamoaviy ishlashni rivojlantiradi",
-        "Innovatsion yondashuvlarni sinashga yordam beradi"
+        "Innovatsion yondashuvlarni sinashga yordam beradi",
+        "Sportchilar o`rtasida adolatli raqobatni ta`minlaydi",
+        "Faoliyatni ekologik moslashtiradi"
       ]
     },
     {
       "question": "Sport pedagogikasining ijtimoiy masalalardagi o`rni nimada?",
       "correctAnswer": "Jismoniy tarbiya orqali jamiyatda sog`lom turmush tarzini rivojlantirish",
       "options": [
-        "Jismoniy tarbiya orqali jamiyatda sog`lom turmush tarzini rivojlantirish",
+        "Faoliyatni axloqiy yondashuv bilan boyitish",
         "Jamoaviy ruhni kuchaytirish",
         "Ta`lim tizimini kengaytirish",
-        "Faoliyatni axloqiy yondashuv bilan boyitish"
+        "Jismoniy tarbiya orqali jamiyatda sog`lom turmush tarzini rivojlantirish"
       ]
     },
     {
       "question": "Jismoniy tarbiya va sportdagi xalqaro hamkorlikning asosiy foydasi nima?",
       "correctAnswer": "Tajriba almashish va global rivojlanishni ta`minlash",
       "options": [
-        "Innovatsion strategiyalarning qo`llanilishini kengaytirish",
-        "Tajriba almashish va global rivojlanishni ta`minlash",
         "Faoliyat jarayonini global miqyosda boyitish",
-        "Resurslarni diversifikatsiya qilish"
+        "Resurslarni diversifikatsiya qilish",
+        "Tajriba almashish va global rivojlanishni ta`minlash",
+        "Innovatsion strategiyalarning qo`llanilishini kengaytirish"
       ]
     },
     {
@@ -1116,19 +1116,19 @@
       "correctAnswer": "O`quvchilarning ishtirokini va qiziqishini oshiradi",
       "options": [
         "Faoliyatni talabalarga moslashtiradi",
+        "O`quvchilarning ishtirokini va qiziqishini oshiradi",
         "Mashg`ulot natijalarini kengaytiradi",
-        "Innovatsion metodlarni qo`llashni kuchaytiradi",
-        "O`quvchilarning ishtirokini va qiziqishini oshiradi"
+        "Innovatsion metodlarni qo`llashni kuchaytiradi"
       ]
     },
     {
       "question": "Kelajakda sport pedagogikasining rivojlanishi qaysi sohalar bilan bog`liq?",
       "correctAnswer": "Texnologiyalar, ekologiya va axloqiy yondashuvlar bilan",
       "options": [
-        "Texnologiyalar, ekologiya va axloqiy yondashuvlar bilan",
         "Talabalar ishtirokini tizimli oshirish bilan",
-        "Faoliyat mazmunini diversifikatsiya qilish bilan",
-        "Innovatsion resurslarni kengaytirish bilan"
+        "Innovatsion resurslarni kengaytirish bilan",
+        "Texnologiyalar, ekologiya va axloqiy yondashuvlar bilan",
+        "Faoliyat mazmunini diversifikatsiya qilish bilan"
       ]
     },
     {
@@ -1136,8 +1136,8 @@
       "correctAnswer": "Har bir sportchining individual ehtiyojlarini qondirish uchun",
       "options": [
         "Har bir sportchining individual ehtiyojlarini qondirish uchun",
-        "Ta`lim jarayonini ekologik jihatdan boyitish uchun",
         "Innovatsion strategiyalarni rivojlantirish uchun",
+        "Ta`lim jarayonini ekologik jihatdan boyitish uchun",
         "Mashg`ulot natijalarini tizimli kuzatish uchun"
       ]
     },
@@ -1147,18 +1147,18 @@
       "options": [
         "Tabiy resurslardan oqilona foydalanish va chiqindilarni kamaytirish",
         "Ta`lim tizimini boyitish",
-        "Innovatsion metodlarni kengaytirish",
-        "Faoliyatni texnik moslashtirish"
+        "Faoliyatni texnik moslashtirish",
+        "Innovatsion metodlarni kengaytirish"
       ]
     },
     {
       "question": "Sport pedagogikasining ijtimoiy ahamiyati nimada?",
       "correctAnswer": "Sport orqali jamiyatni birlashtirish va rivojlantirish",
       "options": [
-        "Ta`lim jarayonini diversifikatsiya qilish",
+        "Faoliyat samaradorligini optimallashtirish",
         "Innovatsion vositalardan foydalanish imkoniyatini oshirish",
-        "Sport orqali jamiyatni birlashtirish va rivojlantirish",
-        "Faoliyat samaradorligini optimallashtirish"
+        "Ta`lim jarayonini diversifikatsiya qilish",
+        "Sport orqali jamiyatni birlashtirish va rivojlantirish"
       ]
     },
     {
@@ -1166,17 +1166,17 @@
       "correctAnswer": "Darslarni yanada samarali va qiziqarli qiladi",
       "options": [
         "Faoliyatni moslashtirishga yordam beradi",
-        "Darslarni yanada samarali va qiziqarli qiladi",
         "Innovatsion metodlarni sinash imkoniyatini beradi",
-        "Resurslarni samarali boshqarishga yordam beradi"
+        "Resurslarni samarali boshqarishga yordam beradi",
+        "Darslarni yanada samarali va qiziqarli qiladi"
       ]
     },
     {
       "question": "Dunyoda sportning sog`liqni saqlashdagi roli qanday?",
       "correctAnswer": "Kasalliklarning oldini olish va jismoniy sog`lomlikni ta`minlash",
       "options": [
-        "Kasalliklarning oldini olish va jismoniy sog`lomlikni ta`minlash",
         "Innovatsion metodlarni qo`llash",
+        "Kasalliklarning oldini olish va jismoniy sog`lomlikni ta`minlash",
         "Faoliyat mazmunini boyitish",
         "Sog`lom turmush tarzini keng targ`ib qilish"
       ]
@@ -1185,29 +1185,29 @@
       "question": "Jahon miqyosida sport pedagogikasida ekologik yondashuvning maqsadi nima?",
       "correctAnswer": "Tabiat va jamiyat o`rtasidagi muvozanatni ta`minlash",
       "options": [
-        "Resurslardan oqilona foydalanish",
         "Jamoaviy ongni rivojlantirish",
-        "Faoliyatni ekologik jihatdan diversifikatsiya qilish",
-        "Tabiat va jamiyat o`rtasidagi muvozanatni ta`minlash"
+        "Resurslardan oqilona foydalanish",
+        "Tabiat va jamiyat o`rtasidagi muvozanatni ta`minlash",
+        "Faoliyatni ekologik jihatdan diversifikatsiya qilish"
       ]
     },
     {
       "question": "Olimpiya o`yinlarida sport texnologiyalarining roli qanday?",
       "correctAnswer": "Sportchilarning samaradorligini oshirish va natijalarni tahlil qilish",
       "options": [
-        "Sportchilarning samaradorligini oshirish va natijalarni tahlil qilish",
-        "Faoliyatni moslashtirish",
         "Jamoaviy ishlashni mustahkamlash",
-        "Innovatsion resurslarni kengaytirish"
+        "Innovatsion resurslarni kengaytirish",
+        "Sportchilarning samaradorligini oshirish va natijalarni tahlil qilish",
+        "Faoliyatni moslashtirish"
       ]
     },
     {
       "question": "Sport pedagogikasida innovatsiyalar qanday yutuqlarga olib keladi?",
       "correctAnswer": "Ta`lim sifatini oshiradi va zamonaviy yondashuvlarni ta`minlaydi",
       "options": [
-        "Ta`lim sifatini oshiradi va zamonaviy yondashuvlarni ta`minlaydi",
         "Pedagogik jarayonni rivojlantiradi",
         "Mashg`ulot mazmunini kengaytiradi",
+        "Ta`lim sifatini oshiradi va zamonaviy yondashuvlarni ta`minlaydi",
         "Resurslardan samarali foydalanishni ta`minlaydi"
       ]
     },
@@ -1215,59 +1215,59 @@
       "question": "Sport pedagogikasida jamoaviy o`yinlarning ahamiyati nimada?",
       "correctAnswer": "O`quvchilar o`rtasida hamkorlik va jamoaviy ruhni rivojlantiradi",
       "options": [
-        "Ta`lim jarayonini boyitadi",
-        "Innovatsion texnologiyalardan foydalanishni kengaytiradi",
         "Faoliyat samaradorligini oshiradi",
-        "O`quvchilar o`rtasida hamkorlik va jamoaviy ruhni rivojlantiradi"
+        "O`quvchilar o`rtasida hamkorlik va jamoaviy ruhni rivojlantiradi",
+        "Ta`lim jarayonini boyitadi",
+        "Innovatsion texnologiyalardan foydalanishni kengaytiradi"
       ]
     },
     {
       "question": "Dunyoda sport turlarining ommaviyligi nimaga bog`liq?",
       "correctAnswer": "Sport turi madaniy meros va qiziqishga bog`liq",
       "options": [
+        "Sport turi madaniy meros va qiziqishga bog`liq",
         "Faoliyat natijalarini diversifikatsiya qilishga bog`liq",
         "Innovatsion strategiyalarning qo`llanilishiga bog`liq",
-        "Resurslarni tizimli boshqarishga bog`liq",
-        "Sport turi madaniy meros va qiziqishga bog`liq"
+        "Resurslarni tizimli boshqarishga bog`liq"
       ]
     },
     {
       "question": "Sport pedagogikasida texnologiyalarning qo`llanilishi qanday afzalliklarga ega?",
       "correctAnswer": "Dars samaradorligini oshiradi va qiziqishni kuchaytiradi",
       "options": [
-        "Faoliyat natijalarini tizimli tahlil qiladi",
         "Dars samaradorligini oshiradi va qiziqishni kuchaytiradi",
-        "Mashg`ulotlarni modernizatsiya qiladi",
-        "Innovatsion vositalarni kengaytiradi"
+        "Innovatsion vositalarni kengaytiradi",
+        "Faoliyat natijalarini tizimli tahlil qiladi",
+        "Mashg`ulotlarni modernizatsiya qiladi"
       ]
     },
     {
       "question": "Olimpiya o`yinlarida yosh sportchilarning tayyorligi nimaga asoslanadi?",
       "correctAnswer": "Fizik tayyorgarlik, axloqiy va texnik rivojlanish",
       "options": [
-        "Fizik tayyorgarlik, axloqiy va texnik rivojlanish",
         "Faoliyatni ekologik moslashtirish",
         "Jamoaviy ishlashni rivojlantirish",
-        "Innovatsion metodlarni qo`llash"
+        "Innovatsion metodlarni qo`llash",
+        "Fizik tayyorgarlik, axloqiy va texnik rivojlanish"
       ]
     },
     {
       "question": "Jismoniy tarbiya darslarida yangi yondashuvlarni joriy qilish qanday natijaga olib keladi?",
       "correctAnswer": "O`quvchilarning qiziqishini oshiradi va samaradorlikni kuchaytiradi",
       "options": [
-        "Faoliyatni interfaol boyitadi",
+        "Innovatsion texnologiyalarning qo`llanilishini kengaytiradi",
         "O`quvchilarning qiziqishini oshiradi va samaradorlikni kuchaytiradi",
         "Resurslardan oqilona foydalanishni ta`minlaydi",
-        "Innovatsion texnologiyalarning qo`llanilishini kengaytiradi"
+        "Faoliyatni interfaol boyitadi"
       ]
     },
     {
       "question": "Dunyodagi sport turlarining xilma-xilligi qanday omillarga bog`liq?",
       "correctAnswer": "Geografiya, madaniyat va an`analarga bog`liq",
       "options": [
-        "Jamoaviy ongni rivojlantirishga bog`liq",
         "Faoliyat mazmunini diversifikatsiya qilishga bog`liq",
         "Resurslardan samarali foydalanishga bog`liq",
+        "Jamoaviy ongni rivojlantirishga bog`liq",
         "Geografiya, madaniyat va an`analarga bog`liq"
       ]
     },
@@ -1275,19 +1275,19 @@
       "question": "Sport pedagogikasida ijodkorlik qanday rol o`ynaydi?",
       "correctAnswer": "Yangi texnologiyalar va yondashuvlarni rivojlantirishda",
       "options": [
+        "Mashg`ulot jarayonini optimallashtirishda",
         "Yangi texnologiyalar va yondashuvlarni rivojlantirishda",
-        "Faoliyat natijalarini boyitishda",
         "Innovatsion resurslarni kengaytirishda",
-        "Mashg`ulot jarayonini optimallashtirishda"
+        "Faoliyat natijalarini boyitishda"
       ]
     },
     {
       "question": "Olimpiya o`yinlarida ekologik masalalar qanday yondashuvlarni talab qiladi?",
       "correctAnswer": "Barqaror rivojlanish va tabiiy resurslarni saqlash",
       "options": [
-        "Resurslardan oqilona foydalanish imkoniyatini oshirish",
-        "Innovatsion metodlarni sinash",
         "Barqaror rivojlanish va tabiiy resurslarni saqlash",
+        "Innovatsion metodlarni sinash",
+        "Resurslardan oqilona foydalanish imkoniyatini oshirish",
         "Mashg`ulot jarayonini ekologik moslashtiris"
       ]
     },
@@ -1295,10 +1295,10 @@
       "question": "Sport pedagogikasida xalqaro hamkorlik qanday ahamiyatga ega?",
       "correctAnswer": "Turli mamlakatlar tajribasini birlashtiradi va rivojlantiradi",
       "options": [
-        "Mashg`ulot samaradorligini oshiradi",
         "Ta`lim jarayonini global miqyosda diversifikatsiya qiladi",
-        "Innovatsion strategiyalarning qo`llanilishini kengaytiradi",
-        "Turli mamlakatlar tajribasini birlashtiradi va rivojlantiradi"
+        "Mashg`ulot samaradorligini oshiradi",
+        "Turli mamlakatlar tajribasini birlashtiradi va rivojlantiradi",
+        "Innovatsion strategiyalarning qo`llanilishini kengaytiradi"
       ]
     },
     {
@@ -1307,8 +1307,8 @@
       "options": [
         "Jismoniy va axloqiy rivojlanishni ta`minlash",
         "Faoliyat mazmunini optimallashtirish",
-        "Innovatsion yondashuvlarni kengaytirish",
-        "Jamoaviy ishlashni rivojlantirish"
+        "Jamoaviy ishlashni rivojlantirish",
+        "Innovatsion yondashuvlarni kengaytirish"
       ]
     },
     {
@@ -1316,8 +1316,8 @@
       "correctAnswer": "Yangi texnologiyalar va innovatsion yondashuvlarga",
       "options": [
         "Yangi texnologiyalar va innovatsion yondashuvlarga",
-        "Resurslardan samarali foydalanishga",
         "Faoliyatni tizimli diversifikatsiya qilishga",
+        "Resurslardan samarali foydalanishga",
         "Talabalar ishtirokini kengaytirishga"
       ]
     },
@@ -1325,28 +1325,28 @@
       "question": "Jismoniy tarbiya darslarida ekologik ongni rivojlantirish qanday foyda keltiradi?",
       "correctAnswer": "Tabiatni asrash va sog`lom turmush tarzini targ`ib qilish",
       "options": [
-        "Tabiatni asrash va sog`lom turmush tarzini targ`ib qilish",
         "Resurslarni ekologik moslashtirish",
         "Faoliyatni ekologik diversifikatsiya qilish",
-        "Innovatsion texnologiyalardan foydalanish imkoniyatini kengaytirish"
+        "Innovatsion texnologiyalardan foydalanish imkoniyatini kengaytirish",
+        "Tabiatni asrash va sog`lom turmush tarzini targ`ib qilish"
       ]
     },
     {
       "question": "Olimpiya o`yinlarida yosh sportchilar uchun pedagogik yondashuvning ahamiyati nimada?",
       "correctAnswer": "Shaxsiy rivojlanishni va axloqiy tamoyillarni shakllantirishda",
       "options": [
-        "Shaxsiy rivojlanishni va axloqiy tamoyillarni shakllantirishda",
         "Mashg`ulot samaradorligini oshirishda",
-        "Jamoaviy ishlashni rivojlantirishda",
-        "Faoliyatni ekologik diversifikatsiya qilishda"
+        "Shaxsiy rivojlanishni va axloqiy tamoyillarni shakllantirishda",
+        "Faoliyatni ekologik diversifikatsiya qilishda",
+        "Jamoaviy ishlashni rivojlantirishda"
       ]
     },
     {
       "question": "Kelajakda sport pedagogikasida qaysi yo`nalishlar rivojlanishi kutilmoqda?",
       "correctAnswer": "Texnologiyalar, ijodkorlik va ekologik barqarorlik",
       "options": [
-        "Faoliyat samaradorligini tizimli oshirish",
         "Texnologiyalar, ijodkorlik va ekologik barqarorlik",
+        "Faoliyat samaradorligini tizimli oshirish",
         "Innovatsion resurslarni kengaytirish",
         "Mashg`ulot jarayonini interfaol diversifikatsiya qilish"
       ]
@@ -1355,40 +1355,40 @@
       "question": "Sport pedagogikasida barqaror rivojlanish tushunchasi nimani anglatadi?",
       "correctAnswer": "Ekologik muvozanatni saqlash va ta`limni integratsiya qilish",
       "options": [
-        "Faoliyatni ekologik jihatdan diversifikatsiya qilish",
+        "Ekologik muvozanatni saqlash va ta`limni integratsiya qilish",
         "Resurslardan samarali foydalanish",
-        "Innovatsion yondashuvlarni rivojlantirish",
-        "Ekologik muvozanatni saqlash va ta`limni integratsiya qilish"
+        "Faoliyatni ekologik jihatdan diversifikatsiya qilish",
+        "Innovatsion yondashuvlarni rivojlantirish"
       ]
     },
     {
       "question": "Dunyoda sportning ta`lim bilan integratsiyasi qanday foyda beradi?",
       "correctAnswer": "Jismoniy va aqliy rivojlanishni birlashtiradi",
       "options": [
-        "Innovatsion texnologiyalardan foydalanish imkoniyatini yaratadi",
-        "Faoliyat mazmunini kengaytiradi",
+        "Mashg`ulot samaradorligini oshiradi",
         "Jismoniy va aqliy rivojlanishni birlashtiradi",
-        "Mashg`ulot samaradorligini oshiradi"
+        "Innovatsion texnologiyalardan foydalanish imkoniyatini yaratadi",
+        "Faoliyat mazmunini kengaytiradi"
       ]
     },
     {
       "question": "Sport pedagogikasida xalqaro musobaqalarning tarbiyaviy ahamiyati nimada?",
       "correctAnswer": "Turli madaniyatlarni birlashtirish va sport madaniyatini targ`ib qilish",
       "options": [
-        "Turli madaniyatlarni birlashtirish va sport madaniyatini targ`ib qilish",
-        "Jamoaviy ishlashni rivojlantirish",
         "Faoliyat natijalarini diversifikatsiya qilish",
-        "Innovatsion texnologiyalardan foydalanishni kengaytirish"
+        "Innovatsion texnologiyalardan foydalanishni kengaytirish",
+        "Jamoaviy ishlashni rivojlantirish",
+        "Turli madaniyatlarni birlashtirish va sport madaniyatini targ`ib qilish"
       ]
     },
     {
       "question": "Jismoniy tarbiya darslarida ijodiy yondashuvning afzalliklari qanday?",
       "correctAnswer": "O`quvchilar qiziqishini oshiradi va o`ziga bo`lgan ishonchni kuchaytiradi",
       "options": [
-        "Innovatsion metodlarni kiritishni kengaytiradi",
         "Faoliyatni interfaol boyitadi",
-        "Resurslardan samarali foydalanishni ta`minlaydi",
-        "O`quvchilar qiziqishini oshiradi va o`ziga bo`lgan ishonchni kuchaytiradi"
+        "O`quvchilar qiziqishini oshiradi va o`ziga bo`lgan ishonchni kuchaytiradi",
+        "Innovatsion metodlarni kiritishni kengaytiradi",
+        "Resurslardan samarali foydalanishni ta`minlaydi"
       ]
     },
     {
@@ -1396,29 +1396,29 @@
       "correctAnswer": "Tabiatni asrash va barqaror rivojlanishni ta`minlash",
       "options": [
         "Mashg`ulot jarayonini ekologik jihatdan boyitish",
+        "Faoliyatni ekologik diversifikatsiya qilish",
         "Tabiatni asrash va barqaror rivojlanishni ta`minlash",
-        "Resurslardan oqilona foydalanish imkoniyatini oshirish",
-        "Faoliyatni ekologik diversifikatsiya qilish"
+        "Resurslardan oqilona foydalanish imkoniyatini oshirish"
       ]
     },
     {
       "question": "Sport pedagogikasida xalqaro turnirlarning sportchilar uchun tarbiyaviy roli nimada?",
       "correctAnswer": "Axloqiy tamoyillarni shakllantirish va xalqaro tajriba almashish",
       "options": [
-        "Resurslardan oqilona foydalanishni rivojlantirish",
-        "Innovatsion vositalardan foydalanishni kengaytirish",
+        "Mashg`ulot mazmunini ekologik jihatdan moslashtirish",
         "Axloqiy tamoyillarni shakllantirish va xalqaro tajriba almashish",
-        "Mashg`ulot mazmunini ekologik jihatdan moslashtirish"
+        "Innovatsion vositalardan foydalanishni kengaytirish",
+        "Resurslardan oqilona foydalanishni rivojlantirish"
       ]
     },
     {
       "question": "Jismoniy tarbiya darslarida barqaror rivojlanish tamoyillarini qo`llash qanday foyda keltiradi?",
       "correctAnswer": "O`quvchilarning ekologik ongini va sog`lom turmush tarzini rivojlantiradi",
       "options": [
-        "Innovatsion texnologiyalardan foydalanishni oshiradi",
         "Resurslarni tizimli boshqarishga ko`maklashadi",
+        "O`quvchilarning ekologik ongini va sog`lom turmush tarzini rivojlantiradi",
         "Faoliyatni ekologik moslashtirishga yordam beradi",
-        "O`quvchilarning ekologik ongini va sog`lom turmush tarzini rivojlantiradi"
+        "Innovatsion texnologiyalardan foydalanishni oshiradi"
       ]
     },
     {
@@ -1426,8 +1426,8 @@
       "correctAnswer": "Xalqaro hamkorlik va milliy an`analar orqali",
       "options": [
         "Resurslarni samarali boshqarish orqali",
-        "Faoliyatni diversifikatsiya qilish orqali",
         "Innovatsion strategiyalarni kengaytirish orqali",
+        "Faoliyatni diversifikatsiya qilish orqali",
         "Xalqaro hamkorlik va milliy an`analar orqali"
       ]
     },
@@ -1435,30 +1435,30 @@
       "question": "Sport pedagogikasida yoshlar bilan ishlashda asosiy yondashuv qaysi?",
       "correctAnswer": "Shaxsiy ehtiyojlarni hisobga olish va axloqiy tamoyillarni shakllantirish",
       "options": [
+        "Mashg`ulot jarayonini ekologik jihatdan diversifikatsiya qilish",
         "Faoliyat natijalarini tizimli baholash orqali samaradorlikni oshirish",
-        "Innovatsion vositalarni qo`llash orqali jarayonni boyitish",
         "Shaxsiy ehtiyojlarni hisobga olish va axloqiy tamoyillarni shakllantirish",
-        "Mashg`ulot jarayonini ekologik jihatdan diversifikatsiya qilish"
+        "Innovatsion vositalarni qo`llash orqali jarayonni boyitish"
       ]
     },
     {
       "question": "Olimpiya o`yinlarida sportchilarni axloqiy tarbiyalashning asosiy maqsadi nima?",
       "correctAnswer": "Adolatli o`yin tamoyillariga rioya qilishni ta`minlash",
       "options": [
-        "Mashg`ulot jarayonini ekologik jihatdan moslashtirish",
+        "Faoliyatni talabalarga moslashtirish",
         "Adolatli o`yin tamoyillariga rioya qilishni ta`minlash",
         "Innovatsion metodlarni kengaytirish",
-        "Faoliyatni talabalarga moslashtirish"
+        "Mashg`ulot jarayonini ekologik jihatdan moslashtirish"
       ]
     },
     {
       "question": "Sport pedagogikasida texnologiyalarni qo`llash qaysi afzalliklarga ega?",
       "correctAnswer": "Dars jarayonini samarali va interaktiv qiladi",
       "options": [
-        "Resurslardan oqilona foydalanishni ta`minlaydi",
+        "Innovatsion strategiyalarning samaradorligini oshiradi",
         "Faoliyatni optimallashtirish imkoniyatini beradi",
         "Dars jarayonini samarali va interaktiv qiladi",
-        "Innovatsion strategiyalarning samaradorligini oshiradi"
+        "Resurslardan oqilona foydalanishni ta`minlaydi"
       ]
     },
     {
@@ -1467,16 +1467,16 @@
       "options": [
         "Mashg`ulot jarayonini ekologik jihatdan boyitishda",
         "Faoliyat natijalarini ekologik jihatdan diversifikatsiya qilishda",
-        "Sog`lom turmush tarzini targ`ib qilish va tabiiy resurslarni asrashda",
-        "Innovatsion texnologiyalarning ta`limdagi o`rnini oshirishda"
+        "Innovatsion texnologiyalarning ta`limdagi o`rnini oshirishda",
+        "Sog`lom turmush tarzini targ`ib qilish va tabiiy resurslarni asrashda"
       ]
     },
     {
       "question": "Dunyoda sport pedagogikasining barqaror rivojlanishi qaysi sohalar bilan bog`liq?",
       "correctAnswer": "Innovatsiyalar, ekologiya va ta`lim texnologiyalari bilan",
       "options": [
-        "Innovatsiyalar, ekologiya va ta`lim texnologiyalari bilan",
         "Faoliyat natijalarini diversifikatsiya qilish bilan",
+        "Innovatsiyalar, ekologiya va ta`lim texnologiyalari bilan",
         "Mashg`ulot jarayonini interfaol qilish bilan",
         "Resurslardan samarali foydalanish imkoniyatlarini kengaytirish bilan"
       ]
@@ -1485,19 +1485,19 @@
       "question": "Sport pedagogikasida shaxsiy yondashuv qanday foyda beradi?",
       "correctAnswer": "Har bir sportchining ehtiyojlarini va imkoniyatlarini inobatga olishni ta`minlaydi",
       "options": [
-        "Har bir sportchining ehtiyojlarini va imkoniyatlarini inobatga olishni ta`minlaydi",
-        "Mashg`ulot samaradorligini oshirishga xizmat qiladi",
+        "Innovatsion texnologiyalardan samarali foydalanishga yordam beradi",
         "Faoliyat mazmunini kengaytirishga ko`maklashadi",
-        "Innovatsion texnologiyalardan samarali foydalanishga yordam beradi"
+        "Mashg`ulot samaradorligini oshirishga xizmat qiladi",
+        "Har bir sportchining ehtiyojlarini va imkoniyatlarini inobatga olishni ta`minlaydi"
       ]
     },
     {
       "question": "Olimpiya o`yinlarida madaniy xilma-xillikning ta`siri qanday?",
       "correctAnswer": "Turli millat va madaniyatlarni birlashtiradi",
       "options": [
+        "Resurslardan samarali foydalanishni oshiradi",
         "Turli millat va madaniyatlarni birlashtiradi",
         "Innovatsion yondashuvlarni sinashga imkon beradi",
-        "Resurslardan samarali foydalanishni oshiradi",
         "Faoliyat natijalarini diversifikatsiya qiladi"
       ]
     }

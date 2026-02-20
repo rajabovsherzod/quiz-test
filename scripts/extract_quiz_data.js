@@ -76,6 +76,11 @@ async function main() {
       pattern: "Jismoniy tarbiya",
       output: "quiz-jismoniy-tarbiya.json",
       title: "1-Kurs Jismoniy Tarbiya va Sport Jismoniy tarbiya va sport sohasida ilmiy faoliyatni tashkil qilish"
+    },
+    {
+      pattern: "Ilmiy tadqiqot",
+      output: "quiz-metodologiya.json",
+      title: "1-Kurs Ilmiy Tadqiqot Metodologiyasi"
     }
   ];
 
