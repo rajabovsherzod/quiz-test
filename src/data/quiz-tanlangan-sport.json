@@ -1,0 +1,1455 @@
+{
+  "title": "1-Kurs Tanlangan Sport Turlari Nazariyasi va Uslubiyoti",
+  "questions": [
+    {
+      "question": "Basketbol o‘yini ilk bor qaysi davlatda yaratilgan?",
+      "correctAnswer": "Aqsh",
+      "options": [
+        "Aqsh",
+        "Kanada",
+        "Angliya",
+        "Germaniya"
+      ]
+    },
+    {
+      "question": "Basketbol o‘yinining asoschisi kim hisoblanadi?",
+      "correctAnswer": "Jeyms naismit",
+      "options": [
+        "Lebron jeyms",
+        "Bill russell",
+        "Maykl jordan",
+        "Jeyms naismit"
+      ]
+    },
+    {
+      "question": "Basketbol o‘yini nechanchi yilda yaratilgan?",
+      "correctAnswer": "1891-yilda",
+      "options": [
+        "1891-yilda",
+        "1901-yilda",
+        "1876-yilda",
+        "1881-yilda"
+      ]
+    },
+    {
+      "question": "Basketbol dastlab qaysi muassasada o‘rgatila boshlangan?",
+      "correctAnswer": "Springfield sport maktabida",
+      "options": [
+        "Springfield sport maktabida",
+        "Yale universitetida",
+        "Harvard universitetida",
+        "Boston kollejida"
+      ]
+    },
+    {
+      "question": "Basketbol to‘pi dastlab qanday ashyodan tayyorlangan?",
+      "correctAnswer": "Futbol to‘piga o‘xshash teridan",
+      "options": [
+        "Futbol to‘piga o‘xshash teridan",
+        "Paxtadan",
+        "Rezinadan",
+        "Yog‘ochdan"
+      ]
+    },
+    {
+      "question": "Basketbol o‘yini dastlab necha kishi bilan o‘ynalgan?",
+      "correctAnswer": "Har bir jamoada 9 nafardan",
+      "options": [
+        "Har bir jamoada 9 nafardan",
+        "Har bir jamoada 5 nafardan",
+        "Har bir jamoada 6 nafardan",
+        "Har bir jamoada 7 nafardan"
+      ]
+    },
+    {
+      "question": "Basketbol o‘yinida to‘pni qo‘l bilan olib yurish qanday nomlanadi?",
+      "correctAnswer": "Dribbling",
+      "options": [
+        "Shooting",
+        "Passing",
+        "Blocking",
+        "Dribbling"
+      ]
+    },
+    {
+      "question": "Basketbol o‘yinida to‘pni savatchaga tashlash qanday nomlanadi?",
+      "correctAnswer": "Sho‘t (shot)",
+      "options": [
+        "Sho‘t (shot)",
+        "Dribling",
+        "Screen",
+        "Faul"
+      ]
+    },
+    {
+      "question": "Basketbol maydonining uzunligi odatda qancha bo‘ladi?",
+      "correctAnswer": "28 metr",
+      "options": [
+        "28 metr",
+        "25 metr",
+        "35 metr",
+        "20 metr"
+      ]
+    },
+    {
+      "question": "Basketbol o‘yinida qancha to‘liq vaqt bor?",
+      "correctAnswer": "4 ta bo‘lim",
+      "options": [
+        "5 ta raund",
+        "4 ta bo‘lim",
+        "3 ta set",
+        "2 ta bo‘lim"
+      ]
+    },
+    {
+      "question": "Basketbol o‘yinida to‘pni boshqa o‘yinchiga uzatish nima deb ataladi?",
+      "correctAnswer": "Pasy",
+      "options": [
+        "Dribling",
+        "Shot",
+        "Pasy",
+        "Slam dunk"
+      ]
+    },
+    {
+      "question": "Basketbol qoidalariga ko‘ra nechta shaxsiy xatoga yo‘l qo‘ygan o‘yinchi o‘yindan chetlashtiriladi?",
+      "correctAnswer": "5 ta",
+      "options": [
+        "6 ta",
+        "5 ta",
+        "3 ta",
+        "4 ta"
+      ]
+    },
+    {
+      "question": "Basketbol o‘yinida 3 ochkolik zona savatchadan necha metr uzoqlikda joylashgan?",
+      "correctAnswer": "6.75 metr",
+      "options": [
+        "4.75 metr",
+        "6.75 metr",
+        "5.50 metr",
+        "7.25 metr"
+      ]
+    },
+    {
+      "question": "Basketbol xalqaro tashkiloti (fibqachon tashkil topgan?",
+      "correctAnswer": "1932-yilda",
+      "options": [
+        "1932-yilda",
+        "1910-yilda",
+        "1920-yilda",
+        "1945-yilda"
+      ]
+    },
+    {
+      "question": "Basketbol o‘yinida “blokirovka” (blok) nima uchun ishlatiladi?",
+      "correctAnswer": "Raqibning to‘p tashlashiga to‘sqinlik qilish uchun",
+      "options": [
+        "O‘yinni boshlash uchun",
+        "Raqibning to‘p tashlashiga to‘sqinlik qilish uchun",
+        "Savatchani himoya qilish uchun",
+        "Maydonni tozalash uchun"
+      ]
+    },
+    {
+      "question": "Gandbol o‘yini dastlab qaysi yevropa mamlakatida paydo bo‘lgan?",
+      "correctAnswer": "Germaniya",
+      "options": [
+        "Daniya",
+        "Ispaniya",
+        "Fransiya",
+        "Germaniya"
+      ]
+    },
+    {
+      "question": "Zamonaviy gandbol o‘yinining asoschisi kim hisoblanadi?",
+      "correctAnswer": "Karl shelenz",
+      "options": [
+        "Naismit",
+        "Juan carlos",
+        "Max heiser",
+        "Karl shelenz"
+      ]
+    },
+    {
+      "question": "Gandbol dastlab nechanchi yilda rasmiy sport turi sifatida tan olingan?",
+      "correctAnswer": "1926-yilda",
+      "options": [
+        "1900-yilda",
+        "1912-yilda",
+        "1926-yilda",
+        "1935-yilda"
+      ]
+    },
+    {
+      "question": "Gandbol o‘yini dastlab ochiq maydonda nechta o‘yinchi bilan o‘ynalgan?",
+      "correctAnswer": "11 nafar",
+      "options": [
+        "7 nafar",
+        "11 nafar",
+        "6 nafar",
+        "9 nafar"
+      ]
+    },
+    {
+      "question": "Xalqaro gandbol federatsiyasi (ihf) qachon tashkil topgan?",
+      "correctAnswer": "1946-yilda",
+      "options": [
+        "1946-yilda",
+        "1930-yilda",
+        "1962-yilda",
+        "1955-yilda"
+      ]
+    },
+    {
+      "question": "Zamonaviy gandbol o‘yini nechta o‘yinchidan iborat jamoalar bilan o‘ynaladi?",
+      "correctAnswer": "7 nafar",
+      "options": [
+        "9 nafar",
+        "7 nafar",
+        "6 nafar",
+        "5 nafar"
+      ]
+    },
+    {
+      "question": "Gandbol o‘yinida to‘pni qanday usulda harakatlantirish mumkin?",
+      "correctAnswer": "Yuqori qismdan yugurish bilan",
+      "options": [
+        "Yuqori qismdan yugurish bilan",
+        "To‘pni yerga urib yurish",
+        "Oyoq bilan to‘pni yerga urish",
+        "Havoda pas bilan"
+      ]
+    },
+    {
+      "question": "Gandbol o‘yinida darvozabon uchun maydonning maxsus qismi qanday ataladi?",
+      "correctAnswer": "Darvoza zonasi",
+      "options": [
+        "Markaziy chiziq",
+        "Darvoza zonasi",
+        "Faol zona",
+        "Himoya chizig‘i"
+      ]
+    },
+    {
+      "question": "Gandbol o‘yinida 7 metrlik zarba qachon belgilanadi?",
+      "correctAnswer": "Jiddiy qoidabuzarlik yuz bersa",
+      "options": [
+        "Jiddiy qoidabuzarlik yuz bersa",
+        "Himoyachi to‘pni ushlab olsa",
+        "To‘p maydondan chiqsa",
+        "O‘yin boshlanishida"
+      ]
+    },
+    {
+      "question": "Gandbol o‘yinining har bir bo‘limi qancha daqiqa davom etadi?",
+      "correctAnswer": "30 daqiqa",
+      "options": [
+        "20 daqiqa",
+        "15 daqiqa",
+        "30 daqiqa",
+        "40 daqiqa"
+      ]
+    },
+    {
+      "question": "Gandbol o‘yinida o‘yinchini vaqtincha maydondan chetlatish qancha vaqtni tashkil etadi?",
+      "correctAnswer": "2 daqiqa",
+      "options": [
+        "5 daqiqa",
+        "1 daqiqa",
+        "2 daqiqa",
+        "3 daqiqa"
+      ]
+    },
+    {
+      "question": "Gandbol o‘yinida qancha shaxsiy ogohlantirish (sariq kartochka)dan so‘ng chetlatish belgilanadi?",
+      "correctAnswer": "2 ta",
+      "options": [
+        "3 ta",
+        "4 ta",
+        "2 ta",
+        "1 ta"
+      ]
+    },
+    {
+      "question": "Gandbol to‘pi odatda qanday materialdan tayyorlanadi?",
+      "correctAnswer": "Sun’iy teridan",
+      "options": [
+        "Yog‘ochdan",
+        "Rezinadan",
+        "Paxtadan",
+        "Sun’iy teridan"
+      ]
+    },
+    {
+      "question": "Gandbol o‘yinida necha marta almashtirishga ruxsat beriladi?",
+      "correctAnswer": "Cheklanmagan",
+      "options": [
+        "5 marta",
+        "Cheklanmagan",
+        "3 marta",
+        "10 marta"
+      ]
+    },
+    {
+      "question": "Gandbol olimpiya o‘yinlari dasturiga birinchi marta qachon kiritilgan?",
+      "correctAnswer": "1936-yilda",
+      "options": [
+        "1952-yilda",
+        "1948-yilda",
+        "1964-yilda",
+        "1936-yilda"
+      ]
+    },
+    {
+      "question": "Voleybol o‘yini ilk bor qaysi davlatda yaratilgan?",
+      "correctAnswer": "Aqsh",
+      "options": [
+        "Rossiya",
+        "Aqsh",
+        "Fransiya",
+        "Germaniya"
+      ]
+    },
+    {
+      "question": "Voleybol o‘yinining asoschisi kim hisoblanadi?",
+      "correctAnswer": "Uilyam g. Morgan",
+      "options": [
+        "Jeyms naismit",
+        "Pierre de coubertin",
+        "George patton",
+        "Uilyam g. Morgan"
+      ]
+    },
+    {
+      "question": "Voleybol dastlab nechanchi yilda yaratilgan?",
+      "correctAnswer": "1895-yilda",
+      "options": [
+        "1915-yilda",
+        "1880-yilda",
+        "1900-yilda",
+        "1895-yilda"
+      ]
+    },
+    {
+      "question": "Voleybol o‘yinining dastlabki nomi qanday bo‘lgan?",
+      "correctAnswer": "Mintonette",
+      "options": [
+        "Volgame",
+        "Mintonette",
+        "Netball",
+        "Ball-net"
+      ]
+    },
+    {
+      "question": "Xalqaro voleybol federatsiyasi (fivnechanchi yilda tashkil topgan?",
+      "correctAnswer": "1947-yilda",
+      "options": [
+        "1947-yilda",
+        "1930-yilda",
+        "1955-yilda",
+        "1925-yilda"
+      ]
+    },
+    {
+      "question": "Voleybol o‘yini nechta o‘yinchi bilan o‘ynaladi?",
+      "correctAnswer": "Har bir jamoada 6 nafardan",
+      "options": [
+        "Har bir jamoada 7 nafardan",
+        "Har bir jamoada 6 nafardan",
+        "Har bir jamoada 8 nafardan",
+        "Har bir jamoada 5 nafardan"
+      ]
+    },
+    {
+      "question": "Voleybol o‘yinida bir set g‘alaba uchun necha ochko kerak?",
+      "correctAnswer": "25 ochko",
+      "options": [
+        "30 ochko",
+        "15 ochko",
+        "25 ochko",
+        "21 ochko"
+      ]
+    },
+    {
+      "question": "Voleybol to‘pi bilan oyoq orqali o‘ynash mumkinmi?",
+      "correctAnswer": "Ha, lekin   zarur holatda",
+      "options": [
+        "Liberos uchun",
+        "Ha, lekin   zarur holatda",
+        "Himoyachilar uchun",
+        "Yo‘q, butunlay taqiqlangan"
+      ]
+    },
+    {
+      "question": "Voleybol o‘yinida qaysi pozitsiyadagi o‘yinchi maxsus libosda bo‘ladi?",
+      "correctAnswer": "Libero",
+      "options": [
+        "Libero",
+        "Tarmoq himoyachisi",
+        "Smecher",
+        "Passovchik"
+      ]
+    },
+    {
+      "question": "Voleybol maydonining uzunligi necha metr?",
+      "correctAnswer": "18 metr",
+      "options": [
+        "18 metr",
+        "20 metr",
+        "25 metr",
+        "16 metr"
+      ]
+    },
+    {
+      "question": "Voleybol o‘yinida tarmoq balandligi erkaklar uchun qancha?",
+      "correctAnswer": "2.43 metr",
+      "options": [
+        "2.50 metr",
+        "2.43 metr",
+        "2.35 metr",
+        "2.24 metr"
+      ]
+    },
+    {
+      "question": "Voleybol o‘yinida \"blok\" nima maqsadda qo‘llaniladi?",
+      "correctAnswer": "Hujumni to‘sish uchun",
+      "options": [
+        "Xizmatni kuchaytirish uchun",
+        "To‘pni pas berish uchun",
+        "O‘yin vaqtini uzaytirish uchun",
+        "Hujumni to‘sish uchun"
+      ]
+    },
+    {
+      "question": "Voleybol o‘yinida bir jamoa ketma-ket nechta marta to‘pga tegishi mumkin?",
+      "correctAnswer": "3 marta",
+      "options": [
+        "4 marta",
+        "Cheklanmagan",
+        "3 marta",
+        "2 marta"
+      ]
+    },
+    {
+      "question": "Voleybol o‘yinida tarmoqdan oyoq bilan o‘tib ketish qanday baholanadi?",
+      "correctAnswer": "Xatolik sifatida",
+      "options": [
+        "Liberosga ruxsat",
+        "Ogohlantirish beriladi",
+        "Ruxsat beriladi",
+        "Xatolik sifatida"
+      ]
+    },
+    {
+      "question": "Voleybol ilk bor olimpiya o‘yinlariga qachon kiritilgan?",
+      "correctAnswer": "1964-yilda",
+      "options": [
+        "1952-yilda",
+        "1972-yilda",
+        "1964-yilda",
+        "1948-yilda"
+      ]
+    },
+    {
+      "question": "Umumta’lim maktablarida basketbol darslari qanday asosiy maqsadga yo‘naltiriladi?",
+      "correctAnswer": "O‘quvchilarda jamoaviylik va harakat koordinatsiyasini rivojlantirishga",
+      "options": [
+        "Yagona sport yutug‘iga erishishga",
+        "O‘quvchilarda jamoaviylik va harakat koordinatsiyasini rivojlantirishga",
+        "Kuch mashqlarini bajarishga",
+        "Musobaqalarda qatnashishga"
+      ]
+    },
+    {
+      "question": "Basketbol o‘yinini boshlashda to‘p qanday usulda o‘yinga kiritiladi?",
+      "correctAnswer": "Sakrash orqali",
+      "options": [
+        "Tarmoq ustidan tashlash",
+        "Oyog‘ bilan urish",
+        "Sakrash orqali",
+        "Uzatish orqali"
+      ]
+    },
+    {
+      "question": "Maktab darslarida basketbol mashg‘ulotlari odatda nechta bosqichda tashkil qilinadi?",
+      "correctAnswer": "3 ta (tayyorgarlik, asosiy, yakuniy)",
+      "options": [
+        "3 ta (tayyorgarlik, asosiy, yakuniy)",
+        "2 ta (asosiy, nazorat)",
+        "4 ta (nazariya, amaliyot, tahlil, baholash)",
+        "1 ta (jamoaviy o‘yin)"
+      ]
+    },
+    {
+      "question": "Basketbol mashg‘ulotida to‘pni joyida yurib yerga urish nima deb ataladi?",
+      "correctAnswer": "Dribbling",
+      "options": [
+        "Passing",
+        "Dribbling",
+        "Shooting",
+        "Blocking"
+      ]
+    },
+    {
+      "question": "Umumta’lim maktablarida basketbol darslarida foydalaniladigan to‘p odatda qanday og‘irlikda bo‘ladi?",
+      "correctAnswer": "450–600 gramm",
+      "options": [
+        "450–600 gramm",
+        "1 kg",
+        "800 gramm",
+        "200 gramm"
+      ]
+    },
+    {
+      "question": "Basketbol darslarida jamoaviy mashg‘ulotlar qanday o‘quv metodiga asoslanadi?",
+      "correctAnswer": "Hamkorlikka asoslangan o‘qitish",
+      "options": [
+        "Sport tahlili",
+        "Mustaqil yondashuv",
+        "Hamkorlikka asoslangan o‘qitish",
+        "Nazariy o‘rganish"
+      ]
+    },
+    {
+      "question": "Basketbol darslarida o‘quvchilar orasida qanday muvozanatga e’tibor beriladi?",
+      "correctAnswer": "Jismoniy imkoniyat va texnik darajaga qarab guruhlash",
+      "options": [
+        "Barcha o‘quvchilarni bir guruhda o‘ynatish",
+        "Jismoniy imkoniyat va texnik darajaga qarab guruhlash",
+        "Yoshga qarab ajratish",
+        "Qizlarni ajratish"
+      ]
+    },
+    {
+      "question": "Basketbol mashg‘ulotida samaradorlikni oshirish uchun eng ko‘p ishlatiladigan mashq turi qaysi?",
+      "correctAnswer": "Pass berish",
+      "options": [
+        "Yugurish",
+        "Pass berish",
+        "Sakrash",
+        "Tana mashqlari"
+      ]
+    },
+    {
+      "question": "Umumta’lim maktablarida basketbol darslari haftasiga necha marta o‘tkaziladi?",
+      "correctAnswer": "1–2 marta",
+      "options": [
+        "Har kuni",
+        "1–2 marta",
+        "Haftasiga 3–4 marta",
+        "Oyda bir marta"
+      ]
+    },
+    {
+      "question": "Gandbol o‘yini maktab darslarida o‘rgatilganda qanday fazilatlar rivojlanadi?",
+      "correctAnswer": "Muvozanat, chaqqonlik va tezkor fikrlash",
+      "options": [
+        "To‘g‘ri nafas olish",
+        "Tez yugurish",
+        "Muvozanat, chaqqonlik va tezkor fikrlash",
+        "Kuch va bardoshlilik"
+      ]
+    },
+    {
+      "question": "Gandbol darslarida o‘quvchilar qanday yo‘nalishlarda to‘pni boshqarishni o‘rganadi?",
+      "correctAnswer": "Uzatish, olib yurish va zarba berish",
+      "options": [
+        "Qo‘l bilan savatga solish",
+        "Tana bilan to‘xtatish",
+        "Uzatish, olib yurish va zarba berish",
+        "Havoga tashlash"
+      ]
+    },
+    {
+      "question": "Gandbol mashg‘ulotlari necha qismdan iborat bo‘ladi?",
+      "correctAnswer": "3 ta (tayyorgarlik, asosiy, yakuniy)",
+      "options": [
+        "1 ta (musobaqa)",
+        "3 ta (tayyorgarlik, asosiy, yakuniy)",
+        "2 ta (asosiy, yakuniy)",
+        "4 ta (teoriya, amaliyot, test, dam olish)"
+      ]
+    },
+    {
+      "question": "Gandbol o‘yinida qaysi zonaga kirish   darvozabon uchun ruxsat etiladi?",
+      "correctAnswer": "6 metrlik zona",
+      "options": [
+        "Markaziy zona",
+        "7 metrlik chiziq",
+        "6 metrlik zona",
+        "Himoya chizig‘i"
+      ]
+    },
+    {
+      "question": "Maktab darslarida gandbol o‘yinini o‘qitishda xavfsizlik qoidalari qanday o‘rgatiladi?",
+      "correctAnswer": "Dastlabki mashg‘ulot kunida tushuntiriladi",
+      "options": [
+        "Dastlabki mashg‘ulot kunida tushuntiriladi",
+        "Baholashda eslatiladi",
+        "Musobaqa vaqtida aytiladi",
+        "Barcha darslarda e’tibordan chetda qoladi"
+      ]
+    },
+    {
+      "question": "Gandbol darslarida zarba berish texnikasi nima orqali shakllantiriladi?",
+      "correctAnswer": "Takroriy mashqlar orqali",
+      "options": [
+        "Nazariy bilimlar orqali",
+        "Video orqali",
+        "Yugurish orqali",
+        "Takroriy mashqlar orqali"
+      ]
+    },
+    {
+      "question": "Maktab o‘quvchilari uchun mos gandbol to‘pi necha o‘lchamda bo‘ladi?",
+      "correctAnswer": "1 yoki 2 o‘lcham",
+      "options": [
+        "4 o‘lcham",
+        "1 yoki 2 o‘lcham",
+        "3 o‘lcham",
+        "Har xil"
+      ]
+    },
+    {
+      "question": "Gandbol darsida o‘yin davomida ko‘p holatda qanday jarohat ehtimoli bor?",
+      "correctAnswer": "Bilak va tizza",
+      "options": [
+        "Bosh",
+        "Bilak va tizza",
+        "Barmoq",
+        "Ko‘z"
+      ]
+    },
+    {
+      "question": "Voleybol darslarida o‘quvchilar dastlab nima o‘rganadi?",
+      "correctAnswer": "To‘pni yuqoridan va pastdan qabul qilish",
+      "options": [
+        "To‘pni yuqoridan va pastdan qabul qilish",
+        "To‘pni oyog‘ bilan urish",
+        "Tarmoq ustidan sakrash",
+        "Yugurish texnikasi"
+      ]
+    },
+    {
+      "question": "Umumta’lim maktablarida voleybol qanday metod asosida o‘rgatiladi?",
+      "correctAnswer": "Bosqichma-bosqich o‘rgatish",
+      "options": [
+        "Bosqichma-bosqich o‘rgatish",
+        "Nazariy usul",
+        "Monoton takrorlash",
+        "Erkin harakat"
+      ]
+    },
+    {
+      "question": "Voleybol o‘yinida to‘p tarmoqqa tegsa nima sodir bo‘ladi?",
+      "correctAnswer": "O‘yin to‘xtatiladi",
+      "options": [
+        "Faul belgilanadi",
+        "O‘yin to‘xtatiladi",
+        "To‘p almashtiriladi",
+        "Davom ettiriladi"
+      ]
+    },
+    {
+      "question": "Voleybol darslarida o‘quvchilarning texnikasi qanday baholanadi?",
+      "correctAnswer": "Harakat aniqligi va joylashuvi asosida",
+      "options": [
+        "Harakat aniqligi va joylashuvi asosida",
+        "Mashg‘ulot davomiyligiga qarab",
+        "To‘pning og‘irligi bo‘yicha",
+        "Musobaqadagi yutug‘i bilan"
+      ]
+    },
+    {
+      "question": "Voleybol darslarida xizmat turi qanday navlarda bo‘ladi?",
+      "correctAnswer": "Yuqoridan va pastdan xizmat",
+      "options": [
+        "Yon tomondan uzatish",
+        "Yuqoridan va pastdan xizmat",
+        "Oyog‘ bilan xizmat",
+        "To‘pni o‘rnidan uloqtirish"
+      ]
+    },
+    {
+      "question": "Voleybol o‘yinida to‘pni   nechta o‘yinchi ketma-ket tegishi mumkin?",
+      "correctAnswer": "3 ta",
+      "options": [
+        "3 ta",
+        "2 ta",
+        "5 ta",
+        "1 ta"
+      ]
+    },
+    {
+      "question": "Voleybol mashg‘ulotlarida o‘yin vaqti qanday tashkil qilinadi?",
+      "correctAnswer": "Belgilangan setlar asosida",
+      "options": [
+        "To‘liq nazariy mashg‘ulot asosida",
+        "Vaqt cheklovi yo‘q",
+        "Har kim o‘z vaqtida o‘ynaydi",
+        "Belgilangan setlar asosida"
+      ]
+    },
+    {
+      "question": "Umumta’lim maktablarida voleybol darslari qanday harakat turlarini rivojlantiradi?",
+      "correctAnswer": "Koordinatsiya, tezkorlik, sakrash qobiliyati",
+      "options": [
+        "Yugurish masofasi",
+        "Koordinatsiya, tezkorlik, sakrash qobiliyati",
+        "Nafas olish texnikasi",
+        "Kuch va bardoshlilik"
+      ]
+    },
+    {
+      "question": "Basketbol o‘yinida harakatni tezlik bilan to‘xtatish qaysi texnikaga kiradi?",
+      "correctAnswer": "To‘xtash texnikasi",
+      "options": [
+        "Burilish texnikasi",
+        "Uzoqdan uzatish",
+        "To‘xtash texnikasi",
+        "Smesh"
+      ]
+    },
+    {
+      "question": "Basketbol o‘yinchisining o‘z yo‘nalishini o‘zgartirib burilishi qanday nomlanadi?",
+      "correctAnswer": "Burilish harakati",
+      "options": [
+        "Chapaqay uzatma",
+        "Burilish harakati",
+        "Sakrash bilan yurish",
+        "Pastdan zarba"
+      ]
+    },
+    {
+      "question": "Aylanib raqibni aldash uchun bajariladigan harakat qanday ataladi?",
+      "correctAnswer": "Aylanish harakati",
+      "options": [
+        "To‘xtab sakrash",
+        "Himoya raqsi",
+        "Uzoq pas",
+        "Aylanish harakati"
+      ]
+    },
+    {
+      "question": "Basketbol o‘yinida yugurish texnikasi qaysi vaziyatlarda ko‘proq qo‘llaniladi?",
+      "correctAnswer": "Qarshi hujumda",
+      "options": [
+        "Qarshi hujumda",
+        "To‘pni uzatishda",
+        "Himoya zonasi tark etilganda",
+        "Sakrashda"
+      ]
+    },
+    {
+      "question": "Basketbol o‘yinida to‘pni qabul qilish texnikasi qanday harakatlar majmuasidan iborat?",
+      "correctAnswer": "Qo‘lni tayyorlash, pozitsiya egallash va barqarorlik",
+      "options": [
+        "Qo‘lni tayyorlash, pozitsiya egallash va barqarorlik",
+        "Oyoq bilan to‘xtatish",
+        "Tizza bilan olish",
+        "Tarmoq yonida sakrash"
+      ]
+    },
+    {
+      "question": "Basketbol o‘yinida to‘pni olib yurishda qo‘llaniladigan texnika qanday nomlanadi?",
+      "correctAnswer": "Dribbling",
+      "options": [
+        "Shooting",
+        "Passing",
+        "Dribbling",
+        "Screening"
+      ]
+    },
+    {
+      "question": "Raqibni chalg‘itish va himoyani aldashga qaratilgan harakatlar qanday ataladi?",
+      "correctAnswer": "Aldamchi harakatlar",
+      "options": [
+        "Yopiq pas",
+        "Himoyaviy blok",
+        "To‘g‘ridan-to‘g‘ri zarba",
+        "Aldamchi harakatlar"
+      ]
+    },
+    {
+      "question": "Basketbol o‘yinida to‘pni savatga tashlashda qaysi texnika ko‘p qo‘llaniladi?",
+      "correctAnswer": "Bir qo‘l bilan yuqoridan tashlash",
+      "options": [
+        "Pastdan zarba",
+        "Bir qo‘l bilan yuqoridan tashlash",
+        "Boshi bilan urish",
+        "Oyog‘ bilan zarba"
+      ]
+    },
+    {
+      "question": "Basketbol darslarida to‘pni olib qo‘yish texnikasi nima uchun muhim?",
+      "correctAnswer": "Himoyaviy reaksiya va qarshi hujumni boshlash uchun",
+      "options": [
+        "Raqibni to‘xtatish uchun",
+        "Raqibni charchatish uchun",
+        "O‘yinni kechiktirish uchun",
+        "Himoyaviy reaksiya va qarshi hujumni boshlash uchun"
+      ]
+    },
+    {
+      "question": "Basketbolda holatga qarab qanday yugurish turlari qo‘llaniladi?",
+      "correctAnswer": "Oldinga, orqaga va yonlama yugurish",
+      "options": [
+        "To‘g‘ri yo‘nalishda yugurish",
+        "Yugurishsiz yurish",
+        "Yig‘ilib sakrash bilan yurish",
+        "Oldinga, orqaga va yonlama yugurish"
+      ]
+    },
+    {
+      "question": "Gandbol o‘yinida hujum davomida to‘xtash texnikasi qanday afzallik beradi?",
+      "correctAnswer": "Harakatni nazorat qilish va keyingi harakatga tayyorgarlik ko‘rish",
+      "options": [
+        "Himoya chizig‘idan chiqmaslik",
+        "Nafasni tiklash",
+        "Harakatni nazorat qilish va keyingi harakatga tayyorgarlik ko‘rish",
+        "Raqibdan uzoqlashish"
+      ]
+    },
+    {
+      "question": "Gandbol o‘yinchisining sakrash texnikasini rivojlantirishdagi asosiy maqsad nima?",
+      "correctAnswer": "Darvozaga zarba berish imkoniyatini oshirish",
+      "options": [
+        "Darvozaga zarba berish imkoniyatini oshirish",
+        "Maydonni tark etish",
+        "Faol dam olish",
+        "Tezlikni kamaytirish"
+      ]
+    },
+    {
+      "question": "Gandbolda orqaga yugurish texnikasi qaysi holatda ishlatiladi?",
+      "correctAnswer": "Himoyaga tezda qaytishda",
+      "options": [
+        "Himoyaga tezda qaytishda",
+        "To‘pni olishda",
+        "Uzoq zarba berishda",
+        "To‘p uzatishda"
+      ]
+    },
+    {
+      "question": "Gandbol o‘yinida to‘pni olib yurish texnikasida nimalarga e’tibor beriladi?",
+      "correctAnswer": "To‘pni yerga urib, nazoratda saqlashga",
+      "options": [
+        "Chap qo‘lda olib yurishga",
+        "To‘pni yerga urib, nazoratda saqlashga",
+        "O‘rindoshga berishga",
+        "To‘pni tepkilab yurishga"
+      ]
+    },
+    {
+      "question": "To‘pni uzatish va qabul qilish texnikasi nimani ta’minlaydi?",
+      "correctAnswer": "Jamoaviy o‘yin muvozanatini",
+      "options": [
+        "Jamoaviy o‘yin muvozanatini",
+        "Faul olishni",
+        "O‘yinni cho‘zishni",
+        "Shaxsiy yutuqlarni"
+      ]
+    },
+    {
+      "question": "Gandbol o‘yinida darvozaga zarba berishda qanday texnika eng samarali hisoblanadi?",
+      "correctAnswer": "Sakrab zarba berish",
+      "options": [
+        "Turgan joydan to‘g‘ridan zarba",
+        "Sakrab zarba berish",
+        "Tizza bilan zarba",
+        "Orqaga qarab zarba"
+      ]
+    },
+    {
+      "question": "Gandbolda to‘pni urib olib qo‘yish texnikasi qanday harakatga asoslanadi?",
+      "correctAnswer": "Raqib zarbasini oldindan anglab, to‘p yo‘nalishini to‘sishga",
+      "options": [
+        "To‘pni ushlab olishga",
+        "Darvoza ustidan tashlashga",
+        "Yugurish paytida to‘xtab qolishga",
+        "Raqib zarbasini oldindan anglab, to‘p yo‘nalishini to‘sishga"
+      ]
+    },
+    {
+      "question": "Aldamchi harakatlar qanday maqsadda bajariladi?",
+      "correctAnswer": "Raqibni chalkashtirish va o‘ziga e’tiborni jalb qilish",
+      "options": [
+        "Shartli harakatlar ko‘rsatish",
+        "Raqibni chalkashtirish va o‘ziga e’tiborni jalb qilish",
+        "O‘yin vaqtini cho‘zish",
+        "To‘pni uzoqqa uloqtirish"
+      ]
+    },
+    {
+      "question": "Gandbol darslarida yugurish texnikasi qanday vaziyatlarda muhim hisoblanadi?",
+      "correctAnswer": "Qarshi hujumda va pozitsiyani almashtirishda",
+      "options": [
+        "Darvozabonlar uchun",
+        "Qarshi hujumda va pozitsiyani almashtirishda",
+        "Faol himoyani tark etishda",
+        "Dam olish vaqtida"
+      ]
+    },
+    {
+      "question": "Gandbolda to‘pni yuqoridan uzatish texnikasi qanday afzallik beradi?",
+      "correctAnswer": "Uzoq masofaga aniq pas berish imkonini yaratadi",
+      "options": [
+        "Yaqin masofalarda ishlatiladi",
+        "Uzoq masofaga aniq pas berish imkonini yaratadi",
+        "Sekin o‘yin o‘tkazish",
+        "To‘pni pastga tushirish"
+      ]
+    },
+    {
+      "question": "Voleybol o‘yinida harakatlanish holatlari nima uchun zarur?",
+      "correctAnswer": "To‘pga tezkor va muvozanatli javob qaytarish uchun",
+      "options": [
+        "Nafas olishni tekshirish uchun",
+        "O‘yin vaqtini tejash uchun",
+        "Raqibga qarshi faul ishlatish uchun",
+        "To‘pga tezkor va muvozanatli javob qaytarish uchun"
+      ]
+    },
+    {
+      "question": "Siljish texnikasi voleybolda qanday vazifani bajaradi?",
+      "correctAnswer": "Maydon bo‘ylab joylashuvni tezda o‘zgartirishga yordam beradi",
+      "options": [
+        "Tarmoq ustidan sakrash uchun zarur",
+        "To‘pni yerga uradi",
+        "Yugurishni sekinlashtiradi",
+        "Maydon bo‘ylab joylashuvni tezda o‘zgartirishga yordam beradi"
+      ]
+    },
+    {
+      "question": "Voleybolchining yiqilish texnikasi qanday maqsadga xizmat qiladi?",
+      "correctAnswer": "To‘pni yerga tushirmay saqlab qolish va jarohatning oldini olish",
+      "options": [
+        "O‘yin vaqtini to‘xtatish uchun",
+        "To‘pni yerga tushirmay saqlab qolish va jarohatning oldini olish",
+        "Raqibni chalg‘itish uchun",
+        "Dam olish uchun"
+      ]
+    },
+    {
+      "question": "Sakrash texnikasida qanday omillar muhim rol o‘ynaydi?",
+      "correctAnswer": "Kuch, vaqtni to‘g‘ri baholash va pozitsiyani tanlash",
+      "options": [
+        "Tarmoq balandligini kamaytirish",
+        "To‘pni ushlab olish",
+        "Oyoqning kuchi",
+        "Kuch, vaqtni to‘g‘ri baholash va pozitsiyani tanlash"
+      ]
+    },
+    {
+      "question": "Voleybolda burilish harakati qanday vaziyatda qo‘llaniladi?",
+      "correctAnswer": "To‘p yo‘nalishini tezda o‘zgartirish yoki pozitsiyani almashtirishda",
+      "options": [
+        "Faol dam olishda",
+        "Xizmatni kuchaytirishda",
+        "To‘p yo‘nalishini tezda o‘zgartirish yoki pozitsiyani almashtirishda",
+        "Himoya zonasi tark etilganda"
+      ]
+    },
+    {
+      "question": "To‘pni o‘yinga kiritish texnikasi qanday usulda amalga oshiriladi?",
+      "correctAnswer": "Xizmat zarbasi orqali",
+      "options": [
+        "Qo‘l bilan ushlab yurish orqali",
+        "Raqibga berib qo‘yish orqali",
+        "Erkin tashlab yuborish orqali",
+        "Xizmat zarbasi orqali"
+      ]
+    },
+    {
+      "question": "To‘pni qabul qilishda tana holati qanday bo‘lishi kerak?",
+      "correctAnswer": "Tiz cho‘kkan, kaftlar birikkan, ko‘z to‘pga qaratilgan",
+      "options": [
+        "Sakrash holatida",
+        "Tiz cho‘kkan, kaftlar birikkan, ko‘z to‘pga qaratilgan",
+        "Tik turgan, qo‘l orqada",
+        "To‘pga orqa o‘girgan"
+      ]
+    },
+    {
+      "question": "To‘pga to‘siq qo‘yish texnikasi qanday amalga oshiriladi?",
+      "correctAnswer": "Tarmoq ustidan ikki qo‘l bilan sakrab raqib zarbasini to‘sish orqali",
+      "options": [
+        "Tarmoq ustidan ikki qo‘l bilan sakrab raqib zarbasini to‘sish orqali",
+        "O‘rindoshga signal berish orqali",
+        "To‘pni pastga tushirish orqali",
+        "Orqaga yugurib ketish orqali"
+      ]
+    },
+    {
+      "question": "Voleybolda hujumkor zarba berishda nimalar muhim hisoblanadi?",
+      "correctAnswer": "Sakrash balandligi, zarba kuchi va aniq yo‘nalish",
+      "options": [
+        "Tarmoqdan uzoqlik",
+        "Oyoq kuchi",
+        "Sakrash holati",
+        "Sakrash balandligi, zarba kuchi va aniq yo‘nalish"
+      ]
+    },
+    {
+      "question": "Aldamchi harakatlar voleybolda qanday maqsadga xizmat qiladi?",
+      "correctAnswer": "Raqibni noto‘g‘ri qaror qabul qilishga majbur qilish",
+      "options": [
+        "To‘pni yo‘qotish",
+        "Raqibni noto‘g‘ri qaror qabul qilishga majbur qilish",
+        "Xizmatni sekinlashtirish",
+        "O‘yin vaqtini cho‘zish"
+      ]
+    },
+    {
+      "question": "Darsdan tashqari sport mashg‘ulotlarining asosiy maqsadi nima?",
+      "correctAnswer": "O‘quvchilarning jismoniy faolligini oshirish va sog‘lom turmush tarzini shakllantirish",
+      "options": [
+        "Sportchilarni professional tayyorlash",
+        "Uy vazifalarini kamaytirish",
+        "Dars vaqtidan qochishga imkon yaratish",
+        "O‘quvchilarning jismoniy faolligini oshirish va sog‘lom turmush tarzini shakllantirish"
+      ]
+    },
+    {
+      "question": "Darsdan tashqari mashg‘ulotlar asosan qaysi vaqtda o‘tkaziladi?",
+      "correctAnswer": "Darsdan keyin yoki dam olish kunlari",
+      "options": [
+        "Darsdan keyin yoki dam olish kunlari",
+        "Har kuni ertalab",
+        "Imtihonlar paytida",
+        "Tanaffus vaqtida"
+      ]
+    },
+    {
+      "question": "Sport mashg‘ulotlari qanday tartibda o‘tkazilishi kerak?",
+      "correctAnswer": "Reja asosida va muntazamlik bilan",
+      "options": [
+        "Sinf rahbarining istagiga ko‘ra",
+        "Reja asosida va muntazamlik bilan",
+        "Bir martalik",
+        "Erkin shaklda"
+      ]
+    },
+    {
+      "question": "Darsdan tashqari sport mashg‘ulotlari qanday yondashuv asosida tashkil qilinadi?",
+      "correctAnswer": "Ixtiyoriy va ijtimoiy faol ishtirok asosida",
+      "options": [
+        "Ixtiyoriy va ijtimoiy faol ishtirok asosida",
+        "Majburiy qatnashish bilan",
+        "Kuchli sportchilarga",
+        "Uyda yakka tartibda bajarish uchun"
+      ]
+    },
+    {
+      "question": "Sport o‘yinlarini tashkil qilishda xavfsizlik qoidalariga rioya qilish nima uchun muhim?",
+      "correctAnswer": "Jarohatlarning oldini olish uchun",
+      "options": [
+        "Vaqt tejash uchun",
+        "Sinfga quvnoqlik kiritish uchun",
+        "Jarohatlarning oldini olish uchun",
+        "O‘yinni qiziqarli qilish uchun"
+      ]
+    },
+    {
+      "question": "Darsdan tashqari sport mashg‘ulotlarini olib boruvchi shaxs kim bo‘lishi mumkin?",
+      "correctAnswer": "Jismoniy tarbiya o‘qituvchisi yoki sport to‘garagi rahbari",
+      "options": [
+        "Boshqa o‘quvchi",
+        "Kutubxonachi",
+        "Sinf rahbari",
+        "Jismoniy tarbiya o‘qituvchisi yoki sport to‘garagi rahbari"
+      ]
+    },
+    {
+      "question": "Darsdan tashqari mashg‘ulotlarda qaysi sport o‘yinlari ko‘proq o‘ynaladi?",
+      "correctAnswer": "Voleybol, futbol, basketbol, gandbol",
+      "options": [
+        "Stol tenisi, tennis, golf",
+        "Boks va og‘ir atletika",
+        "Voleybol, futbol, basketbol, gandbol",
+        "Shaxmat va dama"
+      ]
+    },
+    {
+      "question": "Darsdan tashqari sport mashg‘ulotlarida o‘quvchilar qanday prinsip asosida tanlanadi?",
+      "correctAnswer": "Qiziqish va imkoniyatga qarab",
+      "options": [
+        "Yigitlar",
+        "Bahosiga qarab",
+        "Sinf sardorligiga qarab",
+        "Qiziqish va imkoniyatga qarab"
+      ]
+    },
+    {
+      "question": "Sport o‘yinlarida jamoaviylik qanday rivojlanadi?",
+      "correctAnswer": "Birgalikda harakat qilish orqali",
+      "options": [
+        "Yutish orqali",
+        "Birgalikda harakat qilish orqali",
+        "Maktab bayramlarida",
+        "Yakuniy testlar orqali"
+      ]
+    },
+    {
+      "question": "Sport mashg‘ulotlari orqali qanday ijtimoiy ko‘nikmalar shakllanadi?",
+      "correctAnswer": "Hamkorlik, mas’uliyat, liderlik",
+      "options": [
+        "Faollik, tartibsizlik, tanqid",
+        "Hamkorlik, mas’uliyat, liderlik",
+        "Yakkalik va raqobat",
+        "Musobaqa ko‘nikmalari"
+      ]
+    },
+    {
+      "question": "Darsdan tashqari sport mashg‘ulotlarida qanday baholash usuli qo‘llaniladi?",
+      "correctAnswer": "Faollik va ishtirok asosida",
+      "options": [
+        "Nazariy yozma ishlar",
+        "Raqamli reyting",
+        "Test sinovlari",
+        "Faollik va ishtirok asosida"
+      ]
+    },
+    {
+      "question": "Qanday sharoitda sport mashg‘ulotlarini tashkillashtirish tavsiya etiladi?",
+      "correctAnswer": "Ochiq havoda yoki sport zalida",
+      "options": [
+        "Kutubxonada",
+        "Kompyuter sinfida",
+        "Ochiq havoda yoki sport zalida",
+        "Ovqatxonada"
+      ]
+    },
+    {
+      "question": "Darsdan tashqari sport faoliyatida oilaning roli qanday bo‘ladi?",
+      "correctAnswer": "Qo‘llab-quvvatlash va rag‘batlantirish",
+      "options": [
+        "Aralashmaslik",
+        "Faoliyatni nazorat qilish",
+        "Qo‘llab-quvvatlash va rag‘batlantirish",
+        "Harakatlarni cheklash"
+      ]
+    },
+    {
+      "question": "Sport mashg‘ulotlarida yetakchi o‘quvchilar qanday rol o‘ynaydi?",
+      "correctAnswer": "Namuna ko‘rsatish va boshqalarni jalb qilish",
+      "options": [
+        "Namuna ko‘rsatish va boshqalarni jalb qilish",
+        "Boshqalardan ustun turish",
+        "Musobaqani yakunlash",
+        "Nazorat qilish"
+      ]
+    },
+    {
+      "question": "Sport o‘yinlaridan oldin qanday tayyorgarlik bosqichi o‘tkaziladi?",
+      "correctAnswer": "Isinish va yengil mashqlar",
+      "options": [
+        "Isinish va yengil mashqlar",
+        "Nazariy o‘qitish",
+        "To‘g‘ridan-to‘g‘ri o‘yin",
+        "Suv ichish"
+      ]
+    },
+    {
+      "question": "Sport mashg‘ulotlari orqali qanday sog‘liqka ijobiy ta’sir bo‘ladi?",
+      "correctAnswer": "Yurak-qon tomir, nafas va mushak tizimi rivojlanadi",
+      "options": [
+        "Tanafaollik susayadi",
+        "Uyqu tartibi buziladi",
+        "Yurak-qon tomir, nafas va mushak tizimi rivojlanadi",
+        "Vazn kamayadi"
+      ]
+    },
+    {
+      "question": "Maktab sport to‘garaklari nima uchun muhim?",
+      "correctAnswer": "Iqtidorli o‘quvchilarni aniqlash va rivojlantirish uchun",
+      "options": [
+        "Baholashni yengillashtirish uchun",
+        "Imtihonlarsiz o‘tkazish uchun",
+        "Dars o‘rnini bosish uchun",
+        "Iqtidorli o‘quvchilarni aniqlash va rivojlantirish uchun"
+      ]
+    },
+    {
+      "question": "Sport o‘yinlarida o‘zaro hurmat qanday shakllanadi?",
+      "correctAnswer": "Qoidaga amal qilish va halollik orqali",
+      "options": [
+        "Jazo orqali",
+        "Qoidaga amal qilish va halollik orqali",
+        "Qattiq raqobat orqali",
+        "Har doim yutish orqali"
+      ]
+    },
+    {
+      "question": "Darsdan tashqari faoliyatda musobaqalar qanday o‘rin tutadi?",
+      "correctAnswer": "Rag‘batlantiruvchi va ko‘nikma mustahkamlovchi vosita",
+      "options": [
+        "Rejalashtirishning cheti",
+        "O‘qituvchini baholash uchun",
+        "Sovrin uchun",
+        "Rag‘batlantiruvchi va ko‘nikma mustahkamlovchi vosita"
+      ]
+    },
+    {
+      "question": "Sport mashg‘ulotlarida qatnashmaydigan o‘quvchilarga qanday yondashuv kerak?",
+      "correctAnswer": "Rag‘batlantirish va bosqichma-bosqich jalb etish",
+      "options": [
+        "Rag‘batlantirish va bosqichma-bosqich jalb etish",
+        "Tanbeh berish",
+        "Darsdan chiqarish",
+        "E’tibordan chetda qoldirish"
+      ]
+    },
+    {
+      "question": "Darsdan tashqari sport faoliyati qanday hujjat asosida tashkil etiladi?",
+      "correctAnswer": "Reja va tahliliy ish hujjatlari",
+      "options": [
+        "Reja va tahliliy ish hujjatlari",
+        "Taqvim asosida",
+        "Og‘zaki topshiriq bilan",
+        "Sinf daftari orqali"
+      ]
+    },
+    {
+      "question": "Darsdan tashqari mashg‘ulotlar nechta bosqichda tashkil qilinadi?",
+      "correctAnswer": "3 ta: tayyorgarlik, asosiy, yakuniy",
+      "options": [
+        "1 ta: o‘yin",
+        "4 ta: dam olish, o‘yin, baholash, yakun",
+        "2 ta: asosiy va yakuniy",
+        "3 ta: tayyorgarlik, asosiy, yakuniy"
+      ]
+    },
+    {
+      "question": "Mashg‘ulot davomida texnika va taktikani o‘rgatishning foydasi nimada?",
+      "correctAnswer": "O‘yin sifati va o‘quvchi ishtirokini oshiradi",
+      "options": [
+        "O‘yin sifati va o‘quvchi ishtirokini oshiradi",
+        "O‘yin vaqtini kamaytiradi",
+        "Tezroq baho olishga yordam beradi",
+        "Sport vositalarini tejaydi"
+      ]
+    },
+    {
+      "question": "Darsdan tashqari mashg‘ulotlar kimlar uchun ochiq bo‘lishi kerak?",
+      "correctAnswer": "Barcha sinf va yosh guruhlari uchun",
+      "options": [
+        "Yigitlar uchun",
+        "Barcha sinf va yosh guruhlari uchun",
+        "Sportchilar uchun",
+        "9–11-sinflar uchun"
+      ]
+    },
+    {
+      "question": "Maktabda sport mashg‘ulotlarini ommaviylashtirish qanday amalga oshiriladi?",
+      "correctAnswer": "Targ‘ibot, musobaqalar va ochiq darslar orqali",
+      "options": [
+        "Targ‘ibot, musobaqalar va ochiq darslar orqali",
+        "Darsda aytiladi",
+        "Baholashda ko‘rsatilmaydi",
+        "Faol qatnashmaslik orqali"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya darslarining asosiy maqsadi nima?",
+      "correctAnswer": "O‘quvchilarda sog‘lom harakat ko‘nikmalarini shakllantirish",
+      "options": [
+        "O‘quvchilarda sog‘lom harakat ko‘nikmalarini shakllantirish",
+        "Sportchi yetishtirish",
+        "Faoliyatni nazorat qilish",
+        "Musobaqaga tayyorlash"
+      ]
+    },
+    {
+      "question": "Jismoniy sifatlardan biri bu...",
+      "correctAnswer": "Tezlik",
+      "options": [
+        "Bilim",
+        "Muloqot",
+        "Ovoz",
+        "Tezlik"
+      ]
+    },
+    {
+      "question": "Harakat koordinatsiyasi nima uchun kerak?",
+      "correctAnswer": "Harakatlarni aniq va muvofiqlashtirilgan bajarish uchun",
+      "options": [
+        "O‘qish tezligini oshirish uchun",
+        "Harakatlarni aniq va muvofiqlashtirilgan bajarish uchun",
+        "Dam olishda foydalanish uchun",
+        "Fikrni jamlash uchun"
+      ]
+    },
+    {
+      "question": "“isinish mashqlari”ning vazifasi nima?",
+      "correctAnswer": "Tana haroratini ko‘tarish va jarohat xavfini kamaytirish",
+      "options": [
+        "Tana haroratini ko‘tarish va jarohat xavfini kamaytirish",
+        "Faol dam olish uchun",
+        "Asosiy mashg‘ulot o‘rnini bosish",
+        "Baholash uchun"
+      ]
+    },
+    {
+      "question": "Sportdagi “reaksiya tezligi” deganda nima tushuniladi?",
+      "correctAnswer": "Tashqi ta’sirga tez javob berish qobiliyati",
+      "options": [
+        "Tashqi ta’sirga tez javob berish qobiliyati",
+        "O‘yin vaqtini belgilash",
+        "Holatni tahlil qilish",
+        "Musiqa ritmini tushunish"
+      ]
+    },
+    {
+      "question": "“aerob mashqlar” qaysi holat uchun foydalidir?",
+      "correctAnswer": "Yurak-qon tomir va nafas tizimini rivojlantirish",
+      "options": [
+        "Kuch oshirish",
+        "Tana qurilishi uchun",
+        "Dam olish uchun",
+        "Yurak-qon tomir va nafas tizimini rivojlantirish"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya fanining asosiy yo‘nalishlaridan biri bu...",
+      "correctAnswer": "Harakat faoliyatini o‘rgatish",
+      "options": [
+        "Kutubxonachilik",
+        "Harakat faoliyatini o‘rgatish",
+        "Fizika nazariyasi",
+        "Xorijiy til"
+      ]
+    },
+    {
+      "question": "Jismoniy mashqlar qachon samarali bo‘ladi?",
+      "correctAnswer": "Muntazam va to‘g‘ri bajarilganda",
+      "options": [
+        "Har doim o‘z holiga tashlab qo‘yilganda",
+        "Muntazam va to‘g‘ri bajarilganda",
+        "Dam olishda",
+        "Uxlashdan oldin"
+      ]
+    },
+    {
+      "question": "Sog‘lom turmush tarzi deganda nimani tushunasiz?",
+      "correctAnswer": "Jismoniy faollik, to‘g‘ri ovqatlanish, zararli odatlardan holilik",
+      "options": [
+        "Ko‘p uxlash",
+        "Internetdan ko‘p foydalanish",
+        "Kam ovqatlanish",
+        "Jismoniy faollik, to‘g‘ri ovqatlanish, zararli odatlardan holilik"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya darslarida ishtirok etmaslik sabablaridan biri bo‘lishi mumkin:",
+      "correctAnswer": "Sog‘liq muammosi",
+      "options": [
+        "Sog‘liq muammosi",
+        "Raqib yo‘qligi",
+        "Yaxshi baho olish",
+        "Sportni yoqtirmaslik"
+      ]
+    },
+    {
+      "question": "Qaysi mashq kuch sifatini rivojlantirishga xizmat qiladi?",
+      "correctAnswer": "Og‘irlik ko‘tarish",
+      "options": [
+        "Nafas mashqlari",
+        "O‘tirib turishsiz yurish",
+        "Og‘irlik ko‘tarish",
+        "Tovon yurishi"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya metodlaridan biri bu:",
+      "correctAnswer": "Ko‘rsatma berish va mashq bajartirish",
+      "options": [
+        "Dars o‘tkazmaslik",
+        "Ko‘rsatma berish va mashq bajartirish",
+        "Tez-tez tanaffus qilish",
+        "Video ko‘rsatish bilan cheklanish"
+      ]
+    },
+    {
+      "question": "Sportda “endurance” (chidamlilik) degani nima?",
+      "correctAnswer": "Uzoq davom etuvchi jismoniy yuklamalarga bardosh bera olish",
+      "options": [
+        "Tez yugurish",
+        "Uzoq davom etuvchi jismoniy yuklamalarga bardosh bera olish",
+        "Harakat yo‘nalishini o‘zgartirish",
+        "Kuch bilan sakrash"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya darslarida baholash qanday amalga oshiriladi?",
+      "correctAnswer": "Faollik, texnika va harakat aniqligi asosida",
+      "options": [
+        "O‘tirgan joydan savol",
+        "Imtihon orqali",
+        "Sport libosi uchun",
+        "Faollik, texnika va harakat aniqligi asosida"
+      ]
+    },
+    {
+      "question": "Sport o‘yinlarida “fair play” tushunchasi nimani anglatadi?",
+      "correctAnswer": "Halol o‘yin, raqibga hurmat va qoidalarga rioya",
+      "options": [
+        "Jazo ishlatish",
+        "Halol o‘yin, raqibga hurmat va qoidalarga rioya",
+        "Bahsli qarorlar",
+        "Har doim g‘alaba"
+      ]
+    },
+    {
+      "question": "Yil davomida darsdan tashqari sport mashg‘ulotlari qanday foyda beradi?",
+      "correctAnswer": "Rivojlanish, ijtimoiylashuv va sportga qiziqishni oshiradi",
+      "options": [
+        "Rivojlanish, ijtimoiylashuv va sportga qiziqishni oshiradi",
+        "Uxlashga yordam beradi",
+        "Vaqt o‘tkazadi",
+        "Maktabga kam borishga sabab"
+      ]
+    },
+    {
+      "question": "Bolalarda motorika rivojlanishi qaysi yoshda tezroq kechadi?",
+      "correctAnswer": "Erta bolalikda",
+      "options": [
+        "Erta bolalikda",
+        "18 yoshdan keyin",
+        "14–16 yoshda",
+        "10–12 yoshda"
+      ]
+    },
+    {
+      "question": "Jismoniy faollik yetishmasligi nima olib keladi?",
+      "correctAnswer": "Sog‘liq muammolari va ortiqcha vazn",
+      "options": [
+        "Bosh aylanishi",
+        "Imtihonlardan yiroqlashish",
+        "Sog‘liq muammolari va ortiqcha vazn",
+        "Kuchli immunitet"
+      ]
+    },
+    {
+      "question": "Sportda texnikani takomillashtirish uchun nima zarur?",
+      "correctAnswer": "Takroriy mashqlar",
+      "options": [
+        "Dam olish",
+        "Baholash",
+        "Takroriy mashqlar",
+        "Statistik tahlil"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya darslarida musobaqa tashkil etishning maqsadi nima?",
+      "correctAnswer": "Raqobat orqali o‘quvchini rag‘batlantirish va qiziqishini oshirish",
+      "options": [
+        "Maktab byudjetini kamaytirish",
+        "Raqobat orqali o‘quvchini rag‘batlantirish va qiziqishini oshirish",
+        "Boshqa darsni qisqartirish",
+        "Vaqt to‘ldirish"
+      ]
+    }
+  ]
+}

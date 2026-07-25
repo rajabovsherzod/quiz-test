@@ -54,7 +54,7 @@ async function extractQuestionsFromDocx(docxPath) {
 
 async function main() {
   const baseDir = process.cwd();
-  const docxDir = path.join(baseDir, 'test-docx');
+  const docxDir = path.join(baseDir, 'data');
   const outputDir = path.join(baseDir, 'src', 'data');
 
   if (!fs.existsSync(outputDir)) {
@@ -81,6 +81,21 @@ async function main() {
       pattern: "Ilmiy tadqiqot",
       output: "quiz-metodologiya.json",
       title: "1-Kurs Ilmiy Tadqiqot Metodologiyasi"
+    },
+    {
+      pattern: "Sport bayramlari",
+      output: "quiz-sport-bayramlari.json",
+      title: "1-Kurs Sport Bayramlari"
+    },
+    {
+      pattern: "Tanlangan_sport_turlari",
+      output: "quiz-tanlangan-sport.json",
+      title: "1-Kurs Tanlangan Sport Turlari Nazariyasi va Uslubiyoti"
+    },
+    {
+      pattern: "Yangi_O`zbekiston_taraqqiyot_strategiyasi",
+      output: "quiz-taraqqiyot-strategiyasi.json",
+      title: "1-Kurs Yangi O'zbekiston Taraqqiyot Strategiyasi"
     }
   ];
 

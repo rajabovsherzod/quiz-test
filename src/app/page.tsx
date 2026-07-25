@@ -1,7 +1,7 @@
 
 import { Button } from "@/components/base/buttons/button";
 import Link from "next/link";
-import { BookOpen, Users, Trophy, Activity, ClipboardList } from "lucide-react";
+import { BookOpen, Users, Trophy, Activity, ClipboardList, Star, Target, Flag } from "lucide-react";
 
 export default function Page() {
   return (
@@ -26,7 +26,7 @@ export default function Page() {
 
       {/* Cards Section */}
       <section className="flex-1 flex flex-col items-center justify-start px-4 pb-20 z-10">
-        <div className="grid md:grid-cols-2 gap-8 w-full max-w-5xl">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 w-full max-w-6xl">
 
           {/* Card 1: Sport Pedagogikasi */}
           <div className="bg-bg-primary dark:bg-gray-800 rounded-3xl p-8 shadow-lg shadow-gray-200/50 dark:shadow-black/30 border border-border-secondary hover:border-brand-300 dark:hover:border-brand-700 hover:shadow-xl transition-all duration-300 group flex flex-col relative overflow-hidden">
@@ -118,6 +118,78 @@ export default function Page() {
             <div className="mt-auto">
               <Link href="/quiz/metodologiya" className="w-full block">
                 <Button size="xl" color="primary" className="w-full justify-center bg-purple-600 hover:bg-purple-700 text-white border-transparent shadow-md shadow-purple-500/20 group-hover:shadow-purple-500/40">
+                  Boshlash
+                </Button>
+              </Link>
+            </div>
+          </div>
+
+          {/* Card 5: Sport Bayramlari */}
+          <div className="bg-bg-primary dark:bg-gray-800 rounded-3xl p-8 shadow-lg shadow-gray-200/50 dark:shadow-black/30 border border-border-secondary hover:border-orange-300 dark:hover:border-orange-700 hover:shadow-xl transition-all duration-300 group flex flex-col relative overflow-hidden">
+            <div className="absolute top-0 right-0 w-32 h-32 bg-orange-50 dark:bg-orange-900/10 rounded-full blur-3xl -mr-10 -mt-10 transition-all group-hover:bg-orange-100 dark:group-hover:bg-orange-900/20" />
+
+            <div className="w-16 h-16 bg-gradient-to-br from-orange-50 to-orange-100 dark:from-orange-900 dark:to-orange-800 rounded-2xl flex items-center justify-center mb-6 text-orange-600 dark:text-orange-400 group-hover:scale-110 group-hover:rotate-3 transition-transform duration-300 shadow-sm">
+              <Flag className="w-8 h-8" />
+            </div>
+
+            <h2 className="text-2xl font-bold text-primary mb-3 group-hover:text-orange-600 dark:group-hover:text-orange-400 transition-colors">
+              Sport Bayramlari
+            </h2>
+            <p className="text-tertiary mb-8 leading-relaxed">
+              Sport bayramlari va tadbirlarini tashkil qilish bo'yicha nazariy va amaliy bilimlar.
+            </p>
+
+            <div className="mt-auto">
+              <Link href="/quiz/sport-bayramlari" className="w-full block">
+                <Button size="xl" color="primary" className="w-full justify-center bg-orange-600 hover:bg-orange-700 text-white border-transparent shadow-md shadow-orange-500/20 group-hover:shadow-orange-500/40">
+                  Boshlash
+                </Button>
+              </Link>
+            </div>
+          </div>
+
+          {/* Card 6: Tanlangan Sport Turlari */}
+          <div className="bg-bg-primary dark:bg-gray-800 rounded-3xl p-8 shadow-lg shadow-gray-200/50 dark:shadow-black/30 border border-border-secondary hover:border-teal-300 dark:hover:border-teal-700 hover:shadow-xl transition-all duration-300 group flex flex-col relative overflow-hidden">
+            <div className="absolute top-0 right-0 w-32 h-32 bg-teal-50 dark:bg-teal-900/10 rounded-full blur-3xl -mr-10 -mt-10 transition-all group-hover:bg-teal-100 dark:group-hover:bg-teal-900/20" />
+
+            <div className="w-16 h-16 bg-gradient-to-br from-teal-50 to-teal-100 dark:from-teal-900 dark:to-teal-800 rounded-2xl flex items-center justify-center mb-6 text-teal-600 dark:text-teal-400 group-hover:scale-110 group-hover:rotate-3 transition-transform duration-300 shadow-sm">
+              <Target className="w-8 h-8" />
+            </div>
+
+            <h2 className="text-2xl font-bold text-primary mb-3 group-hover:text-teal-600 dark:group-hover:text-teal-400 transition-colors">
+              Tanlangan Sport Turlari
+            </h2>
+            <p className="text-tertiary mb-8 leading-relaxed">
+              Tanlangan sport turlari nazariyasi va uslubiyoti bo'yicha chuqurlashtirilgan testlar.
+            </p>
+
+            <div className="mt-auto">
+              <Link href="/quiz/tanlangan-sport" className="w-full block">
+                <Button size="xl" color="primary" className="w-full justify-center bg-teal-600 hover:bg-teal-700 text-white border-transparent shadow-md shadow-teal-500/20 group-hover:shadow-teal-500/40">
+                  Boshlash
+                </Button>
+              </Link>
+            </div>
+          </div>
+
+          {/* Card 7: Yangi O'zbekiston Taraqqiyot Strategiyasi */}
+          <div className="bg-bg-primary dark:bg-gray-800 rounded-3xl p-8 shadow-lg shadow-gray-200/50 dark:shadow-black/30 border border-border-secondary hover:border-amber-300 dark:hover:border-amber-700 hover:shadow-xl transition-all duration-300 group flex flex-col relative overflow-hidden">
+            <div className="absolute top-0 right-0 w-32 h-32 bg-amber-50 dark:bg-amber-900/10 rounded-full blur-3xl -mr-10 -mt-10 transition-all group-hover:bg-amber-100 dark:group-hover:bg-amber-900/20" />
+
+            <div className="w-16 h-16 bg-gradient-to-br from-amber-50 to-amber-100 dark:from-amber-900 dark:to-amber-800 rounded-2xl flex items-center justify-center mb-6 text-amber-600 dark:text-amber-400 group-hover:scale-110 group-hover:rotate-3 transition-transform duration-300 shadow-sm">
+              <Star className="w-8 h-8" />
+            </div>
+
+            <h2 className="text-2xl font-bold text-primary mb-3 group-hover:text-amber-600 dark:group-hover:text-amber-400 transition-colors">
+              Yangi O'zbekiston Taraqqiyot Strategiyasi
+            </h2>
+            <p className="text-tertiary mb-8 leading-relaxed">
+              Yangi O'zbekiston taraqqiyot strategiyasi bo'yicha zamonaviy bilimlar va testlar.
+            </p>
+
+            <div className="mt-auto">
+              <Link href="/quiz/taraqqiyot-strategiyasi" className="w-full block">
+                <Button size="xl" color="primary" className="w-full justify-center bg-amber-600 hover:bg-amber-700 text-white border-transparent shadow-md shadow-amber-500/20 group-hover:shadow-amber-500/40">
                   Boshlash
                 </Button>
               </Link>

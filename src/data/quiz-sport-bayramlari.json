@@ -1,0 +1,1505 @@
+{
+  "title": "1-Kurs Sport Bayramlari",
+  "questions": [
+    {
+      "question": "Kun tartibida sog‘lomlashtirish tadbirlarini tashkil etishning asosiy maqsadi nima?",
+      "correctAnswer": "Salomatlik va harakat faolligini oshirish",
+      "options": [
+        "Salomatlik va harakat faolligini oshirish",
+        "Sport musobaqalariga yo‘naltirish",
+        "Dam olish tartibini nazorat qilish",
+        "Mashg‘ulot vaqtini tartibga solish"
+      ]
+    },
+    {
+      "question": "Ertalabki badantarbiya mashqlarining foydasi nimada?",
+      "correctAnswer": "Organizmni faol holatga keltirish",
+      "options": [
+        "Dars jarayonini tartibli boshlash",
+        "Sport texnikasini eslatib o‘tish",
+        "Mashg‘ulotga nazariy tayyorgarlik berish",
+        "Organizmni faol holatga keltirish"
+      ]
+    },
+    {
+      "question": "Sog‘lomlashtirish tadbirlarini rejalashtirishda eng avvalo nimaga e’tibor beriladi?",
+      "correctAnswer": "Bolalarning yoshi, sog‘lig‘i va tayyorgarligiga",
+      "options": [
+        "Sport natijalari va guruhlar tarkibiga",
+        "Mashg‘ulot davomiyligi va jihozlar soniga",
+        "Bolalarning yoshi, sog‘lig‘i va tayyorgarligiga",
+        "Dars jadvali va hujjatlar tartibiga"
+      ]
+    },
+    {
+      "question": "Kun tartibida harakatli o‘yinlarni qo‘llash qanday samara beradi?",
+      "correctAnswer": "Chaqqonlik, faollik va muloqotni rivojlantiradi",
+      "options": [
+        "Bolalarning dam olish vaqtini belgilaydi",
+        "Chaqqonlik, faollik va muloqotni rivojlantiradi",
+        "Jismoniy yuklamani bir xil taqsimlaydi",
+        "Mashg‘ulot mazmunini tartibga soladi"
+      ]
+    },
+    {
+      "question": "Sog‘lomlashtirish tadbirlarida xavfsizlik qoidalari nima uchun muhim?",
+      "correctAnswer": "Jarohatlanishning oldini olish uchun",
+      "options": [
+        "O‘yinlar sonini tartibga solish uchun",
+        "Mashqlar ketma-ketligini belgilash uchun",
+        "Jarohatlanishning oldini olish uchun",
+        "Ishtirokchilarni guruhlarga ajratish uchun"
+      ]
+    },
+    {
+      "question": "Sayr jarayonida sog‘lomlashtirish ishlarini tashkil etishda qaysi omillar hisobga olinadi?",
+      "correctAnswer": "Ob-havo, kiyim va bolalarning holati",
+      "options": [
+        "Hujjatlar, ro‘yxat va baholash tartibi",
+        "Ob-havo, kiyim va bolalarning holati",
+        "Musiqa, bezak va rasmiy chiqishlar",
+        "Jihozlar, daftarlar va nazorat savollari"
+      ]
+    },
+    {
+      "question": "Nafas olish mashqlarining sog‘lomlashtirishdagi vazifasi qanday?",
+      "correctAnswer": "Kislorod ta’minoti va tiklanishga yordam berish",
+      "options": [
+        "Sport natijalarini aniqroq baholash",
+        "Texnik harakatlarni tezroq o‘rgatish",
+        "Kislorod ta’minoti va tiklanishga yordam berish",
+        "Guruhli mashqlarni tartibga solish"
+      ]
+    },
+    {
+      "question": "Jismoniy daqiqalar qachon o‘tkazilishi maqsadga muvofiq?",
+      "correctAnswer": "Charchash yoki diqqat susayganda",
+      "options": [
+        "Dars jadvali o‘zgargan vaqtda",
+        "Mashg‘ulot yakunida hisobotdan oldin",
+        "Sport bayramining rasmiy qismida",
+        "Charchash yoki diqqat susayganda"
+      ]
+    },
+    {
+      "question": "Sog‘lomlashtirish tadbirlarini muntazam tashkil etish bolalarda qanday odatlarni shakllantiradi?",
+      "correctAnswer": "Sog‘lom turmush va faol harakat odatini",
+      "options": [
+        "Sport natijasini doimiy taqqoslash odatini",
+        "Sog‘lom turmush va faol harakat odatini",
+        "Mashqlarni mustaqil tanlash odatini",
+        "Dam olishni uzoq davom ettirish odatini"
+      ]
+    },
+    {
+      "question": "Tarbiyachi yoki pedagogning sog‘lomlashtirish tadbirlaridagi asosiy vazifasi nima?",
+      "correctAnswer": "Rejalashtirish, xavfsizlik va faol jalb etish",
+      "options": [
+        "Natijalarni saralash va guruhlarni ajratish",
+        "Mashqlarni nazariy tushuntirish bilan cheklash",
+        "Bolalarga jarayonni mustaqil topshirish",
+        "Rejalashtirish, xavfsizlik va faol jalb etish"
+      ]
+    },
+    {
+      "question": "Bolalar bilan sport ishlarini tashkil etishda pedagogik asoslar nimaga tayanadi?",
+      "correctAnswer": "Yosh xususiyati va jismoniy rivojlanishga",
+      "options": [
+        "Musobaqa natijasi va reyting ko‘rsatkichlariga",
+        "Kattalar sportidagi murakkab talablarga",
+        "Mashg‘ulot vaqti va jihozlar soniga",
+        "Yosh xususiyati va jismoniy rivojlanishga"
+      ]
+    },
+    {
+      "question": "Sport mashg‘ulotlarida o‘yin metodidan foydalanishning ahamiyati nimada?",
+      "correctAnswer": "Harakat ko‘nikmalarini qiziqarli shakllantiradi",
+      "options": [
+        "Sport texnikasini nazariy asosda tushuntiradi",
+        "Mashg‘ulot intizomini rasmiy baholaydi",
+        "Jismoniy yuklamani bir xil darajada beradi",
+        "Harakat ko‘nikmalarini qiziqarli shakllantiradi"
+      ]
+    },
+    {
+      "question": "Individual yondashuv sport ishlarida nima uchun zarur?",
+      "correctAnswer": "Bolaning imkoniyati va tayyorgarligini hisobga olish uchun",
+      "options": [
+        "Mashg‘ulot vaqtini qisqartirish uchun",
+        "Sport natijalarini tezroq solishtirish uchun",
+        "Bolaning imkoniyati va tayyorgarligini hisobga olish uchun",
+        "Guruhdagi tartibni umumiy nazorat qilish uchun"
+      ]
+    },
+    {
+      "question": "Bolalar sport faoliyatida tarbiyaviy vazifalar qaysilar?",
+      "correctAnswer": "Intizom, mas’uliyat va hamkorlikni shakllantirish",
+      "options": [
+        "Musobaqa natijalarini oldindan tahlil qilish",
+        "Texnik harakatlarni yuqori sur’atda bajarish",
+        "Mashg‘ulotlarni rasmiy tartibda yakunlash",
+        "Intizom, mas’uliyat va hamkorlikni shakllantirish"
+      ]
+    },
+    {
+      "question": "Sport mashg‘ulotlarida jismoniy yuklama qanday berilishi kerak?",
+      "correctAnswer": "Bosqichma-bosqich va yoshga mos holda",
+      "options": [
+        "Bosqichma-bosqich va yoshga mos holda",
+        "Musobaqa oldidan keskin oshirilgan holda",
+        "Guruh soniga qarab bir xil miqdorda",
+        "Dars oxirida kuchaytirilgan shaklda"
+      ]
+    },
+    {
+      "question": "Ko‘rgazmalilik prinsipi sport mashg‘ulotlarida qanday namoyon bo‘ladi?",
+      "correctAnswer": "Harakatni tushuntirib, amalda ko‘rsatish orqali",
+      "options": [
+        "Topshiriqni yozma shaklda berish orqali",
+        "Baholash mezonlarini oldindan aytmaslik orqali",
+        "Mashqlarni og‘zaki buyruqlar bilan cheklash orqali",
+        "Harakatni tushuntirib, amalda ko‘rsatish orqali"
+      ]
+    },
+    {
+      "question": "Bolalarni rag‘batlantirish sport mashg‘ulotlarida qanday rol o‘ynaydi?",
+      "correctAnswer": "Qiziqish va faol ishtirokni kuchaytiradi",
+      "options": [
+        "Raqobatni asosiy mezonga aylantiradi",
+        "Mashg‘ulot talablarini vaqtincha yumshatadi",
+        "Qiziqish va faol ishtirokni kuchaytiradi",
+        "Baholash jarayonini rasmiylashtiradi"
+      ]
+    },
+    {
+      "question": "Texnik harakatlarni o‘rgatish qanday ketma-ketlikda olib boriladi?",
+      "correctAnswer": "Oddiydan murakkab harakatlarga o‘tiladi",
+      "options": [
+        "Avval musobaqa, keyin tushuntirish beriladi",
+        "Oddiydan murakkab harakatlarga o‘tiladi",
+        "Harakatlar taxminiy bajarishga qarab tanlanadi",
+        "Murakkab mashqlardan oddiylariga qaytiladi"
+      ]
+    },
+    {
+      "question": "Guruh bilan olib boriladigan sport ishlarining pedagogik foydasi nimada?",
+      "correctAnswer": "Jamoaviylik va o‘zaro yordamni rivojlantiradi",
+      "options": [
+        "Jamoaviylik va o‘zaro yordamni rivojlantiradi",
+        "Sport texnikasini nazariy jihatdan kuchaytiradi",
+        "Individual natijalarni alohida ajratib ko‘rsatadi",
+        "Mashg‘ulotni erkin harakatlar shakliga keltiradi"
+      ]
+    },
+    {
+      "question": "Pedagogik nazorat sport mashg‘ulotlarida qanday vazifani bajaradi?",
+      "correctAnswer": "Rivojlanish va mashg‘ulot samaradorligini baholaydi",
+      "options": [
+        "Mashg‘ulot hujjatlarini asosiy jarayonga aylantiradi",
+        "Bolalarni natijaga qarab saralashni kuchaytiradi",
+        "Rivojlanish va mashg‘ulot samaradorligini baholaydi",
+        "Mashqlarni rejasiz tanlashga imkon yaratadi"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya bayramlarining asosiy maqsadi nimadan iborat?",
+      "correctAnswer": "Jismoniy faollik, sog‘lom turmush va jamoaviylikni rivojlantirish",
+      "options": [
+        "O‘quvchilarning nazariy bilimini yozma tarzda tekshirish",
+        "Harakatli faoliyatni qisqa tarbiyaviy suhbat bilan boyitish",
+        "Jismoniy faollik, sog‘lom turmush va jamoaviylikni rivojlantirish",
+        "Sport darslarini odatiy mashg‘ulot shaklida davom ettirish"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya bayramini tashkil etishda dastlab nimalar aniqlanadi?",
+      "correctAnswer": "Maqsad, mavzu, ishtirokchilar va o‘tkazilish joyi",
+      "options": [
+        "Maqsad, mavzu, ishtirokchilar va o‘tkazilish joyi",
+        "Jihozlar ro‘yxati, hujjatlar joyi va xona holati",
+        "Tomoshabinlar soni, kiyim rangi va bezak turi",
+        "Dars jadvalidagi bo‘sh vaqt va sinf tartibi"
+      ]
+    },
+    {
+      "question": "Bayram dasturini tuzishda qaysi jihat muhim hisoblanadi?",
+      "correctAnswer": "Mashq va o‘yinlarning yoshga mos, xavfsiz va qiziqarli bo‘lishi",
+      "options": [
+        "Mashq va o‘yinlarning yoshga mos, xavfsiz va qiziqarli bo‘lishi",
+        "Ishtirokchilarni uzoqroq kutish orqali tartibga o‘rgatish",
+        "Har bir qatnashchidan bayram bo‘yicha yozma fikr olish",
+        "Sport texnikalarini murakkab shaklda ketma-ket berish"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya bayramlarida musiqadan foydalanish qanday ahamiyatga ega?",
+      "correctAnswer": "Harakat ritmini uyg‘unlashtirib, bayramona kayfiyat yaratadi",
+      "options": [
+        "Sport jihozlaridan foydalanish zaruratini kamaytiradi",
+        "Guruhlarga ajratish tartibini soddalashtirishga yordam beradi",
+        "O‘yin mazmunini baholashning asosiy mezoniga aylanadi",
+        "Harakat ritmini uyg‘unlashtirib, bayramona kayfiyat yaratadi"
+      ]
+    },
+    {
+      "question": "Bayram jarayonida pedagog yoki tashkilotchining vazifasi nimadan iborat?",
+      "correctAnswer": "Tadbirni boshqarish, xavfsizlikni ta’minlash va bolalarni jalb qilish",
+      "options": [
+        "Mashqlarni jarayon davomida qisqa izohlar bilan boshlash",
+        "Tadbirni boshqarish, xavfsizlikni ta’minlash va bolalarni jalb qilish",
+        "Ishtirokchilar harakatini erkin shaklda kuzatib borish",
+        "Tomoshabinlar fikriga qarab dastur mazmunini o‘zgartirish"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya bayramlarida estafeta o‘yinlari qanday pedagogik ahamiyatga ega?",
+      "correctAnswer": "Tezkorlik, chaqqonlik, hamkorlik va mas’uliyatni rivojlantiradi",
+      "options": [
+        "Bolalarning yakka harakatlarini alohida baholashga yordam beradi",
+        "Ishtirokchilarni navbat bilan kuzatuvchi holatga keltiradi",
+        "Mashg‘ulotni umumiy sport suhbatlari bilan to‘ldiradi",
+        "Tezkorlik, chaqqonlik, hamkorlik va mas’uliyatni rivojlantiradi"
+      ]
+    },
+    {
+      "question": "Bayram oldidan sport maydoni yoki zalni tayyorlashda nimaga e’tibor beriladi?",
+      "correctAnswer": "Jihozlar xavfsizligi, maydon tozaligi va harakat yo‘laklariga",
+      "options": [
+        "Tadbir yakunidagi savollar va yozma topshiriqlarga",
+        "Tomoshabinlarning kiyimi va joylashish tartibiga",
+        "Jihozlar xavfsizligi, maydon tozaligi va harakat yo‘laklariga",
+        "Darsliklar, daftarlar va ko‘rgazmali vositalar joyiga"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya bayramlarida bolalarning faol ishtirokini ta’minlash uchun nima qilish kerak?",
+      "correctAnswer": "Yoshga mos vazifa berib, rag‘batlantirishdan foydalanish",
+      "options": [
+        "Yoshga mos vazifa berib, rag‘batlantirishdan foydalanish",
+        "Ishtirokchilarni natijaga qarab qat’iy tartibda ajratish",
+        "Guruhli faoliyatni kamaytirib, tomosha qismini kengaytirish",
+        "Murakkab mashqlar orqali kuchli bolalarga ustunlik berish"
+      ]
+    },
+    {
+      "question": "Bayram yakunida ishtirokchilarni rag‘batlantirish nima uchun muhim?",
+      "correctAnswer": "Ijobiy kayfiyat, o‘ziga ishonch va sportga qiziqishni kuchaytiradi",
+      "options": [
+        "Keyingi tadbirlar uchun ishtirokchilarni saralashga xizmat qiladi",
+        "Ijobiy kayfiyat, o‘ziga ishonch va sportga qiziqishni kuchaytiradi",
+        "Tadbirning hujjat qismini tartibli yakunlashga yordam beradi",
+        "Musobaqa jarayonida raqobat muhitini kuchaytiradi"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya bayramining muvaffaqiyatli o‘tganini qanday belgilash mumkin?",
+      "correctAnswer": "Faollik, xavfsizlik va tarbiyaviy maqsadga erishish orqali",
+      "options": [
+        "Topshiriqlar soni va bayram davomiyligining ko‘pligi bilan",
+        "Tadbirning erkin va o‘zgaruvchan shaklda olib borilishi bilan",
+        "Faollik, xavfsizlik va tarbiyaviy maqsadga erishish orqali",
+        "Tomoshabinlarning jim turishi va tartib saqlashi orqali"
+      ]
+    },
+    {
+      "question": "Sport musobaqalarini tashkil etishda eng avvalo nima belgilanadi?",
+      "correctAnswer": "Musobaqa maqsadi, turi, ishtirokchilar va o‘tkazish tartibi",
+      "options": [
+        "Tomoshabinlar joyi, zal bezagi va rasmiy chiqishlar",
+        "Musobaqa maqsadi, turi, ishtirokchilar va o‘tkazish tartibi",
+        "Musobaqadan keyingi suhbat va umumiy xulosa mavzusi",
+        "Ishtirokchilarning buyumlari va kiyim almashtirish joyi"
+      ]
+    },
+    {
+      "question": "Musobaqa nizomi nima uchun tuziladi?",
+      "correctAnswer": "Shartlar, baholash mezonlari va o‘tkazish tartibini belgilash uchun",
+      "options": [
+        "Tadbirni bayramona ko‘rinishda bezash tartibini aniqlash uchun",
+        "Shartlar, baholash mezonlari va o‘tkazish tartibini belgilash uchun",
+        "Hakamlar vazifasini og‘zaki kelishuv asosida yuritish uchun",
+        "Mashqlarni jarayon davomida erkin tanlash imkonini berish uchun"
+      ]
+    },
+    {
+      "question": "Sport musobaqalarida hakamlarning asosiy vazifasi nimadan iborat?",
+      "correctAnswer": "Qoidalarga rioya etilishini nazorat qilish va natijani xolis baholash",
+      "options": [
+        "Qoidalarga rioya etilishini nazorat qilish va natijani xolis baholash",
+        "Ishtirokchilarga mashqlarni navbat bilan tanlab berish",
+        "Musobaqa mazmunini tomoshabinlar istagiga qarab moslashtirish",
+        "Jamoalar kiyimini bir xil tartibga keltirishni tashkil etish"
+      ]
+    },
+    {
+      "question": "Musobaqa oldidan ishtirokchilar bilan tushuntirish ishlari nima uchun zarur?",
+      "correctAnswer": "Qoidalar, xavfsizlik va baholash tartibini aniq yetkazish uchun",
+      "options": [
+        "Natijalarni oldindan taxmin qilib, guruhlar tarkibini belgilash uchun",
+        "Qoidalar, xavfsizlik va baholash tartibini aniq yetkazish uchun",
+        "Ishtirokchilarni tomoshabinlar bilan navbatma-navbat almashtirish uchun",
+        "Musobaqa vaqtini qisqartirib, ayrim bosqichlarni soddalashtirish uchun"
+      ]
+    },
+    {
+      "question": "Sport bayramlari va musobaqalarida xavfsizlik qoidalariga amal qilish nimani ta’minlaydi?",
+      "correctAnswer": "Jarohatlanishning oldini olish va tadbirning tartibli o‘tishini",
+      "options": [
+        "Musobaqa natijalarini oldindan aniq rejalashtirishni",
+        "Jarohatlanishning oldini olish va tadbirning tartibli o‘tishini",
+        "Mashg‘ulot joyidan erkin va nazoratsiz foydalanishni",
+        "Hakamlik jarayonini ishtirokchilar bilan birga yuritishni"
+      ]
+    },
+    {
+      "question": "Musobaqa jadvalini tuzishda qaysi talab muhim hisoblanadi?",
+      "correctAnswer": "Ishtirokchilar soni, vaqt, dam olish va bosqichlar ketma-ketligini hisobga olish",
+      "options": [
+        "Jamoalar nomini bayram mavzusiga qarab erkin joylashtirish",
+        "Ishtirokchilar soni, vaqt, dam olish va bosqichlar ketma-ketligini hisobga olish",
+        "Har bir bahsni bir xil vaqtda boshlashga harakat qilish",
+        "Natijalar jadvalini musobaqa boshlanishidan oldin tayyorlash"
+      ]
+    },
+    {
+      "question": "Sport musobaqalarida adolat tamoyili qanday namoyon bo‘ladi?",
+      "correctAnswer": "Teng sharoit yaratish va qoidalarni bir xil qo‘llash orqali",
+      "options": [
+        "Kuchli jamoalarga qo‘shimcha imkoniyatlar berish orqali",
+        "Teng sharoit yaratish va qoidalarni bir xil qo‘llash orqali",
+        "Natijalarni tomoshabinlar fikriga moslab belgilash orqali",
+        "Hakam qarorlarini umumiy muhokama asosida o‘zgartirish orqali"
+      ]
+    },
+    {
+      "question": "Musobaqa yakunida natijalarni e’lon qilish qanday tartibda amalga oshiriladi?",
+      "correctAnswer": "Hakamlar qarori, aniq ko‘rsatkich va egallangan o‘rinlar bo‘yicha",
+      "options": [
+        "Ishtirokchilarning shaxsiy xohishi va jamoa kelishuviga qarab",
+        "Jamoalar soni kamaygandan so‘ng taxminiy tartibda",
+        "Hakamlar qarori, aniq ko‘rsatkich va egallangan o‘rinlar bo‘yicha",
+        "Tadbir boshida tuzilgan ro‘yxatdagi ketma-ketlik asosida"
+      ]
+    },
+    {
+      "question": "Sport bayramlari va musobaqalarida tibbiy nazoratning ahamiyati nimada?",
+      "correctAnswer": "Ishtirokchilarning sog‘lig‘i va jismoniy holatini kuzatish imkonini beradi",
+      "options": [
+        "Hakamlik qarorlarini qayta ko‘rib chiqishga asos bo‘ladi",
+        "Ishtirokchilarning sog‘lig‘i va jismoniy holatini kuzatish imkonini beradi",
+        "Musobaqa dasturini badiiy chiqishlar bilan boyitishga yordam beradi",
+        "Tomoshabinlar sonini belgilashda qo‘shimcha mezon bo‘lib xizmat qiladi"
+      ]
+    },
+    {
+      "question": "Musobaqa yoki bayramdan keyin tahlil qilish ishlarining vazifasi nima?",
+      "correctAnswer": "Yutuq va kamchiliklarni aniqlab, keyingi ishlarni takomillashtirish",
+      "options": [
+        "Natijalarni umumiy bayonnomasiz og‘zaki shaklda yakunlash",
+        "O‘yin qoidalarini yangi tartib asosida butunlay o‘zgartirish",
+        "Yutuq va kamchiliklarni aniqlab, keyingi ishlarni takomillashtirish",
+        "Ishtirokchilarni keyingi tadbir uchun qayta guruhlarga ajratish"
+      ]
+    },
+    {
+      "question": "Boshlang‘ich sinf o‘quvchilarini sport bayramlariga psixologik tayyorlashning asosiy maqsadi nima?",
+      "correctAnswer": "Ishonch, qiziqish va faol ishtirok kayfiyatini shakllantirish",
+      "options": [
+        "Ishonch, qiziqish va faol ishtirok kayfiyatini shakllantirish",
+        "O‘quvchilar natijalarini oldindan taqqoslash",
+        "Bayram jarayonini murakkab musobaqaga aylantirish",
+        "Harakatli o‘yinlarni nazariy izoh bilan almashtirish"
+      ]
+    },
+    {
+      "question": "Pedagog sport bayrami oldidan ijobiy kayfiyat yaratishda nimaga e’tibor beradi?",
+      "correctAnswer": "Rag‘batlantirish, tushunarli topshiriq va qulay muloqotga",
+      "options": [
+        "Baholash mezonlari va raqobat darajasini kuchaytirishga",
+        "Rag‘batlantirish, tushunarli topshiriq va qulay muloqotga",
+        "Bolalarni natijaga qarab qat’iy guruhlarga ajratishga",
+        "Mashqlarni oldindan izohlarsiz bajartirishga"
+      ]
+    },
+    {
+      "question": "Sport bayrami oldidan o‘quvchilarda hayajon kuzatilsa, pedagog qanday yo‘l tutadi?",
+      "correctAnswer": "Vazifalarni sodda tushuntirib, bolalarni ruhiy qo‘llab-quvvatlaydi",
+      "options": [
+        "Hayajonlangan bolalarni tadbirning faol qismidan chetlashtiradi",
+        "Vazifalarni sodda tushuntirib, bolalarni ruhiy qo‘llab-quvvatlaydi",
+        "Barcha javobgarlikni o‘quvchilarning o‘ziga yuklaydi",
+        "Mashg‘ulot mazmunini ogohlantirmasdan o‘zgartiradi"
+      ]
+    },
+    {
+      "question": "Sport bayramiga tayyorgarlikda pedagogik qo‘llab-quvvatlash nimada ko‘rinadi?",
+      "correctAnswer": "Bolani ruhlantirish va imkoniyatiga mos vazifa berishda",
+      "options": [
+        "Ishtirokchilarni jismoniy kuchiga qarab baholashda",
+        "Bayram dasturini jarayon davomida tushuntirib borishda",
+        "Bolani ruhlantirish va imkoniyatiga mos vazifa berishda",
+        "Xatolarni batafsil ko‘rsatib, natijaga urg‘u berishda"
+      ]
+    },
+    {
+      "question": "Pedagog o‘quvchilarda o‘ziga ishonchni qanday shakllantiradi?",
+      "correctAnswer": "Muvaffaqiyatni e’tirof etib, ijobiy fikr bildirish orqali",
+      "options": [
+        "Xatolarni umumiy muhokamada alohida ko‘rsatish orqali",
+        "Har bir topshiriqni yakuniy natija bilan baholash orqali",
+        "Muvaffaqiyatni e’tirof etib, ijobiy fikr bildirish orqali",
+        "O‘quvchilarni doimiy ravishda bir-biri bilan solishtirish orqali"
+      ]
+    },
+    {
+      "question": "Uyatchan yoki tortinchoq bolalar bilan ishlashda pedagogning vazifasi nimadan iborat?",
+      "correctAnswer": "Ularni asta-sekin jalb qilib, qulay psixologik muhit yaratish",
+      "options": [
+        "Boshqa o‘quvchilar tajribasi bilan ochiq taqqoslash",
+        "Ularni avval tomoshabin sifatida uzoqroq kuzatishga qoldirish",
+        "Murakkab mashqlar orqali tezroq faollashtirishga urinish",
+        "Ularni asta-sekin jalb qilib, qulay psixologik muhit yaratish"
+      ]
+    },
+    {
+      "question": "Pedagogning bayram oldidan tushuntirish ishlari olib borishi nima uchun muhim?",
+      "correctAnswer": "Bolalar qoidalar, vazifalar va tartibni aniq tushunishi uchun",
+      "options": [
+        "O‘yinlar sonini kamaytirib, rasmiy qismni uzaytirish uchun",
+        "Bayram dasturini o‘quvchilar ishtirokisiz rejalashtirish uchun",
+        "Harakatlarni baholash jarayonini murakkablashtirish uchun",
+        "Bolalar qoidalar, vazifalar va tartibni aniq tushunishi uchun"
+      ]
+    },
+    {
+      "question": "Psixologik tayyorgarlikda jamoaviy mashqlarning ahamiyati nimada?",
+      "correctAnswer": "Hamkorlik, o‘zaro yordam va moslashuvni rivojlantiradi",
+      "options": [
+        "Hamkorlik, o‘zaro yordam va moslashuvni rivojlantiradi",
+        "Bayramda ishtirokchilar sonini tartibga solishga yordam beradi",
+        "O‘quvchilarning yakka harakat qilish ko‘nikmasini kuchaytiradi",
+        "Musobaqa jarayonidagi tortishuvlarni boshqarishga xizmat qiladi"
+      ]
+    },
+    {
+      "question": "Sport bayramiga tayyorgarlikda ota-onalar bilan hamkorlik nima uchun zarur?",
+      "correctAnswer": "Ruhiy qo‘llab-quvvatlash va tashkiliy masalalarni muvofiqlashtirish uchun",
+      "options": [
+        "Bayramni odatdagi dars jarayonidan alohida ajratish uchun",
+        "Ruhiy qo‘llab-quvvatlash va tashkiliy masalalarni muvofiqlashtirish uchun",
+        "Natijalarni oldindan taxmin qilish va guruhlarni belgilash uchun",
+        "O‘quvchilarning harakat faolligini nazoratda ushlab turish uchun"
+      ]
+    },
+    {
+      "question": "Sport bayramidan keyingi ijobiy taassurotni mustahkamlash uchun nima maqsadga muvofiq?",
+      "correctAnswer": "Ishtirokchilarni rag‘batlantirib, yutuqlarini e’tirof etish",
+      "options": [
+        "Tadbir yakunini rasmiy hujjatlar bilan cheklash",
+        "Ishtirokchilarni rag‘batlantirib, yutuqlarini e’tirof etish",
+        "Natijasi past o‘quvchilar bilan alohida tanqidiy suhbat qilish",
+        "Keyingi bayramga tayyorgarlikni darhol boshlash"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya va sport bayramlarini tashkil etishda birinchi bosqich nima?",
+      "correctAnswer": "Maqsad, vazifa, mavzu va ishtirokchilar tarkibini belgilash",
+      "options": [
+        "Tadbir yakunidagi sovg‘alar turini oldindan tanlash",
+        "Maqsad, vazifa, mavzu va ishtirokchilar tarkibini belgilash",
+        "Tomoshabinlar joyini bezatish bilan tayyorgarlikni boshlash",
+        "Mashqlarni tadbir davomida vaziyatga qarab tanlash"
+      ]
+    },
+    {
+      "question": "Sport bayrami dasturini tuzishda qaysi talab muhim sanaladi?",
+      "correctAnswer": "Mashq va o‘yinlarni yoshga mos ketma-ket joylashtirish",
+      "options": [
+        "Dam olish oralig‘ini qisqartirib, harakatlarni ko‘paytirish",
+        "Barcha topshiriqlarni bir xil tezlikda bajarishga yo‘naltirish",
+        "Ishtirokchilarni murakkab bahslarga tezroq kiritish",
+        "Mashq va o‘yinlarni yoshga mos ketma-ket joylashtirish"
+      ]
+    },
+    {
+      "question": "Bayramni o‘tkazish joyini tayyorlashda nimalarga e’tibor qaratiladi?",
+      "correctAnswer": "Maydon xavfsizligi, jihozlar joylashuvi va harakat yo‘laklariga",
+      "options": [
+        "Maydon xavfsizligi, jihozlar joylashuvi va harakat yo‘laklariga",
+        "Dars jadvalidagi fanlar ketma-ketligi va sinf jihozlariga",
+        "Tashkilotchilar kiyimi va rasmiy hujjatlar ko‘rinishiga",
+        "Tadbir yakunida bajariladigan yozma nazorat ishlariga"
+      ]
+    },
+    {
+      "question": "Sport bayramlarida ishtirokchilarni guruhlarga ajratishda nima hisobga olinadi?",
+      "correctAnswer": "Yosh, jismoniy imkoniyat, tayyorgarlik va tadbir mazmuni",
+      "options": [
+        "Kuchli o‘quvchilarni oldingi o‘ringa chiqarish imkoniyati",
+        "Tomoshabinlarning takliflari va guruh nomlarining mosligi",
+        "Yosh, jismoniy imkoniyat, tayyorgarlik va tadbir mazmuni",
+        "Ro‘yxat tartibi, kiyim rangi va maydondagi joylashuv"
+      ]
+    },
+    {
+      "question": "Bayram jarayonida musiqiy va badiiy chiqishlardan foydalanish nimaga xizmat qiladi?",
+      "correctAnswer": "Tadbirga emotsional ta’sir va bayramona ruh beradi",
+      "options": [
+        "Tadbirga emotsional ta’sir va bayramona ruh beradi",
+        "Harakatli o‘yinlar o‘rniga rasmiy nutqlarni kengaytiradi",
+        "Ishtirokchilarni maydonda uzoqroq ushlab turishga yordam beradi",
+        "Sport mashqlarini baholash jarayonini qisqartiradi"
+      ]
+    },
+    {
+      "question": "Sport bayramlarida xavfsizlik yo‘riqnomasi qanday ahamiyatga ega?",
+      "correctAnswer": "Sog‘liqni himoya qilib, tadbirni tartibli olib borishga yordam beradi",
+      "options": [
+        "Jihozlardan foydalanish tartibini vaqtincha to‘xtatadi",
+        "O‘quvchilarni tomoshabin sifatida faol kuzatishga yo‘naltiradi",
+        "Sog‘liqni himoya qilib, tadbirni tartibli olib borishga yordam beradi",
+        "Bayram vaqtini qisqartirib, ayrim o‘yinlarni kamaytiradi"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya bayramlarida pedagogik nazorat nimani ta’minlaydi?",
+      "correctAnswer": "Reja, intizom va ishtirokchilar faolligini kuzatishni",
+      "options": [
+        "O‘quvchilarning shaxsiy fikrlarini umumiy tartibga solishni",
+        "Reja, intizom va ishtirokchilar faolligini kuzatishni",
+        "Hakamlik vazifalarini ishtirokchilar o‘rtasida taqsimlashni",
+        "Bayram mazmunini erkin harakatlar bilan boyitishni"
+      ]
+    },
+    {
+      "question": "Sport bayrami yakunida tahlil qilish ishlarining ahamiyati nimada?",
+      "correctAnswer": "Yutuq va kamchiliklarni aniqlab, keyingi tadbirni yaxshilash",
+      "options": [
+        "Ishtirokchilar natijalarini umumiy tarzda yakunlash",
+        "O‘yin qoidalarini keyingi mashg‘ulotda qayta tushuntirish",
+        "Tadbir rejasini keyingi safar o‘zgarishsiz qo‘llash",
+        "Yutuq va kamchiliklarni aniqlab, keyingi tadbirni yaxshilash"
+      ]
+    },
+    {
+      "question": "Estafeta va harakatli o‘yinlarni ketma-ket joylashtirishda nima hisobga olinadi?",
+      "correctAnswer": "Harakat yuklamasi, charchash darajasi va dam olish oralig‘i",
+      "options": [
+        "Hisobot hajmi, hakamlar soni va rasmiy yakuniy qism",
+        "Topshiriqlar soni, musiqa davomiyligi va chiqish tartibi",
+        "Harakat yuklamasi, charchash darajasi va dam olish oralig‘i",
+        "Tomoshabinlar faolligi, ovoz berish va jamoa nomlari"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya va sport bayramlarini muvaffaqiyatli o‘tkazish nimaga bog‘liq?",
+      "correctAnswer": "Rejalashtirish, xavfsizlik, yoshga mos mazmun va boshqaruvga",
+      "options": [
+        "Rejalashtirish, xavfsizlik, yoshga mos mazmun va boshqaruvga",
+        "Tadbirni qisqa muddatda tashkil etish imkoniyatiga",
+        "Bayram dasturini jarayon davomida erkin o‘zgartirishga",
+        "Ishtirokchilarni natijaga qarab guruhlarga ajratishga"
+      ]
+    },
+    {
+      "question": "Maktabda sport bayramlarini o‘tkazishning asosiy ahamiyati nimada?",
+      "correctAnswer": "Jismoniy faollik va sog‘lom hayotga qiziqishni oshirishda",
+      "options": [
+        "Maktabdagi tarbiyaviy tadbirlar sonini ko‘paytirishda",
+        "Sinflar o‘rtasida umumiy faollikni kuzatib borishda",
+        "O‘quvchilarning darsdan tashqari vaqtini band qilishda",
+        "Jismoniy faollik va sog‘lom hayotga qiziqishni oshirishda"
+      ]
+    },
+    {
+      "question": "Sport bayramlari o‘quvchilar tarbiyasiga qanday ta’sir ko‘rsatadi?",
+      "correctAnswer": "Intizom, mas’uliyat va o‘zaro hurmatni rivojlantiradi",
+      "options": [
+        "O‘quvchilarning shaxsiy tashabbusini baholashga yordam beradi",
+        "Sinf jamoasining umumiy tayyorgarligini aniqlaydi",
+        "Intizom, mas’uliyat va o‘zaro hurmatni rivojlantiradi",
+        "O‘quvchilarning musobaqaga munosabatini kuzatadi"
+      ]
+    },
+    {
+      "question": "Maktab sport bayramlarida jamoaviy o‘yinlarning tarbiyaviy vazifasi nimadan iborat?",
+      "correctAnswer": "Hamkorlik va umumiy maqsadga intilishni shakllantirish",
+      "options": [
+        "Darsdan tashqari mashg‘ulotlarni mazmunan boyitish",
+        "Sport natijalarini jamoaviy tarzda tahlil qilish",
+        "O‘quvchilar orasida raqobat muhitini tartibga solish",
+        "Hamkorlik va umumiy maqsadga intilishni shakllantirish"
+      ]
+    },
+    {
+      "question": "Sport bayramlarida g‘alaba va mag‘lubiyatga to‘g‘ri munosabat nima uchun muhim?",
+      "correctAnswer": "Adolatli raqobat va o‘zini boshqarishni tarbiyalash uchun",
+      "options": [
+        "Jamoalar o‘rtasidagi farqni belgilash uchun",
+        "Hakamlar qarorini umumiy muhokama qilish uchun",
+        "Adolatli raqobat va o‘zini boshqarishni tarbiyalash uchun",
+        "Musobaqa natijalarini tezroq aniqlash uchun"
+      ]
+    },
+    {
+      "question": "Sport bayramlari orqali o‘quvchilarda qanday ijtimoiy sifatlar rivojlanadi?",
+      "correctAnswer": "Muloqotchanlik, hamjihatlik va tashabbuskorlik",
+      "options": [
+        "Mustaqil tayyorgarlik va nazariy tahlil qilish",
+        "Kuzatuvchanlik, xotira va yozma ifoda",
+        "Baholash, taqqoslash va hujjatlashtirish",
+        "Muloqotchanlik, hamjihatlik va tashabbuskorlik"
+      ]
+    },
+    {
+      "question": "Maktab sport bayramlarining sog‘lomlashtiruvchi ahamiyati nimada?",
+      "correctAnswer": "Harakat faolligini oshirib, organizm rivojiga yordam beradi",
+      "options": [
+        "Harakat faolligini oshirib, organizm rivojiga yordam beradi",
+        "Jamoaviy chiqishlarni tartibli tashkil etadi",
+        "O‘quvchilarning sport natijalarini aniq baholaydi",
+        "Mashg‘ulot jarayonini bayramona shaklga keltiradi"
+      ]
+    },
+    {
+      "question": "Sport bayramlari o‘quvchilarda vatanparvarlik va milliy qadriyatlarga hurmatni qanday shakllantiradi?",
+      "correctAnswer": "Milliy o‘yinlar va ramziy chiqishlar orqali ta’sir ko‘rsatadi",
+      "options": [
+        "Jamoalar o‘rtasidagi hamkorlikni baholash orqali",
+        "Sport qoidalarini tushuntirish orqali tartibni mustahkamlaydi",
+        "Bayram dasturiga musiqiy chiqishlar kiritish orqali",
+        "Milliy o‘yinlar va ramziy chiqishlar orqali ta’sir ko‘rsatadi"
+      ]
+    },
+    {
+      "question": "Sport bayramlarida o‘qituvchining tarbiyaviy roli nimada namoyon bo‘ladi?",
+      "correctAnswer": "O‘quvchilarni ruhlantirish va tartibni ta’minlashda",
+      "options": [
+        "O‘quvchilarni ruhlantirish va tartibni ta’minlashda",
+        "Tomoshabinlar ishtirokini muvofiqlashtirishda",
+        "Musobaqa natijalarini umumiy tahlil qilishda",
+        "Tadbir dasturini badiiy chiqishlar bilan boyitishda"
+      ]
+    },
+    {
+      "question": "Sport bayramlari liderlik sifatlarini rivojlantirishga qanday yordam beradi?",
+      "correctAnswer": "Tashabbus va mas’uliyatli qaror qabul qilishga sharoit yaratadi",
+      "options": [
+        "Tashabbus va mas’uliyatli qaror qabul qilishga sharoit yaratadi",
+        "Darsdan tashqari ishlarni reja asosida olib boradi",
+        "Guruhlar tarkibini musobaqa oldidan aniqlashga yordam beradi",
+        "O‘quvchilarning texnik harakatlarini baholashga imkon beradi"
+      ]
+    },
+    {
+      "question": "Sport bayramlari maktab tarbiya tizimida qanday o‘rin tutadi?",
+      "correctAnswer": "Jismoniy, axloqiy va ijtimoiy tarbiyani uyg‘unlashtiradi",
+      "options": [
+        "Sport musobaqalarini tashkil etish tajribasini oshiradi",
+        "Jismoniy, axloqiy va ijtimoiy tarbiyani uyg‘unlashtiradi",
+        "O‘quvchilarning bo‘sh vaqtini nazorat qilishga yordam beradi",
+        "Maktab tadbirlarining tashkiliy tomonini kuchaytiradi"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya va sportni rivojlantirishga qaratilgan tadbirlarning asosiy maqsadi nima?",
+      "correctAnswer": "Sog‘lom turmush tarzi va jismoniy faollikni kengaytirish",
+      "options": [
+        "O‘quvchilar o‘rtasida ijtimoiy faollikni kuzatish",
+        "Ta’lim muassasalarida tarbiyaviy ishlarni boyitish",
+        "Sog‘lom turmush tarzi va jismoniy faollikni kengaytirish",
+        "Sport musobaqalarining tashkiliy shaklini yaxshilash"
+      ]
+    },
+    {
+      "question": "Maktabda jismoniy tarbiya va sportni rivojlantirishda qaysi tadbirlar muhim hisoblanadi?",
+      "correctAnswer": "To‘garaklar, musobaqalar va sog‘lomlashtirish tadbirlari",
+      "options": [
+        "Sinf yig‘ilishlari, suhbatlar va yozma topshiriqlar",
+        "Bayram dasturlari, hisobotlar va nazorat ishlari",
+        "Ma’naviy tadbirlar, uchrashuvlar va ma’ruzalar",
+        "To‘garaklar, musobaqalar va sog‘lomlashtirish tadbirlari"
+      ]
+    },
+    {
+      "question": "Sport to‘garaklarining o‘quvchilar rivojlanishidagi ahamiyati nimada?",
+      "correctAnswer": "Qiziqish va qobiliyatlarni muntazam rivojlantiradi",
+      "options": [
+        "Qiziqish va qobiliyatlarni muntazam rivojlantiradi",
+        "Musobaqa natijalarini oldindan tahlil qiladi",
+        "O‘quvchilarning nazariy bilimlarini tekshiradi",
+        "Sport bayramlari uchun tomoshabin tayyorlaydi"
+      ]
+    },
+    {
+      "question": "Ommaviy sport tadbirlarini tashkil etishda qanday talablar hisobga olinadi?",
+      "correctAnswer": "Yosh, xavfsizlik, joy sharoiti va mazmun mosligi",
+      "options": [
+        "Jamoalar nomi, kiyim rangi va saf tartibi",
+        "Tadbir vaqti, musiqa turi va sovg‘alar miqdori",
+        "Tomoshabinlar soni, bezaklar va rasmiy chiqishlar",
+        "Yosh, xavfsizlik, joy sharoiti va mazmun mosligi"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya va sportni rivojlantirishda musobaqalar qanday vazifa bajaradi?",
+      "correctAnswer": "Maqsadga intilish va sportga qiziqishni kuchaytiradi",
+      "options": [
+        "Darsdan tashqari faoliyatni umumiy baholaydi",
+        "O‘quvchilarning nazariy tayyorgarligini aniqlaydi",
+        "Maqsadga intilish va sportga qiziqishni kuchaytiradi",
+        "Maktab jamoasining tashkiliy ishlarini ko‘rsatadi"
+      ]
+    },
+    {
+      "question": "Sog‘lomlashtirish tadbirlarining sportni rivojlantirishdagi o‘rni nimada?",
+      "correctAnswer": "Salomatlik va faol turmush tarzini mustahkamlaydi",
+      "options": [
+        "Sport musobaqalarini bayramona shaklda o‘tkazadi",
+        "O‘quvchilarni guruhlarga ajratishga yordam beradi",
+        "Tadbirlar sonini reja asosida ko‘paytiradi",
+        "Salomatlik va faol turmush tarzini mustahkamlaydi"
+      ]
+    },
+    {
+      "question": "Maktabda sport infratuzilmasini yaxshilash qanday natija beradi?",
+      "correctAnswer": "Mashg‘ulotlarni sifatli va xavfsiz tashkil etishga yordam beradi",
+      "options": [
+        "Sport bayramlari uchun badiiy sharoit yaratadi",
+        "Mashg‘ulotlarni sifatli va xavfsiz tashkil etishga yordam beradi",
+        "O‘quvchilarning nazariy bilimini oshirishga xizmat qiladi",
+        "Musobaqa natijalarini tezroq rasmiylashtiradi"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya va sportni rivojlantirishda pedagoglarning malakasini oshirish nima uchun zarur?",
+      "correctAnswer": "Zamonaviy metodlar asosida mashg‘ulot o‘tish uchun",
+      "options": [
+        "Sport bayramlarida chiqishlar sonini ko‘paytirish uchun",
+        "O‘quvchilarni musobaqaga tezroq saralash uchun",
+        "Zamonaviy metodlar asosida mashg‘ulot o‘tish uchun",
+        "Hujjatlarni to‘g‘ri rasmiylashtirishni kuchaytirish uchun"
+      ]
+    },
+    {
+      "question": "Yoshlarni sportga jalb etishda targ‘ibot-tashviqot tadbirlarining ahamiyati nimada?",
+      "correctAnswer": "Sportga qiziqish va faol ishtirokni kuchaytiradi",
+      "options": [
+        "Sportga qiziqish va faol ishtirokni kuchaytiradi",
+        "Jamoalar o‘rtasida baholash mezonini yaratadi",
+        "O‘quvchilarning bo‘sh vaqtini nazorat qiladi",
+        "Musobaqalarning tashkiliy tartibini belgilaydi"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya va sport tadbirlarining samaradorligi qanday baholanadi?",
+      "correctAnswer": "Faollik, qiziqish va salomatlikka ta’siri orqali",
+      "options": [
+        "Faollik, qiziqish va salomatlikka ta’siri orqali",
+        "Dasturdagi chiqishlar davomiyligi orqali",
+        "Tomoshabinlarning umumiy joylashuvi orqali",
+        "Tadbirda ishlatilgan jihozlar soni orqali"
+      ]
+    },
+    {
+      "question": "Jismoniy tayyorgarlikning asosiy ahamiyati nimada?",
+      "correctAnswer": "Harakat imkoniyatlari va sog‘lom rivojlanishni oshirishda",
+      "options": [
+        "Darsdan tashqari faoliyatni rejalashda",
+        "Mashg‘ulot tartibini umumiy baholashda",
+        "Sport texnikasini nazariy tushuntirishda",
+        "Harakat imkoniyatlari va sog‘lom rivojlanishni oshirishda"
+      ]
+    },
+    {
+      "question": "Jismoniy tayyorgarlik inson organizmiga qanday ta’sir ko‘rsatadi?",
+      "correctAnswer": "Yurak, nafas olish va tayanch-harakat tizimini yaxshilaydi",
+      "options": [
+        "Harakat faoliyatining tashkiliy tomonini kuchaytiradi",
+        "Sport natijalarini qisqa muddatda baholaydi",
+        "Yurak, nafas olish va tayanch-harakat tizimini yaxshilaydi",
+        "Mashg‘ulot mazmunini nazariy jihatdan boyitadi"
+      ]
+    },
+    {
+      "question": "Umumiy jismoniy tayyorgarlik deganda nima tushuniladi?",
+      "correctAnswer": "Asosiy jismoniy sifatlarni har tomonlama rivojlantirish",
+      "options": [
+        "Mashg‘ulotdan keyingi tiklanish tartibini belgilash",
+        "Bir sport turiga xos texnikani chuqur o‘rganish",
+        "Asosiy jismoniy sifatlarni har tomonlama rivojlantirish",
+        "Musobaqa natijalarini muntazam qayd etish"
+      ]
+    },
+    {
+      "question": "Maxsus jismoniy tayyorgarlikning vazifasi nimadan iborat?",
+      "correctAnswer": "Sport turiga xos sifat va ko‘nikmalarni rivojlantirish",
+      "options": [
+        "Sport turiga xos sifat va ko‘nikmalarni rivojlantirish",
+        "Darsdan tashqari mashqlarni umumiy rejalashtirish",
+        "Mashg‘ulot jarayonini sog‘lomlashtirish bilan bog‘lash",
+        "O‘quvchilarning umumiy faolligini kuzatib borish"
+      ]
+    },
+    {
+      "question": "Jismoniy tayyorgarlik muntazam olib borilsa, qanday natija beradi?",
+      "correctAnswer": "Ish qobiliyati va moslashuvchanlik ortadi",
+      "options": [
+        "Sport tadbirlariga tayyorgarlik rasmiylashadi",
+        "Mashg‘ulot vaqti qisqa muddatga kamayadi",
+        "Ish qobiliyati va moslashuvchanlik ortadi",
+        "Nazariy bilimlarni eslab qolish kuchayadi"
+      ]
+    },
+    {
+      "question": "Kuch sifatining rivojlanishi nimaga yordam beradi?",
+      "correctAnswer": "Qarshilikni yengish va harakatni samarali bajarishga",
+      "options": [
+        "Uzoq masofalarda bir maromda harakatlanishga",
+        "Mashg‘ulotdan keyingi tiklanishni nazorat qilishga",
+        "Qarshilikni yengish va harakatni samarali bajarishga",
+        "Sport o‘yinlarida qoidalarni tezroq tushunishga"
+      ]
+    },
+    {
+      "question": "Chidamlilik jismoniy tayyorgarlikda qanday ahamiyatga ega?",
+      "correctAnswer": "Uzoq faoliyatda ish qobiliyatini saqlashga yordam beradi",
+      "options": [
+        "Murakkab texnikani estetik bajarishga ko‘maklashadi",
+        "Bo‘g‘imlar harakatchanligini kengaytirishga xizmat qiladi",
+        "Uzoq faoliyatda ish qobiliyatini saqlashga yordam beradi",
+        "Harakatlarni qisqa vaqtda tez bajarishni ta’minlaydi"
+      ]
+    },
+    {
+      "question": "Tezkorlik sifatini rivojlantirish qaysi imkoniyatni kuchaytiradi?",
+      "correctAnswer": "Harakatni qisqa vaqtda bajarish qobiliyatini",
+      "options": [
+        "Mashg‘ulotdan keyingi dam olishni tashkil etishni",
+        "Harakatni qisqa vaqtda bajarish qobiliyatini",
+        "Uzoq davom etadigan yuklamaga chidashni",
+        "Mushaklarni sekin va nazoratli ishlatishni"
+      ]
+    },
+    {
+      "question": "Egiluvchanlikning jismoniy tayyorgarlikdagi o‘rni qanday?",
+      "correctAnswer": "Harakatlarni erkin bajarishga yordam beradi",
+      "options": [
+        "Yurak urish tezligini boshqarishga xizmat qiladi",
+        "Tezkor qaror qabul qilishni kuchaytiradi",
+        "Harakatlarni erkin bajarishga yordam beradi",
+        "Sport natijalarini yozma tahlil qilishni yengillashtiradi"
+      ]
+    },
+    {
+      "question": "Jismoniy tayyorgarlikni baholash nima uchun zarur?",
+      "correctAnswer": "Rivojlanish darajasini aniqlash va mashg‘ulotni rejalash uchun",
+      "options": [
+        "Dars mazmunini nazariy savollar bilan to‘ldirish uchun",
+        "Mashg‘ulotni musobaqa shaklida tashkil qilish uchun",
+        "Rivojlanish darajasini aniqlash va mashg‘ulotni rejalash uchun",
+        "O‘quvchilarni sport turlariga tasodifiy ajratish uchun"
+      ]
+    },
+    {
+      "question": "Jismoniy mashqlarning gigiyenik ta’siri deganda nima tushuniladi?",
+      "correctAnswer": "Salomatlikni mustahkamlovchi va ish qobiliyatini oshiruvchi ta’sir",
+      "options": [
+        "Salomatlikni mustahkamlovchi va ish qobiliyatini oshiruvchi ta’sir",
+        "Mashg‘ulot joyini bezatish va jihozlarni saqlash tartibi",
+        "Harakatli faoliyatni tashkiliy suhbatlar bilan boyitish usuli",
+        "Sport kiyimlari va anjomlarini ro‘yxatga olish jarayoni"
+      ]
+    },
+    {
+      "question": "Jismoniy mashqlar yurak-qon tomir tizimiga qanday ta’sir qiladi?",
+      "correctAnswer": "Qon aylanishini yaxshilab, yurak faoliyatini faollashtiradi",
+      "options": [
+        "Mushaklarning bo‘shashish jarayonini tezlashtiradi",
+        "Qon aylanishini yaxshilab, yurak faoliyatini faollashtiradi",
+        "Mashg‘ulotdan keyingi dam olish vaqtini belgilaydi",
+        "Nafas olish chuqurligini asosiy nazorat mezoniga aylantiradi"
+      ]
+    },
+    {
+      "question": "Jismoniy mashqlar nafas olish tizimiga qanday foyda beradi?",
+      "correctAnswer": "O‘pka faoliyati va kislorod ta’minotini yaxshilaydi",
+      "options": [
+        "O‘pka faoliyati va kislorod ta’minotini yaxshilaydi",
+        "Sport jihozlaridan foydalanish tartibini belgilaydi",
+        "Harakat texnikasini nazariy jihatdan tushuntiradi",
+        "Mushak kuchini qisqa muddatda baholashga yordam beradi"
+      ]
+    },
+    {
+      "question": "Gigiyenik jihatdan to‘g‘ri tashkil etilgan mashg‘ulotlarda nimalar hisobga olinadi?",
+      "correctAnswer": "Joy, havo, kiyim, yuklama va xavfsizlik talablari",
+      "options": [
+        "Ishtirokchilarning musobaqadagi o‘rinlari va baholari",
+        "Mashqlarni bajarishdagi tashkiliy bezaklar",
+        "Joy, havo, kiyim, yuklama va xavfsizlik talablari",
+        "Darsdan keyingi yozma topshiriqlar hajmi"
+      ]
+    },
+    {
+      "question": "Jismoniy mashqlar modda almashinuviga qanday ta’sir ko‘rsatadi?",
+      "correctAnswer": "Energiya sarfi va almashinuv jarayonlarini faollashtiradi",
+      "options": [
+        "Mashg‘ulot vaqtidagi tashkiliy tartibni kuchaytiradi",
+        "Energiya sarfi va almashinuv jarayonlarini faollashtiradi",
+        "Sport natijalarini rasmiy baholash imkonini beradi",
+        "Harakatlarni bir xil sur’atda bajarishga yordam beradi"
+      ]
+    },
+    {
+      "question": "Muntazam jismoniy mashqlar asab tizimiga qanday ta’sir qiladi?",
+      "correctAnswer": "Diqqat, harakat boshqaruvi va ruhiy barqarorlikni yaxshilaydi",
+      "options": [
+        "Musobaqa qoidalarini tezroq o‘zlashtirishga yordam beradi",
+        "Mushak kuchini yagona asosiy ko‘rsatkich sifatida belgilaydi",
+        "Diqqat, harakat boshqaruvi va ruhiy barqarorlikni yaxshilaydi",
+        "Sport jihozlari bilan ishlash malakasini oshiradi"
+      ]
+    },
+    {
+      "question": "Jismoniy mashqlar gigiyenik samarador bo‘lishi uchun yuklama qanday tanlanadi?",
+      "correctAnswer": "Yosh, sog‘liq va tayyorgarlik darajasiga mos tanlanadi",
+      "options": [
+        "Barcha ishtirokchilarga bir xil tartibda belgilanadi",
+        "Mashg‘ulot davomida dam olishsiz bajariladi",
+        "O‘quvchilar soniga qarab tasodifiy taqsimlanadi",
+        "Yosh, sog‘liq va tayyorgarlik darajasiga mos tanlanadi"
+      ]
+    },
+    {
+      "question": "Mashg‘ulot vaqtida toza havo va shamollatish nima uchun muhim?",
+      "correctAnswer": "Kislorod ta’minotini yaxshilab, charchoqni kamaytiradi",
+      "options": [
+        "Harakatlar sonini ko‘paytirishga sharoit yaratadi",
+        "Sport jihozlarini almashtirish tartibini belgilaydi",
+        "Mashg‘ulot joyining tashqi ko‘rinishini yaxshilaydi",
+        "Kislorod ta’minotini yaxshilab, charchoqni kamaytiradi"
+      ]
+    },
+    {
+      "question": "Jismoniy mashqlar immunitetga qanday ta’sir ko‘rsatishi mumkin?",
+      "correctAnswer": "Kasalliklarga qarshi chidamlilikni oshirishga yordam beradi",
+      "options": [
+        "Kasalliklarga qarshi chidamlilikni oshirishga yordam beradi",
+        "Harakat faolligini dam olish bilan tenglashtiradi",
+        "Mashg‘ulot jarayonida nazoratni kamaytiradi",
+        "Tiklanish vaqtini rejasiz tashkil etishga imkon beradi"
+      ]
+    },
+    {
+      "question": "Mashg‘ulotdan keyingi dam olish va tiklanish nima uchun zarur?",
+      "correctAnswer": "Charchoqni kamaytirib, keyingi yuklamaga tayyorlaydi",
+      "options": [
+        "Mashg‘ulot natijalarini umumiy tarzda yakunlash uchun",
+        "Jismoniy tayyorgarlikni baholashni almashtirish uchun",
+        "Sport mashqlarini uzluksiz davom ettirish uchun",
+        "Charchoqni kamaytirib, keyingi yuklamaga tayyorlaydi"
+      ]
+    },
+    {
+      "question": "Bayramlarni tashkil qilishda dastlab qaysi ish amalga oshiriladi?",
+      "correctAnswer": "Bayramning maqsadi, mavzusi, ishtirokchilari va joyi aniqlanadi",
+      "options": [
+        "Bayramning maqsadi, mavzusi, ishtirokchilari va joyi aniqlanadi",
+        "Tadbir yakunidagi rag‘batlantirish shakli belgilanadi",
+        "Bayram dasturi jarayonda moslashtirib boriladi",
+        "Ishtirokchilar chiqish tartibiga qarab joylashtiriladi"
+      ]
+    },
+    {
+      "question": "Bayram dasturini tuzishda nimalarga e’tibor berish kerak?",
+      "correctAnswer": "Tadbir mazmuni yosh, vaqt va tarbiyaviy maqsadga mos bo‘lishiga",
+      "options": [
+        "Chiqishlar bir xil shaklda tartibli takrorlanishiga",
+        "Bayramda rasmiy qismning kengroq yoritilishiga",
+        "Dasturda tomoshabinlar soni asosiy mezon bo‘lishiga",
+        "Tadbir mazmuni yosh, vaqt va tarbiyaviy maqsadga mos bo‘lishiga"
+      ]
+    },
+    {
+      "question": "Bayramni o‘tkazish joyini tayyorlashda qaysi talab muhim hisoblanadi?",
+      "correctAnswer": "Maydon yoki zalning xavfsizligi, tozaligi va jihozlarning qulay joylashuvi",
+      "options": [
+        "Maydon yoki zalning xavfsizligi, tozaligi va jihozlarning qulay joylashuvi",
+        "Bezaklar va ko‘rgazmali vositalarning ko‘proq bo‘lishi",
+        "Tomoshabinlar joyining tadbir boshlanishida belgilanib borilishi",
+        "Harakat yo‘laklaridan turli jihozlar uchun foydalanilishi"
+      ]
+    },
+    {
+      "question": "Bayramlarda xavfsizlik qoidalariga amal qilishning asosiy sababi nima?",
+      "correctAnswer": "Ishtirokchilar sog‘lig‘ini himoya qilish va tadbirni tartibli o‘tkazish",
+      "options": [
+        "Ishtirokchilar sog‘lig‘ini himoya qilish va tadbirni tartibli o‘tkazish",
+        "Tadbir natijalarini umumiy kuzatuv asosida baholash",
+        "Bayramning badiiy qismini yanada mazmunli tashkil etish",
+        "O‘quvchilarning chiqish tartibini tezroq yakunlash"
+      ]
+    },
+    {
+      "question": "Bayram tashkilotchisining asosiy vazifasi nimadan iborat?",
+      "correctAnswer": "Tadbirni reja asosida boshqarish va tartibni ta’minlash",
+      "options": [
+        "Tadbirni reja asosida boshqarish va tartibni ta’minlash",
+        "Tomoshabinlar faolligiga qarab dasturga o‘zgartirish kiritish",
+        "Tadbir jarayonida qo‘shimcha chiqishlar tanlash",
+        "O‘quvchilarning mustaqil harakatini kengaytirish"
+      ]
+    },
+    {
+      "question": "Bayramlarda ishtirokchilarni guruhlarga ajratishda qaysi mezonlar hisobga olinadi?",
+      "correctAnswer": "Yosh, jismoniy imkoniyat, tayyorgarlik darajasi va tadbir mazmuni",
+      "options": [
+        "Tomoshabinlar taklifi va maydondagi bo‘sh joylar",
+        "Yosh, jismoniy imkoniyat, tayyorgarlik darajasi va tadbir mazmuni",
+        "Kiyim rangi, bo‘y uzunligi va safdagi joylashuv tartibi",
+        "Guruh nomlarining mazmuni va bayram mavzusiga yaqinligi"
+      ]
+    },
+    {
+      "question": "Bayram davomida musiqa va badiiy chiqishlardan foydalanish nimaga xizmat qiladi?",
+      "correctAnswer": "Tadbirning emotsional ta’sirini kuchaytirish va bayramona muhit yaratishga",
+      "options": [
+        "Tadbirning emotsional ta’sirini kuchaytirish va bayramona muhit yaratishga",
+        "Ishtirokchilarning chiqish vaqtini tartibga solishga",
+        "Hakamlik vazifalarini soddalashtirishga",
+        "Sport mashqlarini qisqartirib, badiiy qismni kengaytirishga"
+      ]
+    },
+    {
+      "question": "Bayram jarayonida vaqtni to‘g‘ri taqsimlash nima uchun zarur?",
+      "correctAnswer": "Tadbirning reja asosida, tartibli va charchoqsiz o‘tishini ta’minlash uchun",
+      "options": [
+        "O‘yinlar orasidagi tanaffuslarni qisqartirib borish uchun",
+        "Yakuniy qismni vaziyatga qarab tashkil etish uchun",
+        "Har bir bosqichni batafsil va uzoqroq davom ettirish uchun",
+        "Tadbirning reja asosida, tartibli va charchoqsiz o‘tishini ta’minlash uchun"
+      ]
+    },
+    {
+      "question": "Bayram yakunida ishtirokchilarni rag‘batlantirish qanday ahamiyatga ega?",
+      "correctAnswer": "O‘quvchilarda ijobiy taassurot, ishonch va qiziqishni oshiradi",
+      "options": [
+        "Musobaqa natijalarini umumiy tarzda yakunlashga yordam beradi",
+        "Tadbirning tashkiliy qismini rasmiylashtirishga xizmat qiladi",
+        "O‘quvchilarda ijobiy taassurot, ishonch va qiziqishni oshiradi",
+        "Ishtirokchilar o‘rtasida raqobat muhitini kuchaytiradi"
+      ]
+    },
+    {
+      "question": "Bayramdan keyingi tahlil qilish ishlarining vazifasi nimadan iborat?",
+      "correctAnswer": "Tadbirning yutuq va kamchiliklarini aniqlab, keyingi ishlarni yaxshilash",
+      "options": [
+        "Ishtirokchilar fikrini umumiy xulosa bilan almashtirish",
+        "Rejani keyingi tadbirlar uchun o‘zgarishsiz saqlab qolish",
+        "Keyingi bayramni oldingi tartib asosida takrorlash",
+        "Tadbirning yutuq va kamchiliklarini aniqlab, keyingi ishlarni yaxshilash"
+      ]
+    },
+    {
+      "question": "O‘quvchilarni sport bayramlariga psixologik tayyorlashning asosiy maqsadi nima?",
+      "correctAnswer": "Ularda ishonch, qiziqish, faollik va ijobiy emotsional holatni shakllantirish",
+      "options": [
+        "O‘quvchilarni natijalariga qarab guruhlarga ajratish",
+        "Harakatli faoliyatni tushuntirish ishlari bilan boyitish",
+        "Ularda ishonch, qiziqish, faollik va ijobiy emotsional holatni shakllantirish",
+        "Tadbirni musobaqaviy nazorat shaklida tashkil etish"
+      ]
+    },
+    {
+      "question": "Pedagog sport bayrami oldidan o‘quvchilarda hayajonni kamaytirish uchun nima qiladi?",
+      "correctAnswer": "Vazifalarni sodda tushuntiradi, ruhlantiradi va qulay muloqot yaratadi",
+      "options": [
+        "Topshiriqlarni bosqichma-bosqich murakkablashtiradi",
+        "Vazifalarni sodda tushuntiradi, ruhlantiradi va qulay muloqot yaratadi",
+        "Xatolarni tahlil qilib, kuchli tomonlarga urg‘u beradi",
+        "Natijalarni oldindan muhokama qilib, raqobatni oshiradi"
+      ]
+    },
+    {
+      "question": "Sport bayramiga tayyorgarlikda pedagogik rag‘batlantirish qanday rol o‘ynaydi?",
+      "correctAnswer": "O‘quvchilarning o‘ziga ishonchini oshiradi va faol ishtirokga undaydi",
+      "options": [
+        "Mashg‘ulotdagi tartib-qoidalarni yumshatishga xizmat qiladi",
+        "O‘quvchilar o‘rtasida raqobat muhitini shakllantiradi",
+        "O‘quvchilarning o‘ziga ishonchini oshiradi va faol ishtirokga undaydi",
+        "Jamoaviy faoliyatni individual topshiriqlar bilan to‘ldiradi"
+      ]
+    },
+    {
+      "question": "Tortinchoq o‘quvchilarni sport bayramiga jalb qilishda pedagog qanday yondashadi?",
+      "correctAnswer": "Ularni asta-sekin faoliyatga qo‘shadi va qo‘llab-quvvatlaydi",
+      "options": [
+        "Ularni asta-sekin faoliyatga qo‘shadi va qo‘llab-quvvatlaydi",
+        "Ularni kuzatuvchi sifatida bosqichma-bosqich tayyorlaydi",
+        "Boshqa o‘quvchilarning tajribasidan namuna sifatida foydalanadi",
+        "Murakkab mashqlar orqali qiziqishini oshirishga harakat qiladi"
+      ]
+    },
+    {
+      "question": "Pedagogning sport bayrami oldidan tushuntirish ishlari olib borishi nima uchun muhim?",
+      "correctAnswer": "O‘quvchilar qoidalar, vazifalar va tadbir tartibini aniq tushunib olishlari uchun",
+      "options": [
+        "Mashqlarni baholash mezonlarini bosqichma-bosqich tushuntirish uchun",
+        "Ishtirokchilarni musobaqa sharoitiga yaqinlashtirish uchun",
+        "O‘quvchilar qoidalar, vazifalar va tadbir tartibini aniq tushunib olishlari uchun",
+        "Bayram jarayonida o‘quvchilarning mustaqilligini oshirish uchun"
+      ]
+    },
+    {
+      "question": "Psixologik tayyorgarlikda jamoaviy mashqlardan foydalanishning ahamiyati nimada?",
+      "correctAnswer": "Hamkorlik, o‘zaro yordam va mas’uliyat hissini rivojlantiradi",
+      "options": [
+        "Tadbir jarayonida intizomni nazorat qilishni yengillashtiradi",
+        "Hamkorlik, o‘zaro yordam va mas’uliyat hissini rivojlantiradi",
+        "O‘quvchilarni alohida topshiriqlar orqali faollashtiradi",
+        "Bayramda ishtirok etish tartibini soddalashtiradi"
+      ]
+    },
+    {
+      "question": "Sport bayramida o‘quvchilarning o‘ziga ishonchini oshirish uchun pedagog nima qilishi kerak?",
+      "correctAnswer": "Har bir bolaning muvaffaqiyatini e’tirof etib, ijobiy fikr bildirishi kerak",
+      "options": [
+        "Xatolarni baholash mezoni sifatida alohida tahlil qilishi kerak",
+        "O‘quvchilarning fikrlarini umumiy xulosa bilan cheklashi kerak",
+        "Har bir bolaning muvaffaqiyatini e’tirof etib, ijobiy fikr bildirishi kerak",
+        "Mashqlarni murakkablashtirib, o‘quvchilarni sinab borishi kerak"
+      ]
+    },
+    {
+      "question": "Ota-onalar bilan hamkorlik sport bayramiga psixologik tayyorgarlikda nima uchun zarur?",
+      "correctAnswer": "Bolaga uyda va maktabda ruhiy qo‘llab-quvvatlash muhitini yaratish uchun",
+      "options": [
+        "Ishtirokchilarning sport natijalarini oldindan baholash uchun",
+        "Pedagogning tashkiliy vazifalarini yengillashtirish uchun",
+        "Bolaga uyda va maktabda ruhiy qo‘llab-quvvatlash muhitini yaratish uchun",
+        "Bayram dasturini ota-onalar bilan birgalikda tanlash uchun"
+      ]
+    },
+    {
+      "question": "Sport bayrami jarayonida pedagog o‘quvchilar emotsional holatini qanday nazorat qiladi?",
+      "correctAnswer": "Ularning kayfiyati, charchashi, hayajoni va faolligini kuzatib boradi",
+      "options": [
+        "O‘quvchilar o‘rtasidagi muloqotni tartibga solib boradi",
+        "Ularning kayfiyati, charchashi, hayajoni va faolligini kuzatib boradi",
+        "Natijalarni tomoshabinlar munosabati asosida tahlil qiladi",
+        "Har bir harakatni alohida topshiriq sifatida baholaydi"
+      ]
+    },
+    {
+      "question": "Sport bayramidan keyin pedagogning ijobiy xulosa qilishi nimaga xizmat qiladi?",
+      "correctAnswer": "Sportga qiziqish, o‘ziga ishonch va kelgusi motivatsiyani mustahkamlaydi",
+      "options": [
+        "Tadbirda uchragan kamchiliklarni keyingi darsda muhokama qiladi",
+        "Natijasi past o‘quvchilar bilan alohida ishlashni belgilaydi",
+        "Sportga qiziqish, o‘ziga ishonch va kelgusi motivatsiyani mustahkamlaydi",
+        "Keyingi mashg‘ulotlarda jamoaviy faoliyatni qayta rejalashtiradi"
+      ]
+    },
+    {
+      "question": "O‘zbekiston mustaqilligi mamlakat taraqqiyotida qanday ahamiyat kasb etdi?",
+      "correctAnswer": "Mustaqil taraqqiyot yo‘lini tanlash imkonini berdi",
+      "options": [
+        "Ta’lim va madaniyat ishlarini kuchaytirdi",
+        "Mahalliy boshqaruv faoliyatini faollashtirdi",
+        "Mustaqil taraqqiyot yo‘lini tanlash imkonini berdi",
+        "Ijtimoiy sohalarni tartibga solishga yordam berdi"
+      ]
+    },
+    {
+      "question": "Mustaqillikdan keyingi davlat siyosatining muhim yo‘nalishi qaysi?",
+      "correctAnswer": "Huquqiy demokratik davlat barpo etish",
+      "options": [
+        "Mahalliy ishlab chiqarishni rivojlantirish",
+        "Ijtimoiy himoya tizimini kuchaytirish",
+        "Huquqiy demokratik davlat barpo etish",
+        "Iqtisodiy boshqaruvni takomillashtirish"
+      ]
+    },
+    {
+      "question": "Mustaqillik yillarida iqtisodiy islohotlar nimaga qaratildi?",
+      "correctAnswer": "Bozor munosabatlarini rivojlantirishga",
+      "options": [
+        "Bozor munosabatlarini rivojlantirishga",
+        "Madaniy faollikni oshirishga",
+        "Ta’lim dasturlarini yangilashga",
+        "Davlat boshqaruvini zamonaviylashtirishga"
+      ]
+    },
+    {
+      "question": "O‘zbekiston taraqqiyotida ta’lim tizimining o‘rni qanday?",
+      "correctAnswer": "Malakali kadrlar tayyorlashga xizmat qiladi",
+      "options": [
+        "Fuqarolik faolligini qo‘llab-quvvatlaydi",
+        "Ijtimoiy barqarorlikni mustahkamlaydi",
+        "Malakali kadrlar tayyorlashga xizmat qiladi",
+        "Milliy qadriyatlarni targ‘ib qiladi"
+      ]
+    },
+    {
+      "question": "“Inson qadri” tamoyilining mazmuni nimadan iborat?",
+      "correctAnswer": "Fuqaro manfaatini ustuvor qo‘yish",
+      "options": [
+        "Ma’naviy tarbiyani kuchaytirish",
+        "Fuqaro manfaatini ustuvor qo‘yish",
+        "Huquqiy madaniyatni rivojlantirish",
+        "Yoshlar faolligini qo‘llab-quvvatlash"
+      ]
+    },
+    {
+      "question": "Mustaqillik davrida milliy qadriyatlarga e’tibor kuchayishining sababi nima?",
+      "correctAnswer": "Tarixiy xotira va merosni tiklash zarurati",
+      "options": [
+        "Madaniy tadbirlarni tizimli tashkil qilish",
+        "Yoshlarni ijtimoiy hayotga jalb etish",
+        "Tarixiy xotira va merosni tiklash zarurati",
+        "Ta’limdagi tarbiyaviy ishlarni kengaytirish"
+      ]
+    },
+    {
+      "question": "O‘zbekistonning istiqbol yo‘llarida yoshlar siyosati qanday o‘rin tutadi?",
+      "correctAnswer": "Barkamol avlodni tarbiyalashga xizmat qiladi",
+      "options": [
+        "Barkamol avlodni tarbiyalashga xizmat qiladi",
+        "Ta’limni zamonaviy talablar bilan bog‘laydi",
+        "Mahalliy tashabbuslarni qo‘llab-quvvatlaydi",
+        "Ijtimoiy muhit barqarorligini kuchaytiradi"
+      ]
+    },
+    {
+      "question": "Mustaqil O‘zbekiston tashqi siyosatida qaysi yo‘nalish muhim hisoblanadi?",
+      "correctAnswer": "O‘zaro manfaatli hamkorlikni rivojlantirish",
+      "options": [
+        "Fuqarolarning huquqiy madaniyatini oshirish",
+        "Davlat boshqaruvini bosqichma-bosqich yangilash",
+        "O‘zaro manfaatli hamkorlikni rivojlantirish",
+        "Ichki iqtisodiy imkoniyatlardan foydalanish"
+      ]
+    },
+    {
+      "question": "Taraqqiyot strategiyalari qanday vazifani bajaradi?",
+      "correctAnswer": "Islohotlarning ustuvor yo‘nalishini belgilaydi",
+      "options": [
+        "Yoshlar tashabbuslarini qo‘llab-quvvatlaydi",
+        "Ma’rifiy ishlarni tartibga soladi",
+        "Islohotlarning ustuvor yo‘nalishini belgilaydi",
+        "Ta’lim jarayonining mazmunini yangilaydi"
+      ]
+    },
+    {
+      "question": "Mustaqil taraqqiyotda ijtimoiy barqarorlik nima uchun zarur?",
+      "correctAnswer": "Hamjihatlik va ishonch muhitini ta’minlash uchun",
+      "options": [
+        "Ta’lim-tarbiya ishlarini samarali yuritish uchun",
+        "Mahalliy boshqaruv faoliyatini yaxshilash uchun",
+        "Yoshlarning bo‘sh vaqtini mazmunli tashkil etish uchun",
+        "Hamjihatlik va ishonch muhitini ta’minlash uchun"
+      ]
+    },
+    {
+      "question": "Sport trenirovkasining tuzilishi deganda nima tushuniladi?",
+      "correctAnswer": "Mashg‘ulotning bosqichma-bosqich rejalashtirilishi",
+      "options": [
+        "Mashg‘ulotning bosqichma-bosqich rejalashtirilishi",
+        "Sportchining musobaqadagi harakatlarini baholash",
+        "Mashqlarni texnik usullar bilan bog‘lash",
+        "Yuklama va nazorat usullarini qo‘llash"
+      ]
+    },
+    {
+      "question": "Tayyorlov bosqichining asosiy vazifasi nimadan iborat?",
+      "correctAnswer": "Umumiy va maxsus tayyorgarlikni shakllantirish",
+      "options": [
+        "Musobaqadagi taktik harakatlarni baholash",
+        "Texnik usullarni musobaqada sinab ko‘rish",
+        "Mashg‘ulot natijalarini tahlil qilish",
+        "Umumiy va maxsus tayyorgarlikni shakllantirish"
+      ]
+    },
+    {
+      "question": "Umumiy jismoniy tayyorgarlikda qaysi sifatlar rivojlantiriladi?",
+      "correctAnswer": "Kuch, chidamlilik, tezkorlik va egiluvchanlik",
+      "options": [
+        "Texnik mahorat, taktika va kuzatuvchanlik",
+        "Kuch, chidamlilik, tezkorlik va egiluvchanlik",
+        "Sport intizomi, start holati va hakamlik",
+        "Musobaqa tajribasi va ruhiy barqarorlik"
+      ]
+    },
+    {
+      "question": "Maxsus tayyorgarlik bosqichining mazmuni nimaga bog‘liq?",
+      "correctAnswer": "Sport turining texnik va jismoniy talablariga",
+      "options": [
+        "Sportchining umumiy madaniy tayyorgarligiga",
+        "Musobaqa joyi va vaqt sharoitlariga",
+        "Sport turining texnik va jismoniy talablariga",
+        "Tiklanish vositalari va dam olish tartibiga"
+      ]
+    },
+    {
+      "question": "Musobaqa bosqichida trenirovka qanday maqsadga yo‘naltiriladi?",
+      "correctAnswer": "Sport formasini saqlash va natija ko‘rsatishga",
+      "options": [
+        "Umumiy jismoniy sifatlarni keng rivojlantirishga",
+        "Yangi texnik elementlarni dastlab o‘rganishga",
+        "Sport formasini saqlash va natija ko‘rsatishga",
+        "Tiklanish mashqlarini asosiy vositaga aylantirishga"
+      ]
+    },
+    {
+      "question": "O‘tish bosqichi sportchi uchun nima maqsadda qo‘llaniladi?",
+      "correctAnswer": "Tiklanish va keyingi tayyorgarlikka o‘tish uchun",
+      "options": [
+        "Texnik harakatlarni murakkab sharoitda baholash uchun",
+        "Musobaqa yuklamasini yuqori darajada oshirish uchun",
+        "Maxsus mashqlar hajmini ko‘paytirish uchun",
+        "Tiklanish va keyingi tayyorgarlikka o‘tish uchun"
+      ]
+    },
+    {
+      "question": "Trenirovkada yuklama va dam olish uyg‘unligi nima uchun muhim?",
+      "correctAnswer": "Moslashuv va tiklanishni ta’minlash uchun",
+      "options": [
+        "Texnik usullarni musobaqada sinash uchun",
+        "Mashg‘ulot mazmunini boyitish uchun",
+        "Moslashuv va tiklanishni ta’minlash uchun",
+        "Taktik fikrlashni baholash uchun"
+      ]
+    },
+    {
+      "question": "Texnik tayyorgarlik sportchida nimani shakllantiradi?",
+      "correctAnswer": "Harakatlarni to‘g‘ri va samarali bajarishni",
+      "options": [
+        "Musobaqada ruhiy barqarorlikni saqlashni",
+        "Mashg‘ulot yuklamasini taqsimlashni",
+        "Harakatlarni to‘g‘ri va samarali bajarishni",
+        "Jismoniy sifatlarni umumiy rivojlantirishni"
+      ]
+    },
+    {
+      "question": "Taktik tayyorgarlikning asosiy vazifasi nimadan iborat?",
+      "correctAnswer": "Musobaqada to‘g‘ri qaror qabul qilishni o‘rgatish",
+      "options": [
+        "Texnik harakatlarni oddiy sharoitda takrorlash",
+        "Musobaqada to‘g‘ri qaror qabul qilishni o‘rgatish",
+        "Umumiy chidamlilikni oshirishga yordam berish",
+        "Tiklanish jarayonini nazorat qilish"
+      ]
+    },
+    {
+      "question": "Trenirovka bosqichlarini to‘g‘ri rejalashtirish qanday natija beradi?",
+      "correctAnswer": "Sportchi tayyorgarligi izchil rivojlanadi",
+      "options": [
+        "Nazariy bilimlar tartibga solinadi",
+        "Texnik elementlar ko‘proq takrorlanadi",
+        "Sportchi tayyorgarligi izchil rivojlanadi",
+        "Musobaqani baholash imkoniyati kengayadi"
+      ]
+    },
+    {
+      "question": "O‘zbekistonda jismoniy tarbiya tizimining asosiy maqsadi nima?",
+      "correctAnswer": "Sog‘lom va faol avlodni tarbiyalash",
+      "options": [
+        "Sog‘lom va faol avlodni tarbiyalash",
+        "Yoshlarning bo‘sh vaqtini mazmunli tashkil etish",
+        "Sport musobaqalarini tizimli tashkil etish",
+        "Ta’lim muassasalarida dars sifatini oshirish"
+      ]
+    },
+    {
+      "question": "Maktabda jismoniy tarbiya darslari qanday vazifani bajaradi?",
+      "correctAnswer": "Harakat ko‘nikmalarini shakllantiradi",
+      "options": [
+        "Nazariy bilimlarni kengaytiradi",
+        "Sog‘lomlashtirish tadbirlarini rasmiylashtiradi",
+        "Harakat ko‘nikmalarini shakllantiradi",
+        "Sport musobaqalariga hakamlar tayyorlaydi"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya sohasidagi qonun va qarorlar nima uchun zarur?",
+      "correctAnswer": "Sohani huquqiy va tashkiliy tartibga solish uchun",
+      "options": [
+        "Musobaqalarda hakamlik jarayonini yengillashtirish uchun",
+        "Sport tadbirlarida ishtirokchilar sonini belgilash uchun",
+        "Maktab dars jadvalini to‘g‘ri taqsimlash uchun",
+        "Sohani huquqiy va tashkiliy tartibga solish uchun"
+      ]
+    },
+    {
+      "question": "Ommaviy sportni rivojlantirishning ahamiyati nimada?",
+      "correctAnswer": "Aholini muntazam jismoniy faollikka jalb etadi",
+      "options": [
+        "Aholini muntazam jismoniy faollikka jalb etadi",
+        "Ta’lim muassasalarida nazorat ishlarini kuchaytiradi",
+        "Sport jihozlaridan foydalanish tartibini belgilaydi",
+        "Sportchilarni musobaqalarga saralashni tezlashtiradi"
+      ]
+    },
+    {
+      "question": "Maktab sporti o‘quvchilarda qaysi sifatlarni rivojlantiradi?",
+      "correctAnswer": "Intizom, jamoaviylik va mas’uliyatni",
+      "options": [
+        "Kuzatuvchanlik, yozish va tahlilni",
+        "Baholash, rejalash va hujjatlashtirishni",
+        "Nazariy tafakkur, xotira va nutqni",
+        "Intizom, jamoaviylik va mas’uliyatni"
+      ]
+    },
+    {
+      "question": "Sport infratuzilmasini rivojlantirish nimaga xizmat qiladi?",
+      "correctAnswer": "Mashg‘ulotlarni sifatli tashkil etishga",
+      "options": [
+        "Mashg‘ulotlarni sifatli tashkil etishga",
+        "Musobaqa nizomlarini ishlab chiqishga",
+        "Dars mazmunini nazariy boyitishga",
+        "O‘quvchilar bilimini yozma baholashga"
+      ]
+    },
+    {
+      "question": "Milliy sport turlarini rivojlantirishning tarbiyaviy ahamiyati nimada?",
+      "correctAnswer": "Milliy qadriyatlarga hurmatni kuchaytiradi",
+      "options": [
+        "Sport musobaqalari sonini tartibga soladi",
+        "Milliy qadriyatlarga hurmatni kuchaytiradi",
+        "Texnik tayyorgarlikni baholashga yordam beradi",
+        "Darsdagi vaqt taqsimotini yaxshilaydi"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya tizimida mutaxassislar tayyorlash nima uchun muhim?",
+      "correctAnswer": "Mashg‘ulotlarni ilmiy-metodik olib borish uchun",
+      "options": [
+        "O‘quvchilar davomatini muntazam kuzatish uchun",
+        "Musobaqa natijalarini tezkor e’lon qilish uchun",
+        "Mashg‘ulotlarni ilmiy-metodik olib borish uchun",
+        "Sport tadbirlarini bayramona tashkil qilish uchun"
+      ]
+    },
+    {
+      "question": "Jismoniy tarbiya yoshlar tarbiyasiga qanday ta’sir ko‘rsatadi?",
+      "correctAnswer": "Sog‘lom, faol va irodali shaxsni shakllantiradi",
+      "options": [
+        "Tarbiyaviy suhbatlar mazmunini boyitadi",
+        "Darsdan tashqari tadbirlar sonini oshiradi",
+        "Sog‘lom, faol va irodali shaxsni shakllantiradi",
+        "Nazariy bilimlarni mustahkamlashga yordam beradi"
+      ]
+    },
+    {
+      "question": "Zamonaviy jismoniy tarbiya tizimini rivojlantirishda qaysi yo‘nalish muhim?",
+      "correctAnswer": "Ommaviy sport va sog‘lom turmush tarzini kengaytirish",
+      "options": [
+        "Musobaqalarda hakamlik faoliyatini alohida rejalashtirish",
+        "Ommaviy sport va sog‘lom turmush tarzini kengaytirish",
+        "Jismoniy tarbiya darslarida nazariy tushunchalarni ko‘paytirish",
+        "Sport bayramlari dasturini badiiy chiqishlar bilan boyitish"
+      ]
+    }
+  ]
+}

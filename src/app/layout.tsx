@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   title: "Quiz Platformasi - Bilimingizni sinab ko'ring",
   description: "Sport pedagogikasi va to'garaklarni tashkil qilish bo'yicha onlayn testlar platformasi.",
   icons: {
-    icon: "/icon.png",
+    icon: "/favicon.ico",
   },
 };
 

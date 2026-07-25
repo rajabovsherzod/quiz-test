@@ -53,7 +53,7 @@ def extract_questions_from_docx(docx_path):
 
 def main():
     base_dir = os.getcwd()
-    docx_dir = os.path.join(base_dir, 'test-docx')
+    docx_dir = os.path.join(base_dir, 'data')
     output_dir = os.path.join(base_dir, 'src', 'data')
     
     os.makedirs(output_dir, exist_ok=True)
@@ -72,6 +72,31 @@ def main():
             "pattern": "*Sport to'garaklarini*",
             "output": "quiz-togarak.json",
             "title": "1-Kurs Sport To'garaklarini Tashkil Qilish"
+        },
+        {
+            "pattern": "*Jismoniy tarbiya*",
+            "output": "quiz-jismoniy-tarbiya.json",
+            "title": "1-Kurs Jismoniy Tarbiya va Sport"
+        },
+        {
+            "pattern": "*Ilmiy tadqiqot*",
+            "output": "quiz-metodologiya.json",
+            "title": "1-Kurs Ilmiy Tadqiqot Metodologiyasi"
+        },
+        {
+            "pattern": "*Sport bayramlari*",
+            "output": "quiz-sport-bayramlari.json",
+            "title": "1-Kurs Sport Bayramlari"
+        },
+        {
+            "pattern": "*Tanlangan sport turlari*",
+            "output": "quiz-tanlangan-sport.json",
+            "title": "1-Kurs Tanlangan Sport Turlari Nazariyasi va Uslubiyoti"
+        },
+        {
+            "pattern": "*Yangi O'zbekiston taraqqiyot strategiyasi*",
+            "output": "quiz-taraqqiyot-strategiyasi.json",
+            "title": "1-Kurs Yangi O'zbekiston Taraqqiyot Strategiyasi"
         }
     ]
     
